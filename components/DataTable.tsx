@@ -1,5 +1,5 @@
 // components/DataTable.tsx
-type DataRow = { [key: string]: string | number };
+import { DataRow } from "../pages/api/dataset";
 
 interface DataTableProps {
   data: DataRow[];
@@ -11,7 +11,7 @@ export default function DataTable({ data }: DataTableProps) {
   const headers = Object.keys(data[0]);
 
   return (
-    <table border={1} cellPadding={5}>
+    <table border={1} cellPadding={5} style={{ borderCollapse: "collapse"}}>
       <thead>
         <tr>
           {headers.map((header) => (
@@ -23,7 +23,7 @@ export default function DataTable({ data }: DataTableProps) {
         {data.map((row, idx) => (
           <tr key={idx}>
             {headers.map((header) => (
-              <td key={header}>{row[header]}</td>
+              <td key={header}>{row[header as keyof DataRow]}</td>
             ))}
           </tr>
         ))}

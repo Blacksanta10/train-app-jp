@@ -3,8 +3,8 @@
 
 import { useEffect, useState } from "react";
 import DataTable from "../components/DataTable";
+import type { DataRow } from "../pages/api/dataset";
 
-type DataRow = { [key: string]: string | number };
 
 export default function HomePage() {
   const [data, setData] = useState<DataRow[]>([]);
@@ -18,10 +18,10 @@ export default function HomePage() {
 
   return (
     <div style={{ padding: "20px" }}>
-      <h1>Dataset Explorer</h1>
+      <h1>Shinkansen Station Explorer</h1>
       <input
         type="text"
-        placeholder="Search..."
+        placeholder="Search stations..."
         value={query}
         onChange={(e) => setQuery(e.target.value)}
         style={{ padding: "5px", marginBottom: "10px" }}
