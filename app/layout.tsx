@@ -8,6 +8,8 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
+import { Navbar, NavbarItem, NavbarSection} from "@/components/navbar"
+
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
@@ -45,17 +47,14 @@ export default function RootLayout({
           text-gray-900
           `}
       >
-        {/* Header for all pages */}
-        <header className="border-b bg-white shadow-sm">
-          <div className="mx-auto max-w-6xl px-4 py-4">
-            <h1 className="text-xl font-semibold tracking-tight">
-                Shinkansen Station Explorer
-            </h1>
-            <p className="text-sm text-gray-500">
-                Explore Japan's bullet train stations
-            </p>
-          </div>
-        </header>
+        {/* Navbar for all pages */}
+        <Navbar>
+          <NavbarSection>
+            <NavbarItem href="/">Home</NavbarItem>
+            <NavbarItem href="/events">Events</NavbarItem>
+            <NavbarItem href="/orders">Orders</NavbarItem>
+          </NavbarSection>
+        </Navbar>
 
 
         {/* Main content area (page.tsx renders) */}
