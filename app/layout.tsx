@@ -8,7 +8,12 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
-import { Navbar, NavbarItem, NavbarSection} from "@/components/navbar"
+// Navbar components
+import { Navbar, NavbarItem, NavbarSection, NavbarDivider} from "@/components/navbar"
+
+//Logo components
+import { Logo } from "@/components/logo";
+import Link from "next/link";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -49,6 +54,12 @@ export default function RootLayout({
       >
         {/* Navbar for all pages */}
         <Navbar>
+          <Link href="/" aria-label="Home">
+            <Logo className="size-10 sm:size-8" />
+          </Link>
+
+          <NavbarDivider />
+          
           <NavbarSection>
             <NavbarItem href="/">Home</NavbarItem>
             <NavbarItem href="/events">Events</NavbarItem>
