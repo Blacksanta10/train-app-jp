@@ -21,6 +21,10 @@ export function NavbarSection({ children }: { children: React.ReactNode }) {
   return <div className="flex gap-6">{children}</div>;
 }
 
+export function NavbarDivider(){
+    return <div className="h-6 w-px bg-gray-200" />;
+}
+
 export function NavbarItem({
   href,
   children,
