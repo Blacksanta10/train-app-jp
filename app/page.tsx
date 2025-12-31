@@ -57,17 +57,43 @@ export default function HomePage() {
      * 
      * Only simple inline styling, can change to Tailwind
      */
-    <div style={{ padding: "20px" }}>
-      <h1>Shinkansen Station Explorer</h1>
-      <input
-        type="text"
-        placeholder="Search stations..."
-        value={query}
-        onChange={(e) => setQuery(e.target.value)}
-        style={{ padding: "5px", marginBottom: "10px" }}
-      />
-      <DataTable data={data} />
-    </div>
+    <main className="min-h-screen bg-gray-50">
+      <div className="mx-auto max-w-6xl p-6">
+        <h1 className="text-3xl font-bold mb-2">
+          Shinkansen Station Explorer
+        </h1>
+
+        <p className="text-gray-600 mb-6">
+          Search and explore Shinkansen stations across Japan.
+        </p>
+
+        <input
+          type="text"
+          placeholder="Search stations..."
+          value={query}
+          onChange={(e) => setQuery(e.target.value)}
+          className="
+            mb-b
+            w-full
+            max-w-md
+            rounded-md
+            border
+            border-gray-300
+            bg-white
+            px-4
+            py-2
+            shadow-sm
+            focus:outline-none
+            focus:ring-2
+            focus:ring-blue-500
+          "
+        />
+
+        <div className="overflow-x-auto">
+          <DataTable data={data} />
+        </div>
+      </div>
+    </main>
   );
 }
 
