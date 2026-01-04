@@ -1,5 +1,5 @@
 /**
- * The second page of the web application
+ * The 2nd page of the web application
  * 
  * Not sure what's going here yet?
  */
