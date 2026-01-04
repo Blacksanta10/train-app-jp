@@ -62,7 +62,7 @@ export default function RootLayout({
           
           <NavbarSection>
             <NavbarItem href="/">Home</NavbarItem>
-            <NavbarItem href="/events">Events</NavbarItem>
+            <NavbarItem href="/page2">Otherpage</NavbarItem>
             <NavbarItem href="/orders">Orders</NavbarItem>
           </NavbarSection>
         </Navbar>
