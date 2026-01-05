@@ -29,6 +29,15 @@ export default function HomePage() {
   // Holds dataset returned from the API
   const [data, setData] = useState<DataRow[]>([]);
 
+  // used for popup map's state
+  const openMap = () => {
+        window.open(
+          "/map",
+          "mapWindow",
+          "width=500,height=600,left100,top=100,resizable=yes,scrollbars=yes"
+        );
+      };
+
   /* Stores the current search query entered by user
   * This value is used to dynamically request filtered
   * results from the backend API
@@ -93,6 +102,14 @@ export default function HomePage() {
           <DataTable data={data} />
         </div>
       </div>
+
+      <button
+        onClick={openMap}
+        className="bg-accent text-black px-4 py-2 rounded"
+      >
+        Open Mappppp
+      </button>
+
     </main>
   );
 }
