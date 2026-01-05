@@ -35,7 +35,7 @@ export function NavbarItem({
   return (
     <Link
       href={href}
-      className="text-gray-400 hover:text-neutral-900 font-medium"
+      className="text-gray-400 hover:text-accent font-medium"
     >
       {children}
     </Link>
