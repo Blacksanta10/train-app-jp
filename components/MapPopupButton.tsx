@@ -11,7 +11,7 @@ export default function MapPopupButton () {
      */
     const openMap = () => {
         window.open(
-          "/map",
+          "/popup-map",
           "mapWindow",
           "width=500,height=600,left100,top=100,resizable=yes,scrollbars=yes"
         );
@@ -23,7 +23,7 @@ export default function MapPopupButton () {
         onClick={openMap}
         className="bg-accent text-black px-4 py-2 rounded"
       >
-        Open Mappppp
+        Open Shinkansen Transit Map
       </button>
     );
 }
