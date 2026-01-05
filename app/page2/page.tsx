@@ -5,10 +5,19 @@
  */
 
 "use client";
-
+import Image from "next/image";
 //import { useEffect, useState } from "react";
 
 export default function HomePage() {
-    return ( <h1>HEYYYYY</h1>
+    return ( 
+        <div className="p-8">
+            <Image
+            src="/images/shinkansen-transit.png"
+            alt="Train map image"
+            width={800}
+            height={500}
+            className="rounded-lg object-fill"
+            />
+        </div>
     );
 }
