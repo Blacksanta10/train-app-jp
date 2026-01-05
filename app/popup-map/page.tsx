@@ -34,7 +34,6 @@ export default function MapPage() {
          */}
             <div className={`relative transition-transform duration-300 ease-in-out ${zoomed ? "scale-150" : "scale-100"}`}
             >
-
                 {/**
                  * The map image
                  * -select-none prevents accidental text/image selection while clicking
@@ -49,7 +48,7 @@ export default function MapPage() {
                     priority
                     className={`select-none ${ zoomed ? "cursor-zoom-out" : "cursor-zoom-in"}`}
                 />
-        </div>
+            </div>
         </div>
     );
 }
