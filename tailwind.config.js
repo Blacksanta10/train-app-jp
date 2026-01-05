@@ -17,6 +17,7 @@ module.exports = {
         "nav-bg": "var(--color-nav-bg)",
         foreground: "var(--color-text)",
         muted: "var(--color-text-muted)",
+        accent: "var(--color-accent)",
         border: "var(--color-border)",
 
         primary: "var(--color-primary)",

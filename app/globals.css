@@ -22,12 +22,15 @@
   /* Borders & outlines */
   --color-border: #e5e5e5;
 
+  /* Accents */
+  --color-accent: #00fded;
+
   /* Brand / actions (you’ll add these later) */
   --color-primary: #4f46e5;
   --color-primary-hover: #4338ca;
 
   /* Status */
-  --color-error: #ef4444;
+  --color-error: #d44d5c;
   --color-success: #10b981;
 }
 
