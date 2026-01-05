@@ -67,6 +67,8 @@ export default function HomePage() {
           Shinkansen Station Explorer
         </h1>
 
+        <MapPopupButton />
+
         <p className="text-gray-600 mb-6">
           Search and explore Shinkansen stations across Japan.
         </p>
@@ -97,9 +99,6 @@ export default function HomePage() {
           <DataTable data={data} />
         </div>
       </div>
-
-
-      <MapPopupButton />
 
     </main>
   );
