@@ -48,7 +48,7 @@ export default function RootLayout({
           min-h-screen
           flex
           flex-col
-          bg-gray-50
+          bg-background
           text-gray-900
           `}
       >
