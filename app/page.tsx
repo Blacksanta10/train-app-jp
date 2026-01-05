@@ -57,7 +57,7 @@ export default function HomePage() {
      * 
      * Only simple inline styling, can change to Tailwind
      */
-    <main className="min-h-screen bg-gray-50">
+    <main className="min-h-screen bg-background">
       <div className="mx-auto max-w-6xl p-6">
         <h1 className="text-3xl font-bold mb-2">
           Shinkansen Station Explorer
