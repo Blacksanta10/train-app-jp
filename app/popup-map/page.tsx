@@ -1,6 +1,6 @@
 /**
- * This is a separate page for the popup map that can be used
- * 
+ * This is the pop-up's page 
+ * Only accesible from clicking pop up's button
  */
 
 export default function MapPage() {

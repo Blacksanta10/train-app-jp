@@ -17,6 +17,9 @@ import { useEffect, useState } from "react";
 import DataTable from "../components/DataTable";
 import type { DataRow } from "../pages/api/dataset";
 
+// pop-up button's component is imported
+import MapPopupButton from "@/components/MapPopupButton";
+
 
 /**
  * HomePage component
@@ -29,14 +32,6 @@ export default function HomePage() {
   // Holds dataset returned from the API
   const [data, setData] = useState<DataRow[]>([]);
 
-  // used for popup map's state
-  const openMap = () => {
-        window.open(
-          "/map",
-          "mapWindow",
-          "width=500,height=600,left100,top=100,resizable=yes,scrollbars=yes"
-        );
-      };
 
   /* Stores the current search query entered by user
   * This value is used to dynamically request filtered
@@ -103,12 +98,8 @@ export default function HomePage() {
         </div>
       </div>
 
-      <button
-        onClick={openMap}
-        className="bg-accent text-black px-4 py-2 rounded"
-      >
-        Open Mappppp
-      </button>
+
+      <MapPopupButton />
 
     </main>
   );
