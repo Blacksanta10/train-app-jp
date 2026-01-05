@@ -9,7 +9,7 @@ import Link from "next/link";
 
 export function Navbar({ children }: { children: React.ReactNode }) {
   return (
-    <nav className="border-b bg-white">
+    <nav className="border-b bg-nav-bg">
       <div className="mx-auto max-w-6xl px-4 py-3 flex items-center">
         {children}
       </div>
@@ -35,7 +35,7 @@ export function NavbarItem({
   return (
     <Link
       href={href}
-      className="text-gray-700 hover:text-black font-medium"
+      className="text-gray-400 hover:text-neutral-900 font-medium"
     >
       {children}
     </Link>

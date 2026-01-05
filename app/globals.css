@@ -5,15 +5,18 @@
 /* ───────────────────────────────────────────── */
 /* Base semantic tokens */
 /* ───────────────────────────────────────────── */
+
+/* LIGHT MODE colors, if I use any of these constantly initialize them in tailwind.config.js */
 :root {
   /* Backgrounds */
-  --color-bg: #ee1313;
+  --color-bg: #b5aa9d;
+  --color-nav-bg:#443730;
   --color-bg-muted: #f5f5f5;
   --color-bg-inverted: #0a0a0a;
 
   /* Text */
   --color-text: #171717;
-  --color-text-muted: #525252;
+  --color-text-muted: #27963f;
   --color-text-inverted: #ededed;
 
   /* Borders & outlines */
@@ -42,9 +45,12 @@
   --font-mono: var(--font-geist-mono);
 }
 
+
+
+/* DARK MODE colors
 @media (prefers-color-scheme: dark) {
   :root {
-    --color-bg: #0a0a0a;
+    --color-bg: #8b0e0e;
     --color-bg-muted: #171717;
 
     --color-text: #ededed;
@@ -52,7 +58,7 @@
 
     --color-border: #262626;
   }
-}
+} */
 
 
 
