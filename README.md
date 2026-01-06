@@ -1,31 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Shinkansen Train Search
+You can look up any train station in Japan and get information on the Shinkansen lines 
 
-## Getting Started
+ Link to dataset on Kaggle: [Shinkansen stations](https://www.kaggle.com/datasets/japandata509/shinkansen-stations-in-japan/data)
 
-First, run the development server:
+![Alt](https://repobeats.axiom.co/api/embed/7f0cb0c54b42f36ebf17095f41ab5eefc10dc568.svg "Repobeats analytics image")
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with browser to see the result.
+## 📌 Features
+- Dynamic Search 
+- Pop-up and Modals
+- Responsive Design
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Project Theme
-This is a full-stack web application that allows you to search information about Japan's Shinkansen Stations
+## 🛠️ Technologies Used
+- Typescript / Next.js Framework
+- Papaparse
+- Web Application
 
-Here is a link to the dataset: [Shinkansen stations](https://www.kaggle.com/datasets/japandata509/shinkansen-stations-in-japan/data)
+---
+
+## 📂 Project Structure
+```text
+project-root/
+│── app/
+      |── page2/
+            |── page.tsx
+      |── popup-map/
+            |── page.tsx
+      |── global.css
+      |── layout.tsx
+      |── page.tsx
+│── components/
+      |── DataTable.tsx
+      |── MapPopupButton.tsx
+      |── logo.tsx
+      |── navbar.tsx
+│── pages/
+      |── api/
+              |── dataset.ts
+|── public/
+      |── data/
+              |── shinkansen.csv
+      |── images/
+              |── shinkansen-transit.png
+│── README.md
+│── requirements.txt / package.json
 
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
