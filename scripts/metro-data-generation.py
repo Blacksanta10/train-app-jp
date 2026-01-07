@@ -82,7 +82,6 @@ raw_data = [
     ['Nishi-takashimadaira','西高島平', 'Mita', '27', 0],
 
     # Shinjuku Line (21 stations)
-    #[Station Name, Kanji, Line Name, Station Number, Is Interchange(1=multiple-lines)]
     ['Shinjuku', '新宿', 'Shinjuku', '01', 1],
     ['Shinjuku-sanchome', '新宿三丁目', 'Shinjuku', '02', 1],
     ['Akenbonobashi', '曙橋', 'Shinjuku', '03', 0],
@@ -106,16 +105,100 @@ raw_data = [
     ['Motoyawata', '本八幡', 'Shinjuku', '21', 1],
 
     # Oedo Line (38 stations)
-    
+    ['Shinjuku-nishiguchi', '新宿西口', 'Oedo', '01', 1],
+    ['Higashi-shinjuku', '東新宿', 'Oedo', '02', 1],
+    ['Wakamatsu-kawada', '若松河田', 'Oedo', '03', 0],
+    ['Ushigome-yanagicho', '牛込柳町', 'Oedo', '04', 0],
+    ['Ushigome-kagurazaka', '牛込神楽坂', 'Oedo', '05', 0],
+    ['Iidabashi', '飯田橋', 'Oedo', '06', 1],
+    ['Kasuga', '春日', 'Oedo', '07', 1],
+    ['Hongo-sanchome', '本郷三丁目', 'Oedo', '08', 1],
+    ['Ueno-okachimachi', '上野御徒町', 'Oedo', '09', 1],
+    ['Shin-okachimachi', '新御徒町', 'Oedo', '10', 1],
+    ['Kuramae', '蔵前', 'Oedo', '11', 1],
+    ['Ryogoku', '両国', 'Oedo', '12', 1],
+    ['Morishita', '森下', 'Oedo', '13', 1],
+    ['Kiyosumi-shirakawa', '清澄白河', 'Oedo', '14', 1],
+    ['Monzen-nakacho', '門前仲町', 'Oedo', '15', 1],
+    ['Tsukishima', '月島', 'Oedo', '16', 1],
+    ['Kachidoki', '勝どき', 'Oedo', '17', 0],
+    ['Tsukijishijo', '築地市場', 'Oedo', '18', 0],
+    ['Shiodome', '汐留', 'Oedo', '19', 1],
+    ['Daimon', '大門', 'Oedo', '20', 1],
+    ['Akabanebashi', '赤羽橋', 'Oedo', '21', 0],
+    ['Azabu-juban', '麻布十番', 'Oedo', '22', 1],
+    ['Roppongi', '	六本木', 'Oedo', '23', 1],
+    ['Aoyama-itchome', '青山一丁目', 'Oedo', '24', 1],
+    ['Kokuritsu-kyogijo', '国立競技場', 'Oedo', '25', 0],
+    ['Yoyogi', '代々木', 'Oedo', '26', 1],
+    ['Shinjuku', '新宿', 'Oedo', '27', 1],
+    ['Tochomae', '都庁前', 'Oedo', '28', 1],
+    ['Nishi-shinjuku-gochome', '西新宿五丁目', 'Oedo', '29', 0],
+    ['Nakano-sakaue', '中野坂上', 'Oedo', '30', 1],
+    ['Higashi-nakano', '東中野', 'Oedo', '31', 1],
+    ['Nakai', '中井', 'Oedo', '32', 1],
+    ['Ochiai-minami-nagasaki', '落合南長崎', 'Oedo', '33', 0],
+    ['Shin-egota', '新江古田', 'Oedo', '34', 0],
+    ['Nerima', '練馬', 'Oedo', '35', 1],
+    ['Toshimaen', '	豊島園', 'Oedo', '36', 0],
+    ['Nerima-kasugacho', '練馬春日町', 'Oedo', '37', 0],
+    ['Hikarigaoka', '光が丘', 'Oedo', '38', 0],
 
 
+
+#[Station Name, Kanji, Line Name, Station Number, Is Interchange(1=multiple-lines)]
 ## Tokyo Metro Line --------------------------------------------
 
     # Ginza Line (19 stations)
+    ['Shibuya', '渋谷', 'Ginza', '01', 1],
+    ['Omote-sando', '表参道', 'Ginza', '02', 1],
+    ['Gaiemmae', '外苑前', 'Ginza', '03', 0],
+    ['Aoyama-itchome', '青山一丁目', 'Ginza', '04', 1],
+    ['Akasaka-mitsuke', '赤坂見附', 'Ginza', '05', 1],
+    ['Tameike-sanno', '溜池山王', 'Ginza', '06', 1],
+    ['Toranomon', '虎ノ門', 'Ginza', '07', 1],
+    ['Shimbashi', '新橋', 'Ginza', '08', 1],
+    ['Ginza', '銀座', 'Ginza', '09', 1],
+    ['Kyobashi', '京橋', 'Ginza', '10', 0],
+    ['Nihombashi', '日本橋', 'Ginza', '11', 1],
+    ['Mitsukoshimae', '三越前', 'Ginza', '12', 1],
+    ['Kanda', '神田', 'Ginza', '13', 1],
+    ['Suehirocho', '末広町', 'Ginza', '14', 0],
+    ['Ueno-hirokoji', '上野広小路', 'Ginza', '15', 1],
+    ['Ueno', '上野', 'Ginza', '16', 1],
+    ['Inaricho', '	稲荷町', 'Ginza', '17', 0],
+    ['Tawaramachi', '田原町', 'Ginza', '18', 0],
+    ['Asakusa', '浅草', 'Ginza', '19', 1],
 
-    # Marunouchi Line (~25 stations)
+    # Marunouchi Line (25 stations)
+    ['Ogikubo', '荻窪', 'Marunochi', '01', 1]
+    ['Minami-asagaya', '南阿佐ケ谷', 'Marunochi', '02', 0]
+    ['Shin-koenji', '新高円寺', 'Marunochi', '03', 0]
+    ['Higashi-koenji', '東高円寺', 'Marunochi', '04', 0]
+    ['Shin-nakano', '新中野', 'Marunochi', '05', 0]
+    ['Nakano-sakaue', '中野坂上', 'Marunochi', '06', 1]
+    ['Nishi-shinjuku', '西新宿', 'Marunochi', '07', 0]
+    ['Shinjuku', '新宿', 'Marunochi', '08', 1]
+    ['Shinjuku-sanchome', '新宿三丁目', 'Marunochi', '09', 1]
+    ['Shinjuku-gyoemmae', '新宿御苑前', 'Marunochi', '10', 0]
+    ['Yotsuya-sanchome', '四谷三丁目', 'Marunochi', '11', 0]
+    ['Yotsuya', '四ツ谷', 'Marunochi', '12', 1]
+    ['Akasaka-mitsuke', '赤坂見附', 'Marunochi', '13', 1]
+    ['Kokkai-gijido-mae', '国会議事堂前', 'Marunochi', '14', 1]
+    ['Kasumigaseki', '霞ケ関', 'Marunochi', '15', 1]
+    ['Ginza', '銀座', 'Marunochi', '16', 1]
+    ['Tokyo', '東京', 'Marunochi', '17', 1]
+    ['Otemachi', '大手町', 'Marunochi', '18', 1]
+    ['Awajicho', '淡路町', 'Marunochi', '19', 1]
+    ['Ochanomizu', '御茶ノ水', 'Marunochi', '20', 1]
+    ['Hongo-sanchome', '本郷三丁目', 'Marunochi', '21', 1]
+    ['Korakuen', '後楽園', 'Marunochi', '22', 1]
+    ['Myogadani', '茗荷谷', 'Marunochi', '23', 0]
+    ['Shin-otsuka', '新大塚', 'Marunochi', '24', 0]
+    ['Ikebukuro', '	池袋', 'Marunochi', '25', 1]
 
     # Hibiya Line (22 stations)
+
 
     # Tozai Line (23 stations)
 
