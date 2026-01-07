@@ -7,7 +7,7 @@ import pandas as pd
 # 1. Define the Line Metadata (The "Rules" for your lines)
 line_metadata = {
     # --- TOKYO METRO ---
-    'Ginza': {'code_letter': 'G', 'color': '#FF9500', 'owner': 'Tokyo Metro'},
+    'Asakusa': {'code_letter': 'G', 'color': '#FF9500', 'owner': 'Tokyo Metro'},
     'Marunouchi': {'code_letter': 'M', 'color': '#F62E36', 'owner': 'Tokyo Metro'},
     'Hibiya': {'code_letter': 'H', 'color': '#B5B5AC', 'owner': 'Tokyo Metro'},
     'Tozai': {'code_letter': 'T', 'color': '#009BBF', 'owner': 'Tokyo Metro'},
@@ -25,13 +25,31 @@ line_metadata = {
 }
 
 # 2. Your Station Data (The "Input")
-# Format: [Station Name, Kanji, Line Name, Station Number, Is Interchange]
+# Format: [Station Name, Kanji, Line Name, Station Number, Is Interchange(1=multiple-lines)]
 raw_data = [
-    ['Asakusa', '浅草', 'Ginza', '19', 1],
+    
+    # Asakusa Line's Stations (20 stations)
+    ['Nishi-magome', '西馬込', 'Asakusa', '01', 0],
+    ['Magome', '馬込', 'Asakusa', '02', 0],
+    ['Nakanobu', '中延', 'Asakusa', '03', 0],
+    ['Togoshi', '戸越', 'Asakusa', '04', 0],
+    ['Gotanda', '五反田', 'Asakusa', '05', 1],
+    ['Takanawadai', '高輪台', 'Asakusa', '06', 0],
+    ['Sengakuji', '泉岳寺', 'Asakusa', '07', 1],
+    ['Mita', '三田', 'Asakusa', '08', 1],
+    ['Daimon', '大門', 'Asakusa', '09', 1],
+    ['Shimbashi', '新橋', 'Asakusa', '10', 1],
+    ['Higashi-ginza', '浅東銀座', 'Asakusa', '11', 1],
+    ['Takaracho', '宝町', 'Asakusa', '12', 0],
+    ['Nihombashi', '日本橋', 'Asakusa', '13', 1],
+    ['Ningyocho', '人形町', 'Asakusa', '14', 1],
+    ['Bakuro-yokoyama', '馬喰横山', 'Asakusa', '15', 1],
+    ['Asakusabashi', '浅草橋', 'Asakusa', '16', 0],
+    ['Kuramae', '蔵前', 'Asakusa', '17', 1],
     ['Asakusa', '浅草', 'Asakusa', '18', 1],
-    ['Shinjuku', '新宿', 'Marunouchi', '08', 1],
-    ['Roppongi', '六本木', 'Oedo', '23', 1],
-    ['Inaricho', '稲荷町', 'Ginza', '17', 0]
+    ['Honjo-azumabashi', '本所吾妻橋', 'Asakusa', '19', 0],
+    ['Oshiage', '押上', 'Asakusa', '20', 0],
+
 ]
 
 # 3. Process the data into a list of dictionaries
