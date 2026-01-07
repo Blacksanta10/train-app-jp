@@ -170,9 +170,35 @@ raw_data = [
     ['Tawaramachi', '田原町', 'Ginza', '18', 0],
     ['Asakusa', '浅草', 'Ginza', '19', 1],
 
-    # Marunouchi Line (~25 stations)
+    # Marunouchi Line (25 stations)
+    ['Ogikubo', '荻窪', 'Marunochi', '01', 1]
+    ['Minami-asagaya', '南阿佐ケ谷', 'Marunochi', '02', 0]
+    ['Shin-koenji', '新高円寺', 'Marunochi', '03', 0]
+    ['Higashi-koenji', '東高円寺', 'Marunochi', '04', 0]
+    ['Shin-nakano', '新中野', 'Marunochi', '05', 0]
+    ['Nakano-sakaue', '中野坂上', 'Marunochi', '06', 1]
+    ['Nishi-shinjuku', '西新宿', 'Marunochi', '07', 0]
+    ['Shinjuku', '新宿', 'Marunochi', '08', 1]
+    ['Shinjuku-sanchome', '新宿三丁目', 'Marunochi', '09', 1]
+    ['Shinjuku-gyoemmae', '新宿御苑前', 'Marunochi', '10', 0]
+    ['Yotsuya-sanchome', '四谷三丁目', 'Marunochi', '11', 0]
+    ['Yotsuya', '四ツ谷', 'Marunochi', '12', 1]
+    ['Akasaka-mitsuke', '赤坂見附', 'Marunochi', '13', 1]
+    ['Kokkai-gijido-mae', '国会議事堂前', 'Marunochi', '14', 1]
+    ['Kasumigaseki', '霞ケ関', 'Marunochi', '15', 1]
+    ['Ginza', '銀座', 'Marunochi', '16', 1]
+    ['Tokyo', '東京', 'Marunochi', '17', 1]
+    ['Otemachi', '大手町', 'Marunochi', '18', 1]
+    ['Awajicho', '淡路町', 'Marunochi', '19', 1]
+    ['Ochanomizu', '御茶ノ水', 'Marunochi', '20', 1]
+    ['Hongo-sanchome', '本郷三丁目', 'Marunochi', '21', 1]
+    ['Korakuen', '後楽園', 'Marunochi', '22', 1]
+    ['Myogadani', '茗荷谷', 'Marunochi', '23', 0]
+    ['Shin-otsuka', '新大塚', 'Marunochi', '24', 0]
+    ['Ikebukuro', '	池袋', 'Marunochi', '25', 1]
 
     # Hibiya Line (22 stations)
+
 
     # Tozai Line (23 stations)
 
