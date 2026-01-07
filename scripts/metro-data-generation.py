@@ -28,7 +28,7 @@ line_metadata = {
 # Format: [Station Name, Kanji, Line Name, Station Number, Is Interchange(1=multiple-lines)]
 raw_data = [
 
-    # Asakusa Line's Stations (20 stations)
+    # Asakusa Line (20 stations)
     ['Nishi-magome', '西馬込', 'Asakusa', '01', 0],
     ['Magome', '馬込', 'Asakusa', '02', 0],
     ['Nakanobu', '中延', 'Asakusa', '03', 0],
@@ -50,7 +50,7 @@ raw_data = [
     ['Honjo-azumabashi', '本所吾妻橋', 'Asakusa', '19', 0],
     ['Oshiage', '押上', 'Asakusa', '20', 0],
 
-    # Mita Line's Stations (27 stations)
+    # Mita Line (27 stations)
     ['Meguro','目黒', 'Mita', '01', 1],
     ['Shirokanedai','白金台', 'Mita', '02', 1],
     ['Shirokane-takanawa','白金高輪', 'Mita', '03', 1],
@@ -78,7 +78,32 @@ raw_data = [
     ['Takashimadaira','高島平', 'Mita', '25', 0],
     ['Shin-takashimadaira','新高島平', 'Mita', '26', 0],
     ['Nishi-takashimadaira','西高島平', 'Mita', '27', 0],
-    
+
+    # Shinjuku Line (21 stations)
+    #[Station Name, Kanji, Line Name, Station Number, Is Interchange(1=multiple-lines)]
+    ['Shinjuku', '新宿', 'Shinjuku', '01', 1],
+    ['Shinjuku-sanchome', '新宿三丁目', 'Shinjuku', '02', 1],
+    ['Akenbonobashi', '曙橋', 'Shinjuku', '03', 0],
+    ['Ichigaya', '市ヶ谷', 'Shinjuku', '04', 1],
+    ['Kudanshita', '九段下', 'Shinjuku', '05', 1],
+    ['Jimbocho', '神保町', 'Shinjuku', '06', 1],
+    ['Ogawamachi', '小川町', 'Shinjuku', '07', 1],
+    ['Iwamotocho', '岩本町', 'Shinjuku', '08', 1],
+    ['Bakuro-yokohama', '馬喰横山', 'Shinjuku', '09', 1],
+    ['Hamacho', '浜町', 'Shinjuku', '10', 0],
+    ['Morishita', '森下', 'Shinjuku', '11', 1],
+    ['Kikukawa', '菊川', 'Shinjuku', '12', 0],
+    ['Sumiyoshi', '住吉', 'Shinjuku', '13', 1],
+    ['Nishi-ojima', '西大島', 'Shinjuku', '14', 0],
+    ['Ojima', '大島', 'Shinjuku', '15', 0],
+    ['Higashi-ojima', '東大島', 'Shinjuku', '16', 0],
+    ['Funabori', '船堀', 'Shinjuku', '17', 0],
+    ['Ichinoe', '一之江', 'Shinjuku', '18', 0],
+    ['Mizue', '瑞江', 'Shinjuku', '19', 0],
+    ['Shinozaki', '篠崎', 'Shinjuku', '20', 0],
+    ['Motoyawata', '本八幡', 'Shinjuku', '21', 1],
+
+    # Oedo Line (38 stations)
     
 
 ]
