@@ -82,7 +82,6 @@ raw_data = [
     ['Nishi-takashimadaira','西高島平', 'Mita', '27', 0],
 
     # Shinjuku Line (21 stations)
-    #[Station Name, Kanji, Line Name, Station Number, Is Interchange(1=multiple-lines)]
     ['Shinjuku', '新宿', 'Shinjuku', '01', 1],
     ['Shinjuku-sanchome', '新宿三丁目', 'Shinjuku', '02', 1],
     ['Akenbonobashi', '曙橋', 'Shinjuku', '03', 0],
@@ -147,9 +146,29 @@ raw_data = [
 
 
 
+#[Station Name, Kanji, Line Name, Station Number, Is Interchange(1=multiple-lines)]
 ## Tokyo Metro Line --------------------------------------------
 
     # Ginza Line (19 stations)
+    ['Shibuya', '渋谷', 'Ginza', '01', 1],
+    ['Omote-sando', '表参道', 'Ginza', '02', 1],
+    ['Gaiemmae', '外苑前', 'Ginza', '03', 0],
+    ['Aoyama-itchome', '青山一丁目', 'Ginza', '04', 1],
+    ['Akasaka-mitsuke', '赤坂見附', 'Ginza', '05', 1],
+    ['Tameike-sanno', '溜池山王', 'Ginza', '06', 1],
+    ['Toranomon', '虎ノ門', 'Ginza', '07', 1],
+    ['Shimbashi', '新橋', 'Ginza', '08', 1],
+    ['Ginza', '銀座', 'Ginza', '09', 1],
+    ['Kyobashi', '京橋', 'Ginza', '10', 0],
+    ['Nihombashi', '日本橋', 'Ginza', '11', 1],
+    ['Mitsukoshimae', '三越前', 'Ginza', '12', 1],
+    ['Kanda', '神田', 'Ginza', '13', 1],
+    ['Suehirocho', '末広町', 'Ginza', '14', 0],
+    ['Ueno-hirokoji', '上野広小路', 'Ginza', '15', 1],
+    ['Ueno', '上野', 'Ginza', '16', 1],
+    ['Inaricho', '	稲荷町', 'Ginza', '17', 0],
+    ['Tawaramachi', '田原町', 'Ginza', '18', 0],
+    ['Asakusa', '浅草', 'Ginza', '19', 1],
 
     # Marunouchi Line (~25 stations)
 
