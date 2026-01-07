@@ -28,6 +28,8 @@ line_metadata = {
 # Format: [Station Name, Kanji, Line Name, Station Number, Is Interchange(1=multiple-lines)]
 raw_data = [
 
+## Toei Line -----------------------------------------------------
+
     # Asakusa Line (20 stations)
     ['Nishi-magome', '西馬込', 'Asakusa', '01', 0],
     ['Magome', '馬込', 'Asakusa', '02', 0],
@@ -105,6 +107,40 @@ raw_data = [
 
     # Oedo Line (38 stations)
     
+
+
+## Tokyo Metro Line --------------------------------------------
+
+    # Ginza Line (19 stations)
+
+    # Marunouchi Line (~25 stations)
+
+    # Hibiya Line (22 stations)
+
+    # Tozai Line (23 stations)
+
+    # Chiyoda Line (20 stations)
+
+    # Yurakucho Line (24 stations)
+
+    # Hanzomon Line (14 stations)
+
+    # Namboku Line (19 stations)
+
+    # Fukutoshin Line (16 stations)
+
+## Keio Railways
+
+    # All 7 Keio Lines
+
+
+# Other important --------------------------------------------------------
+
+    # Chuo Sobu Line 
+
+    # Yamanote Line
+
+
 
 ]
 
