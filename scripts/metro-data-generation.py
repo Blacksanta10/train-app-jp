@@ -248,6 +248,26 @@ raw_data = [
     ['Nishi-funabashi', '西船橋', 'Tozai', '23', 1],
 
     # Chiyoda Line (20 stations)
+    ['Yoyogi-uehara','代々木上原','Chiyoda','01', 1],
+    ['Yoyogi-koen','代々木公園','Chiyoda','02', 1],
+    ['Meiji-jingumae','明治神宮前','Chiyoda','03', 1],
+    ['Omotesando','表参道','Chiyoda','04', 1],
+    ['Nogizaka','乃木坂','Chiyoda','05', 0],
+    ['Akasaka','赤坂','Chiyoda','06', 0],
+    ['Kokkai-gijido-mae','国会議事堂前','Chiyoda','07', 1],
+    ['Kasumigaseki','霞ケ関','Chiyoda','08', 1],
+    ['Hibiya','日比谷','Chiyoda','09', 1],
+    ['Nijubashimae','二重橋前','Chiyoda','10', 1],
+    ['Otemachi','大手町','Chiyoda','11', 1],
+    ['Shin-ochanomizu','新御茶ノ水','Chiyoda','12', 1],
+    ['Yushima','湯島','Chiyoda','13', 1],
+    ['Nezu','根津','Chiyoda','14', 0],
+    ['Sendagi','千駄木','Chiyoda','15', 0],
+    ['Nishi-nippori','西日暮里','Chiyoda','16', 1],
+    ['Machiya','町屋','Chiyoda','17', 1],
+    ['Kita-senju','北千住','Chiyoda','18', 1],
+    ['Ayase','綾瀬','Chiyoda','19', 1],
+    ['Kita-ayase','北綾瀬','Chiyoda','20', 0],
 
     # Yurakucho Line (24 stations)
 
