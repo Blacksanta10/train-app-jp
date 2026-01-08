@@ -250,7 +250,7 @@ raw_data = [
     # Chiyoda Line (20 stations)
     ['Yoyogi-uehara','代々木上原','Chiyoda','01', 1],
     ['Yoyogi-koen','代々木公園','Chiyoda','02', 1],
-    ['Meiji-jingumae','明治神宮前','Chiyoda','03', 1],
+    ['Meiji-jingumae (Harajuku)','明治神宮前','Chiyoda','03', 1],
     ['Omotesando','表参道','Chiyoda','04', 1],
     ['Nogizaka','乃木坂','Chiyoda','05', 0],
     ['Akasaka','赤坂','Chiyoda','06', 0],
@@ -333,6 +333,22 @@ raw_data = [
     ['Akabane-iwabuchi','赤羽岩淵','Namboku','19',1],
 
     # Fukutoshin Line (16 stations)
+    ['Wakoshi','和光市','Fukutoshin','01',1],
+    ['Chikatetsu','地下鉄成増','Fukutoshin','02',1],
+    ['Chikatetsu-akatsuka','地下鉄赤塚','Fukutoshin','03',1],
+    ['Heiwadai','平和台','Fukutoshin','04',1],
+    ['Hikawadai','氷川台','Fukutoshin','05',1],
+    ['Kotake-mukaihara','小竹向原','Fukutoshin','06',1],
+    ['Senkawa','千川','Fukutoshin','07',1],
+    ['Kanamecho','要町','Fukutoshin','08',1],
+    ['Ikebukuro','池袋','Fukutoshin','09',1],
+    ['Zoshigaya','雑司が谷','Fukutoshin','10',1],
+    ['Nishi-waseda','西早稲田','Fukutoshin','11',1],
+    ['Higashi-shinjuku','東新宿','Fukutoshin','12',1],
+    ['Shinjuku-sanchome','新宿三丁目','Fukutoshin','13',1],
+    ['Kita-sando','北参道','Fukutoshin','14',0],
+    ['Meiji-jingumae (Harajuku)','明治神宮前','Fukutoshin','15',1],
+    ['Shibuya','渋谷','Fukutoshin','16',1],
 
 ## Keio Railways
 
