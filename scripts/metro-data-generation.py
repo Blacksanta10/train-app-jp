@@ -146,7 +146,7 @@ raw_data = [
 
 
 
-#[Station Name, Kanji, Line Name, Station Number, Is Interchange(1=multiple-lines)]
+#[Station Name, Kanji, Line Name, Station Number, Is Interchange]
 ## Tokyo Metro Line --------------------------------------------
 
     # Ginza Line (19 stations)
@@ -171,46 +171,184 @@ raw_data = [
     ['Asakusa', '浅草', 'Ginza', '19', 1],
 
     # Marunouchi Line (25 stations)
-    ['Ogikubo', '荻窪', 'Marunochi', '01', 1]
-    ['Minami-asagaya', '南阿佐ケ谷', 'Marunochi', '02', 0]
-    ['Shin-koenji', '新高円寺', 'Marunochi', '03', 0]
-    ['Higashi-koenji', '東高円寺', 'Marunochi', '04', 0]
-    ['Shin-nakano', '新中野', 'Marunochi', '05', 0]
-    ['Nakano-sakaue', '中野坂上', 'Marunochi', '06', 1]
-    ['Nishi-shinjuku', '西新宿', 'Marunochi', '07', 0]
-    ['Shinjuku', '新宿', 'Marunochi', '08', 1]
-    ['Shinjuku-sanchome', '新宿三丁目', 'Marunochi', '09', 1]
-    ['Shinjuku-gyoemmae', '新宿御苑前', 'Marunochi', '10', 0]
-    ['Yotsuya-sanchome', '四谷三丁目', 'Marunochi', '11', 0]
-    ['Yotsuya', '四ツ谷', 'Marunochi', '12', 1]
-    ['Akasaka-mitsuke', '赤坂見附', 'Marunochi', '13', 1]
-    ['Kokkai-gijido-mae', '国会議事堂前', 'Marunochi', '14', 1]
-    ['Kasumigaseki', '霞ケ関', 'Marunochi', '15', 1]
-    ['Ginza', '銀座', 'Marunochi', '16', 1]
-    ['Tokyo', '東京', 'Marunochi', '17', 1]
-    ['Otemachi', '大手町', 'Marunochi', '18', 1]
-    ['Awajicho', '淡路町', 'Marunochi', '19', 1]
-    ['Ochanomizu', '御茶ノ水', 'Marunochi', '20', 1]
-    ['Hongo-sanchome', '本郷三丁目', 'Marunochi', '21', 1]
-    ['Korakuen', '後楽園', 'Marunochi', '22', 1]
-    ['Myogadani', '茗荷谷', 'Marunochi', '23', 0]
-    ['Shin-otsuka', '新大塚', 'Marunochi', '24', 0]
-    ['Ikebukuro', '	池袋', 'Marunochi', '25', 1]
+    ['Ogikubo', '荻窪', 'Marunouchi', '01', 1],
+    ['Minami-asagaya', '南阿佐ケ谷', 'Marunouchi', '02', 0],
+    ['Shin-koenji', '新高円寺', 'Marunouchi', '03', 0],
+    ['Higashi-koenji', '東高円寺', 'Marunouchi', '04', 0],
+    ['Shin-nakano', '新中野', 'Marunouchi', '05', 0],
+    ['Nakano-sakaue', '中野坂上', 'Marunouchi', '06', 1],
+    ['Nishi-shinjuku', '西新宿', 'Marunouchi', '07', 0],
+    ['Shinjuku', '新宿', 'Marunouchi', '08', 1],
+    ['Shinjuku-sanchome', '新宿三丁目', 'Marunouchi', '09', 1],
+    ['Shinjuku-gyoemmae', '新宿御苑前', 'Marunouchi', '10', 0],
+    ['Yotsuya-sanchome', '四谷三丁目', 'Marunouchi', '11', 0],
+    ['Yotsuya', '四ツ谷', 'Marunouchi', '12', 1],
+    ['Akasaka-mitsuke', '赤坂見附', 'Marunouchi', '13', 1],
+    ['Kokkai-gijido-mae', '国会議事堂前', 'Marunouchi', '14', 1],
+    ['Kasumigaseki', '霞ケ関', 'Marunouchi', '15', 1],
+    ['Ginza', '銀座', 'Marunouchi', '16', 1],
+    ['Tokyo', '東京', 'Marunouchi', '17', 1],
+    ['Otemachi', '大手町', 'Marunouchi', '18', 1],
+    ['Awajicho', '淡路町', 'Marunouchi', '19', 1],
+    ['Ochanomizu', '御茶ノ水', 'Marunouchi', '20', 1],
+    ['Hongo-sanchome', '本郷三丁目', 'Marunouchi', '21', 1],
+    ['Korakuen', '後楽園', 'Marunouchi', '22', 1],
+    ['Myogadani', '茗荷谷', 'Marunouchi', '23', 0],
+    ['Shin-otsuka', '新大塚', 'Marunouchi', '24', 0],
+    ['Ikebukuro', '	池袋', 'Marunouchi', '25', 1],
+
 
     # Hibiya Line (22 stations)
-
+    ['Naka-meguro','中目黒','Hibiya', '01', 1],
+    ['Ebisu','恵比寿','Hibiya', '02', 1],
+    ['Hiro-o','広尾','Hibiya', '03', 0],
+    ['Roppongi','六本木','Hibiya', '04', 1],
+    ['Kamiyacho','神谷町','Hibiya', '05', 0],
+    ['Toranomon Hills','虎ノ門ヒルズ','Hibiya', '06', 1],
+    ['Kasumigaseki','霞ケ関','Hibiya', '07', 1],
+    ['Hibiya','日比谷','Hibiya', '08', 1],
+    ['Ginza','銀座','Hibiya', '09', 1],
+    ['Higashi-ginza','東銀座','Hibiya', '10', 1],
+    ['Tsukiji','築地','Hibiya', '11', 1],
+    ['Hatchobori','八丁堀','Hibiya', '12', 1],
+    ['Kayabacho','茅場町','Hibiya', '13', 1],
+    ['Ningyocho','人形町','Hibiya', '14', 1],
+    ['Kodemmacho','小伝馬町','Hibiya', '15', 0],
+    ['Akihabara','秋葉原','Hibiya', '16', 1],
+    ['Naka-okachimachi','仲御徒町','Hibiya', '17', 1],
+    ['Ueno','上野','Hibiya', '18', 1],
+    ['Iriya','入谷','Hibiya', '19', 0],
+    ['Minowa','三ノ輪','Hibiya', '20', 0],
+    ['Minami-senju','南千住','Hibiya', '21', 1],
+    ['Kita-senju','中目黒','Hibiya', '22', 1],
 
     # Tozai Line (23 stations)
+    ['Nakano', '中野', 'Tozai', '01', 1],
+    ['Ochiai', '落合', 'Tozai', '02', 0],
+    ['Takadanobaba', '高田馬場', 'Tozai', '03', 1],
+    ['Waseda', '早稲田', 'Tozai', '04', 1],
+    ['Kagurazaka', '神楽坂', 'Tozai', '05', 0],
+    ['Iidabashi', '飯田橋', 'Tozai', '06', 1],
+    ['Kudanshita', '九段下', 'Tozai', '07', 1],
+    ['Takebashi', '竹橋', 'Tozai', '08', 0],
+    ['Otemachi', '大手町', 'Tozai', '09', 1],
+    ['Nihombashi', '日本橋', 'Tozai', '10', 1],
+    ['Kayabacho', '茅場町', 'Tozai', '11', 1],
+    ['Monzen-nakacho', '門前仲町', 'Tozai', '12', 1],
+    ['Kiba', '木場', 'Tozai', '13', 0],
+    ['Toyocho', '東陽町', 'Tozai', '14', 0],
+    ['Minami-sunamachi', '南砂町', 'Tozai', '15', 0],
+    ['Nishi-kasai', '西葛西', 'Tozai', '16', 0],
+    ['Kasai', '葛西', 'Tozai', '17', 0],
+    ['Urayasu', '浦安', 'Tozai', '18', 0],
+    ['Minami-gyotoku', '南行徳', 'Tozai', '19', 0],
+    ['Gyotoku', '行徳', 'Tozai', '20', 0],
+    ['Myoden', '妙典', 'Tozai', '21', 0],
+    ['Baraki-nakayama', '原木中山', 'Tozai', '22', 0],
+    ['Nishi-funabashi', '西船橋', 'Tozai', '23', 1],
 
     # Chiyoda Line (20 stations)
+    ['Yoyogi-uehara','代々木上原','Chiyoda','01', 1],
+    ['Yoyogi-koen','代々木公園','Chiyoda','02', 1],
+    ['Meiji-jingumae (Harajuku)','明治神宮前','Chiyoda','03', 1],
+    ['Omotesando','表参道','Chiyoda','04', 1],
+    ['Nogizaka','乃木坂','Chiyoda','05', 0],
+    ['Akasaka','赤坂','Chiyoda','06', 0],
+    ['Kokkai-gijido-mae','国会議事堂前','Chiyoda','07', 1],
+    ['Kasumigaseki','霞ケ関','Chiyoda','08', 1],
+    ['Hibiya','日比谷','Chiyoda','09', 1],
+    ['Nijubashimae','二重橋前','Chiyoda','10', 1],
+    ['Otemachi','大手町','Chiyoda','11', 1],
+    ['Shin-ochanomizu','新御茶ノ水','Chiyoda','12', 1],
+    ['Yushima','湯島','Chiyoda','13', 1],
+    ['Nezu','根津','Chiyoda','14', 0],
+    ['Sendagi','千駄木','Chiyoda','15', 0],
+    ['Nishi-nippori','西日暮里','Chiyoda','16', 1],
+    ['Machiya','町屋','Chiyoda','17', 1],
+    ['Kita-senju','北千住','Chiyoda','18', 1],
+    ['Ayase','綾瀬','Chiyoda','19', 1],
+    ['Kita-ayase','北綾瀬','Chiyoda','20', 0],
 
     # Yurakucho Line (24 stations)
+    ['Wakoshi','和光市','Yurakucho','01',1],
+    ['Chikatetsu-narimasu','地下鉄成増','Yurakucho','02',1],
+    ['Chikatetsu-akatsuka','地下鉄赤塚','Yurakucho','03',1],
+    ['Heiwadai','平和台','Yurakucho','04',1],
+    ['Hikawadai','氷川台','Yurakucho','05',1],
+    ['Kotake-mukaihara','小竹向原','Yurakucho','06',1],
+    ['Senkawa','千川','Yurakucho','07',1],
+    ['Kanamecho','要町','Yurakucho','08',1],
+    ['Ikebukuro','池袋','Yurakucho','09',1],
+    ['Higashi-ikebukuro','東池袋','Yurakucho','10',1],
+    ['Gokokuji','護国寺','Yurakucho','11',0],
+    ['Edogawabashi','江戸川橋','Yurakucho','12',0],
+    ['Iidabashi','飯田橋','Yurakucho','13',1],
+    ['Ichigaya','市ケ谷','Yurakucho','14',1],
+    ['Kojimachi','麹町','Yurakucho','15',0],
+    ['Nagatacho','永田町','Yurakucho','16',1],
+    ['Sakuradamon','桜田門','Yurakucho','17',0],
+    ['Yurakucho','有楽町','Yurakucho','18',1],
+    ['Ginza-itchome','銀座一丁目','Yurakucho','19',1],
+    ['Shintomicho','新富町','Yurakucho','20',1],
+    ['Tsukishima','月島','Yurakucho','21',1],
+    ['Toyosu','豊洲','Yurakucho','22',1],
+    ['Tatsumi','辰巳','Yurakucho','23',0],
+    ['Shin-kiba','新木場','Yurakucho','24',1],
 
     # Hanzomon Line (14 stations)
+    ['Shibuya','渋谷','Hanzomon','01',1],
+    ['Omotesando','表参道','Hanzomon','02',1],
+    ['Aoyama-itchome','青山一丁目','Hanzomon','03',1],
+    ['Nagatacho','永田町','Hanzomon','04',1],
+    ['Hanzomon','半蔵門','Hanzomon','05',0],
+    ['Kudanshita','九段下','Hanzomon','06',1],
+    ['Jimbocho','神保町','Hanzomon','07',1],
+    ['Otemachi','大手町','Hanzomon','08',1],
+    ['Mitsukoshimae','三越前','Hanzomon','09',1],
+    ['Suitengumae','水天宮前','Hanzomon','10',1],
+    ['Kiyosumi-shirakawa','清澄白河','Hanzomon','11',1],
+    ['Sumiyoshi','住吉','Hanzomon','12',1],
+    ['Kinshicho','錦糸町','Hanzomon','13',1],
+    ['Oshiage','押上','Hanzomon','14',1],
 
     # Namboku Line (19 stations)
+    ['Meguro','目黒','Namboku','01',1],
+    ['Shirokanedai','白金台','Namboku','02',1],
+    ['Shirokane-takanawa','白金高輪','Namboku','03',1],
+    ['Azabu-juban','麻布十番','Namboku','04',1],
+    ['Roppongi-itchome','六本木一丁目','Namboku','05',1],
+    ['Tameike-sanno','溜池山王','Namboku','06',1],
+    ['Nagatacho','永田町','Namboku','07',1],
+    ['Yotsuya','四ツ谷','Namboku','08',1],
+    ['Ichigaya','市ケ谷','Namboku','09',1],
+    ['Iidabashi','飯田橋','Namboku','10',1],
+    ['Korakuen','後楽園','Namboku','11',1],
+    ['Todaimae','東大前','Namboku','12',0],
+    ['Hon-komagome','本駒込','Namboku','13',0],
+    ['Komagome','駒込','Namboku','14',1],
+    ['Nishigahara','西ケ原','Namboku','15',1],
+    ['Oji','王子','Namboku','16',1],
+    ['Oji-kamiya','王子神谷','Namboku','17',0],
+    ['Shimo','志茂','Namboku','18',0],
+    ['Akabane-iwabuchi','赤羽岩淵','Namboku','19',1],
 
     # Fukutoshin Line (16 stations)
+    ['Wakoshi','和光市','Fukutoshin','01',1],
+    ['Chikatetsu','地下鉄成増','Fukutoshin','02',1],
+    ['Chikatetsu-akatsuka','地下鉄赤塚','Fukutoshin','03',1],
+    ['Heiwadai','平和台','Fukutoshin','04',1],
+    ['Hikawadai','氷川台','Fukutoshin','05',1],
+    ['Kotake-mukaihara','小竹向原','Fukutoshin','06',1],
+    ['Senkawa','千川','Fukutoshin','07',1],
+    ['Kanamecho','要町','Fukutoshin','08',1],
+    ['Ikebukuro','池袋','Fukutoshin','09',1],
+    ['Zoshigaya','雑司が谷','Fukutoshin','10',1],
+    ['Nishi-waseda','西早稲田','Fukutoshin','11',1],
+    ['Higashi-shinjuku','東新宿','Fukutoshin','12',1],
+    ['Shinjuku-sanchome','新宿三丁目','Fukutoshin','13',1],
+    ['Kita-sando','北参道','Fukutoshin','14',0],
+    ['Meiji-jingumae (Harajuku)','明治神宮前','Fukutoshin','15',1],
+    ['Shibuya','渋谷','Fukutoshin','16',1],
 
 ## Keio Railways
 
