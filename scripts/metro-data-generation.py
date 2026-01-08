@@ -220,11 +220,32 @@ raw_data = [
     ['Iriya','入谷','Hibiya', '19', 0],
     ['Minowa','三ノ輪','Hibiya', '20', 0],
     ['Minami-senju','南千住','Hibiya', '21', 1],
-    ['Kita-senju','中目黒','Hibiya', '22', 1]
-
-
+    ['Kita-senju','中目黒','Hibiya', '22', 1],
 
     # Tozai Line (23 stations)
+    ['Nakano', '中野', 'Tozai', '01', 1],
+    ['Ochiai', '落合', 'Tozai', '02', 0],
+    ['Takadanobaba', '高田馬場', 'Tozai', '03', 1],
+    ['Waseda', '早稲田', 'Tozai', '04', 1],
+    ['Kagurazaka', '神楽坂', 'Tozai', '05', 0],
+    ['Iidabashi', '飯田橋', 'Tozai', '06', 1],
+    ['Kudanshita', '九段下', 'Tozai', '07', 1],
+    ['Takebashi', '竹橋', 'Tozai', '08', 0],
+    ['Otemachi', '大手町', 'Tozai', '09', 1],
+    ['Nihombashi', '日本橋', 'Tozai', '10', 1],
+    ['Kayabacho', '茅場町', 'Tozai', '11', 1],
+    ['Monzen-nakacho', '門前仲町', 'Tozai', '12', 1],
+    ['Kiba', '木場', 'Tozai', '13', 0],
+    ['Toyocho', '東陽町', 'Tozai', '14', 0],
+    ['Minami-sunamachi', '南砂町', 'Tozai', '15', 0],
+    ['Nishi-kasai', '西葛西', 'Tozai', '16', 0],
+    ['Kasai', '葛西', 'Tozai', '17', 0],
+    ['Urayasu', '浦安', 'Tozai', '18', 0],
+    ['Minami-gyotoku', '南行徳', 'Tozai', '19', 0],
+    ['Gyotoku', '行徳', 'Tozai', '20', 0],
+    ['Myoden', '妙典', 'Tozai', '21', 0],
+    ['Baraki-nakayama', '原木中山', 'Tozai', '22', 0],
+    ['Nishi-funabashi', '西船橋', 'Tozai', '23', 1],
 
     # Chiyoda Line (20 stations)
 
