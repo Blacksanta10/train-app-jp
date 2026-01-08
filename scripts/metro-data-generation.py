@@ -312,6 +312,25 @@ raw_data = [
     ['Oshiage','押上','Hanzomon','14',1],
 
     # Namboku Line (19 stations)
+    ['Meguro','目黒','Namboku','01',1],
+    ['Shirokanedai','白金台','Namboku','02',1],
+    ['Shirokane-takanawa','白金高輪','Namboku','03',1],
+    ['Azabu-juban','麻布十番','Namboku','04',1],
+    ['Roppongi-itchome','六本木一丁目','Namboku','05',1],
+    ['Tameike-sanno','溜池山王','Namboku','06',1],
+    ['Nagatacho','永田町','Namboku','07',1],
+    ['Yotsuya','四ツ谷','Namboku','08',1],
+    ['Ichigaya','市ケ谷','Namboku','09',1],
+    ['Iidabashi','飯田橋','Namboku','10',1],
+    ['Korakuen','後楽園','Namboku','11',1],
+    ['Todaimae','東大前','Namboku','12',0],
+    ['Hon-komagome','本駒込','Namboku','13',0],
+    ['Komagome','駒込','Namboku','14',1],
+    ['Nishigahara','西ケ原','Namboku','15',1],
+    ['Oji','王子','Namboku','16',1],
+    ['Oji-kamiya','王子神谷','Namboku','17',0],
+    ['Shimo','志茂','Namboku','18',0],
+    ['Akabane-iwabuchi','赤羽岩淵','Namboku','19',1],
 
     # Fukutoshin Line (16 stations)
 
