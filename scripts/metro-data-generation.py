@@ -270,6 +270,30 @@ raw_data = [
     ['Kita-ayase','北綾瀬','Chiyoda','20', 0],
 
     # Yurakucho Line (24 stations)
+    ['Wakoshi','和光市','Yurakucho','01',1],
+    ['Chikatetsu-narimasu','地下鉄成増','Yurakucho','02',1],
+    ['Chikatetsu-akatsuka','地下鉄赤塚','Yurakucho','03',1],
+    ['Heiwadai','平和台','Yurakucho','04',1],
+    ['Hikawadai','氷川台','Yurakucho','05',1],
+    ['Kotake-mukaihara','小竹向原','Yurakucho','06',1],
+    ['Senkawa','千川','Yurakucho','07',1],
+    ['Kanamecho','要町','Yurakucho','08',1],
+    ['Ikebukuro','池袋','Yurakucho','09',1],
+    ['Higashi-ikebukuro','東池袋','Yurakucho','10',1],
+    ['Gokokuji','護国寺','Yurakucho','11',0],
+    ['Edogawabashi','江戸川橋','Yurakucho','12',0],
+    ['Iidabashi','飯田橋','Yurakucho','13',1],
+    ['Ichigaya','市ケ谷','Yurakucho','14',1],
+    ['Kojimachi','麹町','Yurakucho','15',0],
+    ['Nagatacho','永田町','Yurakucho','16',1],
+    ['Sakuradamon','桜田門','Yurakucho','17',0],
+    ['Yurakucho','有楽町','Yurakucho','18',1],
+    ['Ginza-itchome','銀座一丁目','Yurakucho','19',1],
+    ['Shintomicho','新富町','Yurakucho','20',1],
+    ['Tsukishima','月島','Yurakucho','21',1],
+    ['Toyosu','豊洲','Yurakucho','22',1],
+    ['Tatsumi','辰巳','Yurakucho','23',0],
+    ['Shin-kiba','新木場','Yurakucho','24',1],
 
     # Hanzomon Line (14 stations)
 
