@@ -296,6 +296,20 @@ raw_data = [
     ['Shin-kiba','新木場','Yurakucho','24',1],
 
     # Hanzomon Line (14 stations)
+    ['Shibuya','渋谷','Hanzomon','01',1],
+    ['Omotesando','表参道','Hanzomon','02',1],
+    ['Aoyama-itchome','青山一丁目','Hanzomon','03',1],
+    ['Nagatacho','永田町','Hanzomon','04',1],
+    ['Hanzomon','半蔵門','Hanzomon','05',0],
+    ['Kudanshita','九段下','Hanzomon','06',1],
+    ['Jimbocho','神保町','Hanzomon','07',1],
+    ['Otemachi','大手町','Hanzomon','08',1],
+    ['Mitsukoshimae','三越前','Hanzomon','09',1],
+    ['Suitengumae','水天宮前','Hanzomon','10',1],
+    ['Kiyosumi-shirakawa','清澄白河','Hanzomon','11',1],
+    ['Sumiyoshi','住吉','Hanzomon','12',1],
+    ['Kinshicho','錦糸町','Hanzomon','13',1],
+    ['Oshiage','押上','Hanzomon','14',1],
 
     # Namboku Line (19 stations)
 
