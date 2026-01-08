@@ -146,7 +146,7 @@ raw_data = [
 
 
 
-#[Station Name, Kanji, Line Name, Station Number, Is Interchange(1=multiple-lines)]
+#[Station Name, Kanji, Line Name, Station Number, Is Interchange]
 ## Tokyo Metro Line --------------------------------------------
 
     # Ginza Line (19 stations)
@@ -171,33 +171,57 @@ raw_data = [
     ['Asakusa', '浅草', 'Ginza', '19', 1],
 
     # Marunouchi Line (25 stations)
-    ['Ogikubo', '荻窪', 'Marunochi', '01', 1]
-    ['Minami-asagaya', '南阿佐ケ谷', 'Marunochi', '02', 0]
-    ['Shin-koenji', '新高円寺', 'Marunochi', '03', 0]
-    ['Higashi-koenji', '東高円寺', 'Marunochi', '04', 0]
-    ['Shin-nakano', '新中野', 'Marunochi', '05', 0]
-    ['Nakano-sakaue', '中野坂上', 'Marunochi', '06', 1]
-    ['Nishi-shinjuku', '西新宿', 'Marunochi', '07', 0]
-    ['Shinjuku', '新宿', 'Marunochi', '08', 1]
-    ['Shinjuku-sanchome', '新宿三丁目', 'Marunochi', '09', 1]
-    ['Shinjuku-gyoemmae', '新宿御苑前', 'Marunochi', '10', 0]
-    ['Yotsuya-sanchome', '四谷三丁目', 'Marunochi', '11', 0]
-    ['Yotsuya', '四ツ谷', 'Marunochi', '12', 1]
-    ['Akasaka-mitsuke', '赤坂見附', 'Marunochi', '13', 1]
-    ['Kokkai-gijido-mae', '国会議事堂前', 'Marunochi', '14', 1]
-    ['Kasumigaseki', '霞ケ関', 'Marunochi', '15', 1]
-    ['Ginza', '銀座', 'Marunochi', '16', 1]
-    ['Tokyo', '東京', 'Marunochi', '17', 1]
-    ['Otemachi', '大手町', 'Marunochi', '18', 1]
-    ['Awajicho', '淡路町', 'Marunochi', '19', 1]
-    ['Ochanomizu', '御茶ノ水', 'Marunochi', '20', 1]
-    ['Hongo-sanchome', '本郷三丁目', 'Marunochi', '21', 1]
-    ['Korakuen', '後楽園', 'Marunochi', '22', 1]
-    ['Myogadani', '茗荷谷', 'Marunochi', '23', 0]
-    ['Shin-otsuka', '新大塚', 'Marunochi', '24', 0]
-    ['Ikebukuro', '	池袋', 'Marunochi', '25', 1]
+    ['Ogikubo', '荻窪', 'Marunouchi', '01', 1],
+    ['Minami-asagaya', '南阿佐ケ谷', 'Marunouchi', '02', 0],
+    ['Shin-koenji', '新高円寺', 'Marunouchi', '03', 0],
+    ['Higashi-koenji', '東高円寺', 'Marunouchi', '04', 0],
+    ['Shin-nakano', '新中野', 'Marunouchi', '05', 0],
+    ['Nakano-sakaue', '中野坂上', 'Marunouchi', '06', 1],
+    ['Nishi-shinjuku', '西新宿', 'Marunouchi', '07', 0],
+    ['Shinjuku', '新宿', 'Marunouchi', '08', 1],
+    ['Shinjuku-sanchome', '新宿三丁目', 'Marunouchi', '09', 1],
+    ['Shinjuku-gyoemmae', '新宿御苑前', 'Marunouchi', '10', 0],
+    ['Yotsuya-sanchome', '四谷三丁目', 'Marunouchi', '11', 0],
+    ['Yotsuya', '四ツ谷', 'Marunouchi', '12', 1],
+    ['Akasaka-mitsuke', '赤坂見附', 'Marunouchi', '13', 1],
+    ['Kokkai-gijido-mae', '国会議事堂前', 'Marunouchi', '14', 1],
+    ['Kasumigaseki', '霞ケ関', 'Marunouchi', '15', 1],
+    ['Ginza', '銀座', 'Marunouchi', '16', 1],
+    ['Tokyo', '東京', 'Marunouchi', '17', 1],
+    ['Otemachi', '大手町', 'Marunouchi', '18', 1],
+    ['Awajicho', '淡路町', 'Marunouchi', '19', 1],
+    ['Ochanomizu', '御茶ノ水', 'Marunouchi', '20', 1],
+    ['Hongo-sanchome', '本郷三丁目', 'Marunouchi', '21', 1],
+    ['Korakuen', '後楽園', 'Marunouchi', '22', 1],
+    ['Myogadani', '茗荷谷', 'Marunouchi', '23', 0],
+    ['Shin-otsuka', '新大塚', 'Marunouchi', '24', 0],
+    ['Ikebukuro', '	池袋', 'Marunouchi', '25', 1],
+
 
     # Hibiya Line (22 stations)
+    ['Naka-meguro','中目黒','Hibiya', '01', 1],
+    ['Ebisu','恵比寿','Hibiya', '02', 1],
+    ['Hiro-o','広尾','Hibiya', '03', 0],
+    ['Roppongi','六本木','Hibiya', '04', 1],
+    ['Kamiyacho','神谷町','Hibiya', '05', 0],
+    ['Toranomon Hills','虎ノ門ヒルズ','Hibiya', '06', 1],
+    ['Kasumigaseki','霞ケ関','Hibiya', '07', 1],
+    ['Hibiya','日比谷','Hibiya', '08', 1],
+    ['Ginza','銀座','Hibiya', '09', 1],
+    ['Higashi-ginza','東銀座','Hibiya', '10', 1],
+    ['Tsukiji','築地','Hibiya', '11', 1],
+    ['Hatchobori','八丁堀','Hibiya', '12', 1],
+    ['Kayabacho','茅場町','Hibiya', '13', 1],
+    ['Ningyocho','人形町','Hibiya', '14', 1],
+    ['Kodemmacho','小伝馬町','Hibiya', '15', 0],
+    ['Akihabara','秋葉原','Hibiya', '16', 1],
+    ['Naka-okachimachi','仲御徒町','Hibiya', '17', 1],
+    ['Ueno','上野','Hibiya', '18', 1],
+    ['Iriya','入谷','Hibiya', '19', 0],
+    ['Minowa','三ノ輪','Hibiya', '20', 0],
+    ['Minami-senju','南千住','Hibiya', '21', 1],
+    ['Kita-senju','中目黒','Hibiya', '22', 1]
+
 
 
     # Tozai Line (23 stations)
