@@ -21,7 +21,16 @@ line_metadata = {
     'Asakusa': {'code_letter': 'A', 'color': '#EC6E65', 'owner': 'Toei'},
     'Mita': {'code_letter': 'I', 'color': '#006CB6', 'owner': 'Toei'},
     'Shinjuku': {'code_letter': 'S', 'color': '#B0C124', 'owner': 'Toei'},
-    'Oedo': {'code_letter': 'E', 'color': '#CE045B', 'owner': 'Toei'}
+    'Oedo': {'code_letter': 'E', 'color': '#CE045B', 'owner': 'Toei'},
+
+    # --- KEIO RAILWAY ---
+    'Keio Line' : {'code_letter': 'K', 'color': "#E715D6", 'owner': 'Keio Corp'},
+    'Keio Sagamihara' : {'code_letter': 'K', 'color': "#E715D6", 'owner': 'Keio Corp'},
+    'Keio Takao' : {'code_letter': 'K', 'color': "#E715D6", 'owner': 'Keio Corp'},
+    'Keio Inokashira' : {'code_letter': 'K', 'color': "#E715D6", 'owner': 'Keio Corp'},
+    'Keio New' : {'code_letter': 'K', 'color': "#E715D6", 'owner': 'Keio Corp'},
+    'Keio Dobutsuen' : {'code_letter': 'K', 'color': "#E715D6", 'owner': 'Keio Corp'},
+    'Keio Keibajo' : {'code_letter': 'K', 'color': "#E715D6", 'owner': 'Keio Corp'},
 }
 
 # 2. Your Station Data (The "Input")
@@ -352,16 +361,71 @@ raw_data = [
 
 ## Keio Railways
 
-    # All 7 Keio Lines
+    #Keio Line (32 stations)
+    ['Shinjuku','新宿', 'Keio Line','01',1],
+    ['Sasazuka','笹塚', 'Keio Line','04',1],
+    ['Daitabashi','代田橋', 'Keio Line','05',0],
+    ['Meidaimae','明大前', 'Keio Line','06',1],
+    ['Shimo-Takaido','桜上水', 'Keio Line','07',1],
+    ['Sakurajosui','新宿', 'Keio Line','08',0],
+    ['Kami-Kitazawa','上北沢', 'Keio Line','09',0],
+    ['Hachimanyama','八幡山', 'Keio Line','10',0],
+    ['Roka-koen','芦花公園', 'Keio Line','11',0],
+    ['Chitose-karasuyama','千歳烏山', 'Keio Line','12',0],
+    ['Sengawa','仙川', 'Keio Line','13',0],
+    ['Tsutsujigaoka','つつじヶ丘', 'Keio Line','14',0],
+    ['Shinbasaki','柴崎', 'Keio Line','15',0],
+    ['Kokuryo','国領', 'Keio Line','16',0],
+    ['Fuda','布田', 'Keio Line','17',0],
+    ['Chofu','調布', 'Keio Line','18',1],
+    ['Nishi-chofu','西調布', 'Keio Line','19',0],
+    ['Tobitakyu','飛田給', 'Keio Line','20',0],
+    ['Musashinodai','武蔵野台', 'Keio Line','21',1],
+    ['Tama-reien','多磨霊園', 'Keio Line','22',0],
+    ['Higashi-Fuchu','東府中', 'Keio Line','23',1],
+    ['Fuchu','府中', 'Keio Line','24',0],
+    ['Bubaigawara','分倍河原', 'Keio Line','25',1],
+    ['Nakagawara','中河原', 'Keio Line','26',1],
+    ['Seiseki-sakuragaoka','聖蹟桜ヶ丘', 'Keio Line','27',0],
+    ['Mogusaen','草園', 'Keio Line','28',0],
+    ['Takahatafudo','高幡不動', 'Keio Line','29',1],
+    ['Minamidaira','南平', 'Keio Line','30',0],
+    ['Hirayamajoshi-koen','平山城址公園', 'Keio Line','31',0],
+    ['Naganuma','長沼', 'Keio Line','32',1],
+    ['Kitano','北野', 'Keio Line','33',1],
+    ['Keio-hachioji','京王八王子', 'Keio Line','34',1],
+
+
+    # Keio Sagamihara Line (12 staions)
+    ['Chofu','調布','Keio Sagamihara', '18', 1],
+    ['Keio-tamagawa','京王多摩川','Keio Sagamihara','35', 1],
+    ['Keio-inadazutsumi','京王稲田堤','Keio Sagamihara', '36', 1],
+    ['Keio-yomiuri-land','京王よみうりランド','Keio Sagamihara', '37', 0],
+    ['Inagi','稲城','Keio Sagamihara', '38', 0],
+    ['Wakabadai', '若葉台','Keio Sagamihara', '39', 0],
+    ['Keio-nagayama', '永山','Keio Sagamihara', '40', 1],
+    ['Keio-tama-center', '多摩センター','Keio Sagamihara', '41', 1],
+    ['Keio horinouchi', '京王堀之内','Keio Sagamihara', '42', 1],
+    ['Minami-osawa', '南大沢','Keio Sagamihara', '43', 1],
+    ['Tamasakai', '多摩境駅','Keio Sagamihara', '44', 1],
+    ['Hashimoto', '調布','Keio Sagamihara', '45', 1],
+
+    #Keio Takao Line (7 stations)
+
+    # Keio New Line (4 stations)
+
+    # Keio Dobutsuen Line (2 stations)
+
+    # Keio Keibajo Line (2 stations)
+
+    # Keio Inokashira Line (17 stations)
 
 
 # Other important --------------------------------------------------------
 
-    # Chuo Sobu Line 
+    # Chuo Sobu Line (39 stations)
 
-    # Yamanote Line
-
-
+    # Yamanote Line (25 stations)
 
 ]
 
