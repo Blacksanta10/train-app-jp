@@ -27,7 +27,7 @@ line_metadata = {
     'Keio Line' : {'code_letter': 'K', 'color': "#E715D6", 'owner': 'Keio Corp'},
     'Keio Sagamihara' : {'code_letter': 'K', 'color': "#E715D6", 'owner': 'Keio Corp'},
     'Keio Takao' : {'code_letter': 'K', 'color': "#E715D6", 'owner': 'Keio Corp'},
-    'Keio Inokashira' : {'code_letter': 'K', 'color': "#E715D6", 'owner': 'Keio Corp'},
+    'Keio Inokashira' : {'code_letter': 'IN', 'color': "#E715D6", 'owner': 'Keio Corp'},
     'Keio New' : {'code_letter': 'K', 'color': "#E715D6", 'owner': 'Keio Corp'},
     'Keio Dobutsuen' : {'code_letter': 'K', 'color': "#E715D6", 'owner': 'Keio Corp'},
     'Keio Keibajo' : {'code_letter': 'K', 'color': "#E715D6", 'owner': 'Keio Corp'},
@@ -411,14 +411,46 @@ raw_data = [
     ['Hashimoto', '調布','Keio Sagamihara', '45', 1],
 
     #Keio Takao Line (7 stations)
+    ['Kitano','北野','Keio Takao','33',0],
+    ['Keio-katakura','京王片倉','Keio Takao','48',1],
+    ['Yamada','山田','Keio Takao','49',0],
+    ['Mejirodai','めじろ台','Keio Takao','50',0],
+    ['Hazama','狭間','Keio Takao','51',0],
+    ['Takao','高尾','Keio Takao','52',1],
+    ['Takaosanguchi','高尾山口','Keio Takao','53',0],
 
     # Keio New Line (4 stations)
+    ['Shinjuku','新宿','Keio New', '01', 1],
+    ['Hatsudai','初台','Keio New', '02', 0],
+    ['Hatagaya','幡ヶ谷','Keio New', '03', 0],
+    ['Sasazuka','笹塚','Keio New', '04', 1],
 
     # Keio Dobutsuen Line (2 stations)
+    ['Takahatafudo','高幡不動','Keio Dobutsuen','29',1],
+    ['Tama-dobutsukoen','多摩動物公園','Keio Dobutsuen','47',1],
 
     # Keio Keibajo Line (2 stations)
+    ['Higashi-Fuchu','東府中','Keio Keibajo', '23',1],
+    ['Fuchukeiba-seimommae','府中競馬正門前','Keio Keibajo', '46',0],
 
     # Keio Inokashira Line (17 stations)
+    ['Shibuya','渋谷','Keio Inokashira', '01', 1],
+    ['Shinsen','神泉','Keio Inokashira', '02', 0],
+    ['Komaba-todaimae','駒場東大前','Keio Inokashira', '03', 0],
+    ['Ikenoue','池ノ上','Keio Inokashira', '04', 0],
+    ['Shimo-kitazawa','下北沢','Keio Inokashira', '05', 1],
+    ['Shindaita','新代田','Keio Inokashira', '06', 0],
+    ['Higashi-matsubara','東松原','Keio Inokashira', '07', 0],
+    ['Meidaimae','明大前','Keio Inokashira', '08', 1],
+    ['Eifukucho','永福町','Keio Inokashira', '09', 0],
+    ['Nishi-eifuku','西永福','Keio Inokashira', '10', 0],
+    ['Hamadayama','浜田山','Keio Inokashira', '11', 0],
+    ['Takaido','高井戸','Keio Inokashira', '12', 0],
+    ['Fujimigaoka','富士見ヶ丘','Keio Inokashira', '13', 0],
+    ['Kugayama','久我山','Keio Inokashira', '14', 0],
+    ['Mitakadai','三鷹台','Keio Inokashira', '15', 0],
+    ['Inokashira-koen','井の頭公園','Keio Inokashira', '16', 0],
+    ['Kichijoji','吉祥寺','Keio Inokashira', '17', 1],
 
 
 # Other important --------------------------------------------------------
