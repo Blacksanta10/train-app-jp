@@ -170,7 +170,7 @@ Ueno,上野,Hibiya,Tokyo Metro,H18,#B5B5AC,1
 Iriya,入谷,Hibiya,Tokyo Metro,H19,#B5B5AC,0
 Minowa,三ノ輪,Hibiya,Tokyo Metro,H20,#B5B5AC,0
 Minami-senju,南千住,Hibiya,Tokyo Metro,H21,#B5B5AC,1
-Kita-senju,中目黒,Hibiya,Tokyo Metro,H22,#B5B5AC,1
+Kita-senju,北千住,Hibiya,Tokyo Metro,H22,#B5B5AC,1
 Nakano,中野,Tozai,Tokyo Metro,T01,#009BBF,1
 Ochiai,落合,Tozai,Tokyo Metro,T02,#009BBF,0
 Takadanobaba,高田馬場,Tozai,Tokyo Metro,T03,#009BBF,1
@@ -291,8 +291,8 @@ Shinjuku,新宿,Keio Line,Keio Corp,K01,#E715D6,1
 Sasazuka,笹塚,Keio Line,Keio Corp,K04,#E715D6,1
 Daitabashi,代田橋,Keio Line,Keio Corp,K05,#E715D6,0
 Meidaimae,明大前,Keio Line,Keio Corp,K06,#E715D6,1
-Shimo-Takaido,桜上水,Keio Line,Keio Corp,K07,#E715D6,1
-Sakurajosui,新宿,Keio Line,Keio Corp,K08,#E715D6,0
+Shimo-Takaido,下高井戸,Keio Line,Keio Corp,K07,#E715D6,1
+Sakurajosui,桜上水,Keio Line,Keio Corp,K08,#E715D6,0
 Kami-Kitazawa,上北沢,Keio Line,Keio Corp,K09,#E715D6,0
 Hachimanyama,八幡山,Keio Line,Keio Corp,K10,#E715D6,0
 Roka-koen,芦花公園,Keio Line,Keio Corp,K11,#E715D6,0
@@ -312,7 +312,7 @@ Fuchu,府中,Keio Line,Keio Corp,K24,#E715D6,0
 Bubaigawara,分倍河原,Keio Line,Keio Corp,K25,#E715D6,1
 Nakagawara,中河原,Keio Line,Keio Corp,K26,#E715D6,1
 Seiseki-sakuragaoka,聖蹟桜ヶ丘,Keio Line,Keio Corp,K27,#E715D6,0
-Mogusaen,草園,Keio Line,Keio Corp,K28,#E715D6,0
+Mogusaen,百草園,Keio Line,Keio Corp,K28,#E715D6,0
 Takahatafudo,高幡不動,Keio Line,Keio Corp,K29,#E715D6,1
 Minamidaira,南平,Keio Line,Keio Corp,K30,#E715D6,0
 Hirayamajoshi-koen,平山城址公園,Keio Line,Keio Corp,K31,#E715D6,0
@@ -327,10 +327,10 @@ Inagi,稲城,Keio Sagamihara,Keio Corp,K38,#E715D6,0
 Wakabadai,若葉台,Keio Sagamihara,Keio Corp,K39,#E715D6,0
 Keio-nagayama,永山,Keio Sagamihara,Keio Corp,K40,#E715D6,1
 Keio-tama-center,多摩センター,Keio Sagamihara,Keio Corp,K41,#E715D6,1
-Keio horinouchi,京王堀之内,Keio Sagamihara,Keio Corp,K42,#E715D6,1
+Keio-horinouchi,京王堀之内,Keio Sagamihara,Keio Corp,K42,#E715D6,1
 Minami-osawa,南大沢,Keio Sagamihara,Keio Corp,K43,#E715D6,1
-Tamasakai,多摩境駅,Keio Sagamihara,Keio Corp,K44,#E715D6,1
-Hashimoto,調布,Keio Sagamihara,Keio Corp,K45,#E715D6,1
+Tamasakai,多摩境,Keio Sagamihara,Keio Corp,K44,#E715D6,1
+Hashimoto,橋本,Keio Sagamihara,Keio Corp,K45,#E715D6,1
 Kitano,北野,Keio Takao,Keio Corp,K33,#E715D6,0
 Keio-katakura,京王片倉,Keio Takao,Keio Corp,K48,#E715D6,1
 Yamada,山田,Keio Takao,Keio Corp,K49,#E715D6,0
@@ -346,23 +346,23 @@ Takahatafudo,高幡不動,Keio Dobutsuen,Keio Corp,K29,#E715D6,1
 Tama-dobutsukoen,多摩動物公園,Keio Dobutsuen,Keio Corp,K47,#E715D6,1
 Higashi-Fuchu,東府中,Keio Keibajo,Keio Corp,K23,#E715D6,1
 Fuchukeiba-seimommae,府中競馬正門前,Keio Keibajo,Keio Corp,K46,#E715D6,0
-Shibuya,渋谷,Keio Inokashira,Keio Corp,IN01,#E715D6,1
-Shinsen,神泉,Keio Inokashira,Keio Corp,IN02,#E715D6,0
-Komaba-todaimae,駒場東大前,Keio Inokashira,Keio Corp,IN03,#E715D6,0
-Ikenoue,池ノ上,Keio Inokashira,Keio Corp,IN04,#E715D6,0
-Shimo-kitazawa,下北沢,Keio Inokashira,Keio Corp,IN05,#E715D6,1
-Shindaita,新代田,Keio Inokashira,Keio Corp,IN06,#E715D6,0
-Higashi-matsubara,東松原,Keio Inokashira,Keio Corp,IN07,#E715D6,0
-Meidaimae,明大前,Keio Inokashira,Keio Corp,IN08,#E715D6,1
-Eifukucho,永福町,Keio Inokashira,Keio Corp,IN09,#E715D6,0
-Nishi-eifuku,西永福,Keio Inokashira,Keio Corp,IN10,#E715D6,0
-Hamadayama,浜田山,Keio Inokashira,Keio Corp,IN11,#E715D6,0
-Takaido,高井戸,Keio Inokashira,Keio Corp,IN12,#E715D6,0
-Fujimigaoka,富士見ヶ丘,Keio Inokashira,Keio Corp,IN13,#E715D6,0
-Kugayama,久我山,Keio Inokashira,Keio Corp,IN14,#E715D6,0
-Mitakadai,三鷹台,Keio Inokashira,Keio Corp,IN15,#E715D6,0
-Inokashira-koen,井の頭公園,Keio Inokashira,Keio Corp,IN16,#E715D6,0
-Kichijoji,吉祥寺,Keio Inokashira,Keio Corp,IN17,#E715D6,1
+Shibuya,渋谷,Keio Inokashira,Keio Corp,IN01,#0D197E,1
+Shinsen,神泉,Keio Inokashira,Keio Corp,IN02,#0D197E,0
+Komaba-todaimae,駒場東大前,Keio Inokashira,Keio Corp,IN03,#0D197E,0
+Ikenoue,池ノ上,Keio Inokashira,Keio Corp,IN04,#0D197E,0
+Shimo-kitazawa,下北沢,Keio Inokashira,Keio Corp,IN05,#0D197E,1
+Shindaita,新代田,Keio Inokashira,Keio Corp,IN06,#0D197E,0
+Higashi-matsubara,東松原,Keio Inokashira,Keio Corp,IN07,#0D197E,0
+Meidaimae,明大前,Keio Inokashira,Keio Corp,IN08,#0D197E,1
+Eifukucho,永福町,Keio Inokashira,Keio Corp,IN09,#0D197E,0
+Nishi-eifuku,西永福,Keio Inokashira,Keio Corp,IN10,#0D197E,0
+Hamadayama,浜田山,Keio Inokashira,Keio Corp,IN11,#0D197E,0
+Takaido,高井戸,Keio Inokashira,Keio Corp,IN12,#0D197E,0
+Fujimigaoka,富士見ヶ丘,Keio Inokashira,Keio Corp,IN13,#0D197E,0
+Kugayama,久我山,Keio Inokashira,Keio Corp,IN14,#0D197E,0
+Mitakadai,三鷹台,Keio Inokashira,Keio Corp,IN15,#0D197E,0
+Inokashira-koen,井の頭公園,Keio Inokashira,Keio Corp,IN16,#0D197E,0
+Kichijoji,吉祥寺,Keio Inokashira,Keio Corp,IN17,#0D197E,1
 Mitaka,三鷹,Chuo Sobu,JR East,JB01,#EBD728,1
 Kichijoji,吉祥寺,Chuo Sobu,JR East,JB02,#EBD728,1
 Nishi-ogikubo,西荻窪,Chuo Sobu,JR East,JB03,#EBD728,0
@@ -395,13 +395,13 @@ Shimosa-nakayama,下総中山,Chuo Sobu,JR East,JB29,#EBD728,0
 Nishi-funabashi,西船橋,Chuo Sobu,JR East,JB30,#EBD728,1
 Funabashi,船橋,Chuo Sobu,JR East,JB31,#EBD728,1
 Higashi-funabashi,東船橋,Chuo Sobu,JR East,JB32,#EBD728,0
-Mitaka,津田沼,Chuo Sobu,JR East,JB33,#EBD728,1
-Mitaka,幕張本郷,Chuo Sobu,JR East,JB34,#EBD728,1
-Mitaka,幕張,Chuo Sobu,JR East,JB35,#EBD728,1
-Mitaka,新検見川,Chuo Sobu,JR East,JB36,#EBD728,0
-Mitaka,稲毛,Chuo Sobu,JR East,JB37,#EBD728,0
-Mitaka,西千葉,Chuo Sobu,JR East,JB38,#EBD728,0
-Mitaka,千葉,Chuo Sobu,JR East,JB39,#EBD728,1
+Tsudanuma,津田沼,Chuo Sobu,JR East,JB33,#EBD728,1
+Makuharihongo,幕張本郷,Chuo Sobu,JR East,JB34,#EBD728,1
+Makuhari,幕張,Chuo Sobu,JR East,JB35,#EBD728,1
+Shin-kemigawa,新検見川,Chuo Sobu,JR East,JB36,#EBD728,0
+Inage,稲毛,Chuo Sobu,JR East,JB37,#EBD728,0
+Nishi-chiba,西千葉,Chuo Sobu,JR East,JB38,#EBD728,0
+Chiba,千葉,Chuo Sobu,JR East,JB39,#EBD728,1
 Tokyo,東京,Yamanote,JR East,JB01,#42911E,1
 Kanda,神田,Yamanote,JR East,JB02,#42911E,1
 Akihabara,秋葉原,Yamanote,JR East,JB03,#42911E,1
