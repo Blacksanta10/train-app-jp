@@ -1,429 +1,429 @@
-﻿station_name,station_kanji,line_name,system_owner,station_code,line_color,is_interchange
-Nishi-magome,西馬込,Asakusa,Toei,A01,#EC6E65,0
-Magome,馬込,Asakusa,Toei,A02,#EC6E65,0
-Nakanobu,中延,Asakusa,Toei,A03,#EC6E65,0
-Togoshi,戸越,Asakusa,Toei,A04,#EC6E65,0
-Gotanda,五反田,Asakusa,Toei,A05,#EC6E65,1
-Takanawadai,高輪台,Asakusa,Toei,A06,#EC6E65,0
-Sengakuji,泉岳寺,Asakusa,Toei,A07,#EC6E65,1
-Mita,三田,Asakusa,Toei,A08,#EC6E65,1
-Daimon,大門,Asakusa,Toei,A09,#EC6E65,1
-Shimbashi,新橋,Asakusa,Toei,A10,#EC6E65,1
-Higashi-ginza,浅東銀座,Asakusa,Toei,A11,#EC6E65,1
-Takaracho,宝町,Asakusa,Toei,A12,#EC6E65,0
-Nihombashi,日本橋,Asakusa,Toei,A13,#EC6E65,1
-Ningyocho,人形町,Asakusa,Toei,A14,#EC6E65,1
-Bakuro-yokoyama,馬喰横山,Asakusa,Toei,A15,#EC6E65,1
-Asakusabashi,浅草橋,Asakusa,Toei,A16,#EC6E65,0
-Kuramae,蔵前,Asakusa,Toei,A17,#EC6E65,1
-Asakusa,浅草,Asakusa,Toei,A18,#EC6E65,1
-Honjo-azumabashi,本所吾妻橋,Asakusa,Toei,A19,#EC6E65,0
-Oshiage,押上,Asakusa,Toei,A20,#EC6E65,0
-Meguro,目黒,Mita,Toei,I01,#006CB6,1
-Shirokanedai,白金台,Mita,Toei,I02,#006CB6,1
-Shirokane-takanawa,白金高輪,Mita,Toei,I03,#006CB6,1
-Mita,三田,Mita,Toei,I04,#006CB6,1
-Shibakoen,芝公園,Mita,Toei,I05,#006CB6,0
-Onarimon,御成門,Mita,Toei,I06,#006CB6,0
-Uchisaiwaicho,内幸町,Mita,Toei,I07,#006CB6,0
-Hibiya,日比谷,Mita,Toei,I08,#006CB6,1
-Otemachi,大手町,Mita,Toei,I09,#006CB6,1
-Jimbocho,神保町,Mita,Toei,I10,#006CB6,1
-Suidobashi,水道橋,Mita,Toei,I11,#006CB6,1
-Kasuga,春日,Mita,Toei,I12,#006CB6,1
-Hakusan,白山,Mita,Toei,I13,#006CB6,0
-Sengoku,千石,Mita,Toei,I14,#006CB6,0
-Sugamo,巣鴨,Mita,Toei,I15,#006CB6,1
-Nishi-sugamo,西巣鴨,Mita,Toei,I16,#006CB6,1
-Shin-Itabashi,新板橋,Mita,Toei,I17,#006CB6,1
-Itabashi-kuyakushomae,板橋区役所前,Mita,Toei,I18,#006CB6,0
-Itabashi-honcho,板橋本町,Mita,Toei,I19,#006CB6,0
-Motohasunuma,本蓮沼,Mita,Toei,I20,#006CB6,0
-Shimura-sakaue,志村坂上,Mita,Toei,I21,#006CB6,0
-Shimura-sanchome,志村三丁目,Mita,Toei,I22,#006CB6,0
-Hasune,蓮根,Mita,Toei,I23,#006CB6,0
-Nishidai,西台,Mita,Toei,I24,#006CB6,0
-Takashimadaira,高島平,Mita,Toei,I25,#006CB6,0
-Shin-takashimadaira,新高島平,Mita,Toei,I26,#006CB6,0
-Nishi-takashimadaira,西高島平,Mita,Toei,I27,#006CB6,0
-Shinjuku,新宿,Shinjuku,Toei,S01,#B0C124,1
-Shinjuku-sanchome,新宿三丁目,Shinjuku,Toei,S02,#B0C124,1
-Akenbonobashi,曙橋,Shinjuku,Toei,S03,#B0C124,0
-Ichigaya,市ヶ谷,Shinjuku,Toei,S04,#B0C124,1
-Kudanshita,九段下,Shinjuku,Toei,S05,#B0C124,1
-Jimbocho,神保町,Shinjuku,Toei,S06,#B0C124,1
-Ogawamachi,小川町,Shinjuku,Toei,S07,#B0C124,1
-Iwamotocho,岩本町,Shinjuku,Toei,S08,#B0C124,1
-Bakuro-yokohama,馬喰横山,Shinjuku,Toei,S09,#B0C124,1
-Hamacho,浜町,Shinjuku,Toei,S10,#B0C124,0
-Morishita,森下,Shinjuku,Toei,S11,#B0C124,1
-Kikukawa,菊川,Shinjuku,Toei,S12,#B0C124,0
-Sumiyoshi,住吉,Shinjuku,Toei,S13,#B0C124,1
-Nishi-ojima,西大島,Shinjuku,Toei,S14,#B0C124,0
-Ojima,大島,Shinjuku,Toei,S15,#B0C124,0
-Higashi-ojima,東大島,Shinjuku,Toei,S16,#B0C124,0
-Funabori,船堀,Shinjuku,Toei,S17,#B0C124,0
-Ichinoe,一之江,Shinjuku,Toei,S18,#B0C124,0
-Mizue,瑞江,Shinjuku,Toei,S19,#B0C124,0
-Shinozaki,篠崎,Shinjuku,Toei,S20,#B0C124,0
-Motoyawata,本八幡,Shinjuku,Toei,S21,#B0C124,1
-Shinjuku-nishiguchi,新宿西口,Oedo,Toei,E01,#CE045B,1
-Higashi-shinjuku,東新宿,Oedo,Toei,E02,#CE045B,1
-Wakamatsu-kawada,若松河田,Oedo,Toei,E03,#CE045B,0
-Ushigome-yanagicho,牛込柳町,Oedo,Toei,E04,#CE045B,0
-Ushigome-kagurazaka,牛込神楽坂,Oedo,Toei,E05,#CE045B,0
-Iidabashi,飯田橋,Oedo,Toei,E06,#CE045B,1
-Kasuga,春日,Oedo,Toei,E07,#CE045B,1
-Hongo-sanchome,本郷三丁目,Oedo,Toei,E08,#CE045B,1
-Ueno-okachimachi,上野御徒町,Oedo,Toei,E09,#CE045B,1
-Shin-okachimachi,新御徒町,Oedo,Toei,E10,#CE045B,1
-Kuramae,蔵前,Oedo,Toei,E11,#CE045B,1
-Ryogoku,両国,Oedo,Toei,E12,#CE045B,1
-Morishita,森下,Oedo,Toei,E13,#CE045B,1
-Kiyosumi-shirakawa,清澄白河,Oedo,Toei,E14,#CE045B,1
-Monzen-nakacho,門前仲町,Oedo,Toei,E15,#CE045B,1
-Tsukishima,月島,Oedo,Toei,E16,#CE045B,1
-Kachidoki,勝どき,Oedo,Toei,E17,#CE045B,0
-Tsukijishijo,築地市場,Oedo,Toei,E18,#CE045B,0
-Shiodome,汐留,Oedo,Toei,E19,#CE045B,1
-Daimon,大門,Oedo,Toei,E20,#CE045B,1
-Akabanebashi,赤羽橋,Oedo,Toei,E21,#CE045B,0
-Azabu-juban,麻布十番,Oedo,Toei,E22,#CE045B,1
-Roppongi,	六本木,Oedo,Toei,E23,#CE045B,1
-Aoyama-itchome,青山一丁目,Oedo,Toei,E24,#CE045B,1
-Kokuritsu-kyogijo,国立競技場,Oedo,Toei,E25,#CE045B,0
-Yoyogi,代々木,Oedo,Toei,E26,#CE045B,1
-Shinjuku,新宿,Oedo,Toei,E27,#CE045B,1
-Tochomae,都庁前,Oedo,Toei,E28,#CE045B,1
-Nishi-shinjuku-gochome,西新宿五丁目,Oedo,Toei,E29,#CE045B,0
-Nakano-sakaue,中野坂上,Oedo,Toei,E30,#CE045B,1
-Higashi-nakano,東中野,Oedo,Toei,E31,#CE045B,1
-Nakai,中井,Oedo,Toei,E32,#CE045B,1
-Ochiai-minami-nagasaki,落合南長崎,Oedo,Toei,E33,#CE045B,0
-Shin-egota,新江古田,Oedo,Toei,E34,#CE045B,0
-Nerima,練馬,Oedo,Toei,E35,#CE045B,1
-Toshimaen,	豊島園,Oedo,Toei,E36,#CE045B,0
-Nerima-kasugacho,練馬春日町,Oedo,Toei,E37,#CE045B,0
-Hikarigaoka,光が丘,Oedo,Toei,E38,#CE045B,0
-Shibuya,渋谷,Ginza,Tokyo Metro,G01,#FF9500,1
-Omote-sando,表参道,Ginza,Tokyo Metro,G02,#FF9500,1
-Gaiemmae,外苑前,Ginza,Tokyo Metro,G03,#FF9500,0
-Aoyama-itchome,青山一丁目,Ginza,Tokyo Metro,G04,#FF9500,1
-Akasaka-mitsuke,赤坂見附,Ginza,Tokyo Metro,G05,#FF9500,1
-Tameike-sanno,溜池山王,Ginza,Tokyo Metro,G06,#FF9500,1
-Toranomon,虎ノ門,Ginza,Tokyo Metro,G07,#FF9500,1
-Shimbashi,新橋,Ginza,Tokyo Metro,G08,#FF9500,1
-Ginza,銀座,Ginza,Tokyo Metro,G09,#FF9500,1
-Kyobashi,京橋,Ginza,Tokyo Metro,G10,#FF9500,0
-Nihombashi,日本橋,Ginza,Tokyo Metro,G11,#FF9500,1
-Mitsukoshimae,三越前,Ginza,Tokyo Metro,G12,#FF9500,1
-Kanda,神田,Ginza,Tokyo Metro,G13,#FF9500,1
-Suehirocho,末広町,Ginza,Tokyo Metro,G14,#FF9500,0
-Ueno-hirokoji,上野広小路,Ginza,Tokyo Metro,G15,#FF9500,1
-Ueno,上野,Ginza,Tokyo Metro,G16,#FF9500,1
-Inaricho,	稲荷町,Ginza,Tokyo Metro,G17,#FF9500,0
-Tawaramachi,田原町,Ginza,Tokyo Metro,G18,#FF9500,0
-Asakusa,浅草,Ginza,Tokyo Metro,G19,#FF9500,1
-Ogikubo,荻窪,Marunouchi,Tokyo Metro,M01,#F62E36,1
-Minami-asagaya,南阿佐ケ谷,Marunouchi,Tokyo Metro,M02,#F62E36,0
-Shin-koenji,新高円寺,Marunouchi,Tokyo Metro,M03,#F62E36,0
-Higashi-koenji,東高円寺,Marunouchi,Tokyo Metro,M04,#F62E36,0
-Shin-nakano,新中野,Marunouchi,Tokyo Metro,M05,#F62E36,0
-Nakano-sakaue,中野坂上,Marunouchi,Tokyo Metro,M06,#F62E36,1
-Nishi-shinjuku,西新宿,Marunouchi,Tokyo Metro,M07,#F62E36,0
-Shinjuku,新宿,Marunouchi,Tokyo Metro,M08,#F62E36,1
-Shinjuku-sanchome,新宿三丁目,Marunouchi,Tokyo Metro,M09,#F62E36,1
-Shinjuku-gyoemmae,新宿御苑前,Marunouchi,Tokyo Metro,M10,#F62E36,0
-Yotsuya-sanchome,四谷三丁目,Marunouchi,Tokyo Metro,M11,#F62E36,0
-Yotsuya,四ツ谷,Marunouchi,Tokyo Metro,M12,#F62E36,1
-Akasaka-mitsuke,赤坂見附,Marunouchi,Tokyo Metro,M13,#F62E36,1
-Kokkai-gijido-mae,国会議事堂前,Marunouchi,Tokyo Metro,M14,#F62E36,1
-Kasumigaseki,霞ケ関,Marunouchi,Tokyo Metro,M15,#F62E36,1
-Ginza,銀座,Marunouchi,Tokyo Metro,M16,#F62E36,1
-Tokyo,東京,Marunouchi,Tokyo Metro,M17,#F62E36,1
-Otemachi,大手町,Marunouchi,Tokyo Metro,M18,#F62E36,1
-Awajicho,淡路町,Marunouchi,Tokyo Metro,M19,#F62E36,1
-Ochanomizu,御茶ノ水,Marunouchi,Tokyo Metro,M20,#F62E36,1
-Hongo-sanchome,本郷三丁目,Marunouchi,Tokyo Metro,M21,#F62E36,1
-Korakuen,後楽園,Marunouchi,Tokyo Metro,M22,#F62E36,1
-Myogadani,茗荷谷,Marunouchi,Tokyo Metro,M23,#F62E36,0
-Shin-otsuka,新大塚,Marunouchi,Tokyo Metro,M24,#F62E36,0
-Ikebukuro,	池袋,Marunouchi,Tokyo Metro,M25,#F62E36,1
-Naka-meguro,中目黒,Hibiya,Tokyo Metro,H01,#B5B5AC,1
-Ebisu,恵比寿,Hibiya,Tokyo Metro,H02,#B5B5AC,1
-Hiro-o,広尾,Hibiya,Tokyo Metro,H03,#B5B5AC,0
-Roppongi,六本木,Hibiya,Tokyo Metro,H04,#B5B5AC,1
-Kamiyacho,神谷町,Hibiya,Tokyo Metro,H05,#B5B5AC,0
-Toranomon Hills,虎ノ門ヒルズ,Hibiya,Tokyo Metro,H06,#B5B5AC,1
-Kasumigaseki,霞ケ関,Hibiya,Tokyo Metro,H07,#B5B5AC,1
-Hibiya,日比谷,Hibiya,Tokyo Metro,H08,#B5B5AC,1
-Ginza,銀座,Hibiya,Tokyo Metro,H09,#B5B5AC,1
-Higashi-ginza,東銀座,Hibiya,Tokyo Metro,H10,#B5B5AC,1
-Tsukiji,築地,Hibiya,Tokyo Metro,H11,#B5B5AC,1
-Hatchobori,八丁堀,Hibiya,Tokyo Metro,H12,#B5B5AC,1
-Kayabacho,茅場町,Hibiya,Tokyo Metro,H13,#B5B5AC,1
-Ningyocho,人形町,Hibiya,Tokyo Metro,H14,#B5B5AC,1
-Kodemmacho,小伝馬町,Hibiya,Tokyo Metro,H15,#B5B5AC,0
-Akihabara,秋葉原,Hibiya,Tokyo Metro,H16,#B5B5AC,1
-Naka-okachimachi,仲御徒町,Hibiya,Tokyo Metro,H17,#B5B5AC,1
-Ueno,上野,Hibiya,Tokyo Metro,H18,#B5B5AC,1
-Iriya,入谷,Hibiya,Tokyo Metro,H19,#B5B5AC,0
-Minowa,三ノ輪,Hibiya,Tokyo Metro,H20,#B5B5AC,0
-Minami-senju,南千住,Hibiya,Tokyo Metro,H21,#B5B5AC,1
-Kita-senju,北千住,Hibiya,Tokyo Metro,H22,#B5B5AC,1
-Nakano,中野,Tozai,Tokyo Metro,T01,#009BBF,1
-Ochiai,落合,Tozai,Tokyo Metro,T02,#009BBF,0
-Takadanobaba,高田馬場,Tozai,Tokyo Metro,T03,#009BBF,1
-Waseda,早稲田,Tozai,Tokyo Metro,T04,#009BBF,1
-Kagurazaka,神楽坂,Tozai,Tokyo Metro,T05,#009BBF,0
-Iidabashi,飯田橋,Tozai,Tokyo Metro,T06,#009BBF,1
-Kudanshita,九段下,Tozai,Tokyo Metro,T07,#009BBF,1
-Takebashi,竹橋,Tozai,Tokyo Metro,T08,#009BBF,0
-Otemachi,大手町,Tozai,Tokyo Metro,T09,#009BBF,1
-Nihombashi,日本橋,Tozai,Tokyo Metro,T10,#009BBF,1
-Kayabacho,茅場町,Tozai,Tokyo Metro,T11,#009BBF,1
-Monzen-nakacho,門前仲町,Tozai,Tokyo Metro,T12,#009BBF,1
-Kiba,木場,Tozai,Tokyo Metro,T13,#009BBF,0
-Toyocho,東陽町,Tozai,Tokyo Metro,T14,#009BBF,0
-Minami-sunamachi,南砂町,Tozai,Tokyo Metro,T15,#009BBF,0
-Nishi-kasai,西葛西,Tozai,Tokyo Metro,T16,#009BBF,0
-Kasai,葛西,Tozai,Tokyo Metro,T17,#009BBF,0
-Urayasu,浦安,Tozai,Tokyo Metro,T18,#009BBF,0
-Minami-gyotoku,南行徳,Tozai,Tokyo Metro,T19,#009BBF,0
-Gyotoku,行徳,Tozai,Tokyo Metro,T20,#009BBF,0
-Myoden,妙典,Tozai,Tokyo Metro,T21,#009BBF,0
-Baraki-nakayama,原木中山,Tozai,Tokyo Metro,T22,#009BBF,0
-Nishi-funabashi,西船橋,Tozai,Tokyo Metro,T23,#009BBF,1
-Yoyogi-uehara,代々木上原,Chiyoda,Tokyo Metro,C01,#00BB85,1
-Yoyogi-koen,代々木公園,Chiyoda,Tokyo Metro,C02,#00BB85,1
-Meiji-jingumae (Harajuku),明治神宮前,Chiyoda,Tokyo Metro,C03,#00BB85,1
-Omotesando,表参道,Chiyoda,Tokyo Metro,C04,#00BB85,1
-Nogizaka,乃木坂,Chiyoda,Tokyo Metro,C05,#00BB85,0
-Akasaka,赤坂,Chiyoda,Tokyo Metro,C06,#00BB85,0
-Kokkai-gijido-mae,国会議事堂前,Chiyoda,Tokyo Metro,C07,#00BB85,1
-Kasumigaseki,霞ケ関,Chiyoda,Tokyo Metro,C08,#00BB85,1
-Hibiya,日比谷,Chiyoda,Tokyo Metro,C09,#00BB85,1
-Nijubashimae,二重橋前,Chiyoda,Tokyo Metro,C10,#00BB85,1
-Otemachi,大手町,Chiyoda,Tokyo Metro,C11,#00BB85,1
-Shin-ochanomizu,新御茶ノ水,Chiyoda,Tokyo Metro,C12,#00BB85,1
-Yushima,湯島,Chiyoda,Tokyo Metro,C13,#00BB85,1
-Nezu,根津,Chiyoda,Tokyo Metro,C14,#00BB85,0
-Sendagi,千駄木,Chiyoda,Tokyo Metro,C15,#00BB85,0
-Nishi-nippori,西日暮里,Chiyoda,Tokyo Metro,C16,#00BB85,1
-Machiya,町屋,Chiyoda,Tokyo Metro,C17,#00BB85,1
-Kita-senju,北千住,Chiyoda,Tokyo Metro,C18,#00BB85,1
-Ayase,綾瀬,Chiyoda,Tokyo Metro,C19,#00BB85,1
-Kita-ayase,北綾瀬,Chiyoda,Tokyo Metro,C20,#00BB85,0
-Wakoshi,和光市,Yurakucho,Tokyo Metro,Y01,#C1A470,1
-Chikatetsu-narimasu,地下鉄成増,Yurakucho,Tokyo Metro,Y02,#C1A470,1
-Chikatetsu-akatsuka,地下鉄赤塚,Yurakucho,Tokyo Metro,Y03,#C1A470,1
-Heiwadai,平和台,Yurakucho,Tokyo Metro,Y04,#C1A470,1
-Hikawadai,氷川台,Yurakucho,Tokyo Metro,Y05,#C1A470,1
-Kotake-mukaihara,小竹向原,Yurakucho,Tokyo Metro,Y06,#C1A470,1
-Senkawa,千川,Yurakucho,Tokyo Metro,Y07,#C1A470,1
-Kanamecho,要町,Yurakucho,Tokyo Metro,Y08,#C1A470,1
-Ikebukuro,池袋,Yurakucho,Tokyo Metro,Y09,#C1A470,1
-Higashi-ikebukuro,東池袋,Yurakucho,Tokyo Metro,Y10,#C1A470,1
-Gokokuji,護国寺,Yurakucho,Tokyo Metro,Y11,#C1A470,0
-Edogawabashi,江戸川橋,Yurakucho,Tokyo Metro,Y12,#C1A470,0
-Iidabashi,飯田橋,Yurakucho,Tokyo Metro,Y13,#C1A470,1
-Ichigaya,市ケ谷,Yurakucho,Tokyo Metro,Y14,#C1A470,1
-Kojimachi,麹町,Yurakucho,Tokyo Metro,Y15,#C1A470,0
-Nagatacho,永田町,Yurakucho,Tokyo Metro,Y16,#C1A470,1
-Sakuradamon,桜田門,Yurakucho,Tokyo Metro,Y17,#C1A470,0
-Yurakucho,有楽町,Yurakucho,Tokyo Metro,Y18,#C1A470,1
-Ginza-itchome,銀座一丁目,Yurakucho,Tokyo Metro,Y19,#C1A470,1
-Shintomicho,新富町,Yurakucho,Tokyo Metro,Y20,#C1A470,1
-Tsukishima,月島,Yurakucho,Tokyo Metro,Y21,#C1A470,1
-Toyosu,豊洲,Yurakucho,Tokyo Metro,Y22,#C1A470,1
-Tatsumi,辰巳,Yurakucho,Tokyo Metro,Y23,#C1A470,0
-Shin-kiba,新木場,Yurakucho,Tokyo Metro,Y24,#C1A470,1
-Shibuya,渋谷,Hanzomon,Tokyo Metro,Z01,#8F76D6,1
-Omotesando,表参道,Hanzomon,Tokyo Metro,Z02,#8F76D6,1
-Aoyama-itchome,青山一丁目,Hanzomon,Tokyo Metro,Z03,#8F76D6,1
-Nagatacho,永田町,Hanzomon,Tokyo Metro,Z04,#8F76D6,1
-Hanzomon,半蔵門,Hanzomon,Tokyo Metro,Z05,#8F76D6,0
-Kudanshita,九段下,Hanzomon,Tokyo Metro,Z06,#8F76D6,1
-Jimbocho,神保町,Hanzomon,Tokyo Metro,Z07,#8F76D6,1
-Otemachi,大手町,Hanzomon,Tokyo Metro,Z08,#8F76D6,1
-Mitsukoshimae,三越前,Hanzomon,Tokyo Metro,Z09,#8F76D6,1
-Suitengumae,水天宮前,Hanzomon,Tokyo Metro,Z10,#8F76D6,1
-Kiyosumi-shirakawa,清澄白河,Hanzomon,Tokyo Metro,Z11,#8F76D6,1
-Sumiyoshi,住吉,Hanzomon,Tokyo Metro,Z12,#8F76D6,1
-Kinshicho,錦糸町,Hanzomon,Tokyo Metro,Z13,#8F76D6,1
-Oshiage,押上,Hanzomon,Tokyo Metro,Z14,#8F76D6,1
-Meguro,目黒,Namboku,Tokyo Metro,N01,#00AC9B,1
-Shirokanedai,白金台,Namboku,Tokyo Metro,N02,#00AC9B,1
-Shirokane-takanawa,白金高輪,Namboku,Tokyo Metro,N03,#00AC9B,1
-Azabu-juban,麻布十番,Namboku,Tokyo Metro,N04,#00AC9B,1
-Roppongi-itchome,六本木一丁目,Namboku,Tokyo Metro,N05,#00AC9B,1
-Tameike-sanno,溜池山王,Namboku,Tokyo Metro,N06,#00AC9B,1
-Nagatacho,永田町,Namboku,Tokyo Metro,N07,#00AC9B,1
-Yotsuya,四ツ谷,Namboku,Tokyo Metro,N08,#00AC9B,1
-Ichigaya,市ケ谷,Namboku,Tokyo Metro,N09,#00AC9B,1
-Iidabashi,飯田橋,Namboku,Tokyo Metro,N10,#00AC9B,1
-Korakuen,後楽園,Namboku,Tokyo Metro,N11,#00AC9B,1
-Todaimae,東大前,Namboku,Tokyo Metro,N12,#00AC9B,0
-Hon-komagome,本駒込,Namboku,Tokyo Metro,N13,#00AC9B,0
-Komagome,駒込,Namboku,Tokyo Metro,N14,#00AC9B,1
-Nishigahara,西ケ原,Namboku,Tokyo Metro,N15,#00AC9B,1
-Oji,王子,Namboku,Tokyo Metro,N16,#00AC9B,1
-Oji-kamiya,王子神谷,Namboku,Tokyo Metro,N17,#00AC9B,0
-Shimo,志茂,Namboku,Tokyo Metro,N18,#00AC9B,0
-Akabane-iwabuchi,赤羽岩淵,Namboku,Tokyo Metro,N19,#00AC9B,1
-Wakoshi,和光市,Fukutoshin,Tokyo Metro,F01,#9C5E31,1
-Chikatetsu,地下鉄成増,Fukutoshin,Tokyo Metro,F02,#9C5E31,1
-Chikatetsu-akatsuka,地下鉄赤塚,Fukutoshin,Tokyo Metro,F03,#9C5E31,1
-Heiwadai,平和台,Fukutoshin,Tokyo Metro,F04,#9C5E31,1
-Hikawadai,氷川台,Fukutoshin,Tokyo Metro,F05,#9C5E31,1
-Kotake-mukaihara,小竹向原,Fukutoshin,Tokyo Metro,F06,#9C5E31,1
-Senkawa,千川,Fukutoshin,Tokyo Metro,F07,#9C5E31,1
-Kanamecho,要町,Fukutoshin,Tokyo Metro,F08,#9C5E31,1
-Ikebukuro,池袋,Fukutoshin,Tokyo Metro,F09,#9C5E31,1
-Zoshigaya,雑司が谷,Fukutoshin,Tokyo Metro,F10,#9C5E31,1
-Nishi-waseda,西早稲田,Fukutoshin,Tokyo Metro,F11,#9C5E31,1
-Higashi-shinjuku,東新宿,Fukutoshin,Tokyo Metro,F12,#9C5E31,1
-Shinjuku-sanchome,新宿三丁目,Fukutoshin,Tokyo Metro,F13,#9C5E31,1
-Kita-sando,北参道,Fukutoshin,Tokyo Metro,F14,#9C5E31,0
-Meiji-jingumae (Harajuku),明治神宮前,Fukutoshin,Tokyo Metro,F15,#9C5E31,1
-Shibuya,渋谷,Fukutoshin,Tokyo Metro,F16,#9C5E31,1
-Shinjuku,新宿,Keio Line,Keio Corp,K01,#E715D6,1
-Sasazuka,笹塚,Keio Line,Keio Corp,K04,#E715D6,1
-Daitabashi,代田橋,Keio Line,Keio Corp,K05,#E715D6,0
-Meidaimae,明大前,Keio Line,Keio Corp,K06,#E715D6,1
-Shimo-Takaido,下高井戸,Keio Line,Keio Corp,K07,#E715D6,1
-Sakurajosui,桜上水,Keio Line,Keio Corp,K08,#E715D6,0
-Kami-Kitazawa,上北沢,Keio Line,Keio Corp,K09,#E715D6,0
-Hachimanyama,八幡山,Keio Line,Keio Corp,K10,#E715D6,0
-Roka-koen,芦花公園,Keio Line,Keio Corp,K11,#E715D6,0
-Chitose-karasuyama,千歳烏山,Keio Line,Keio Corp,K12,#E715D6,0
-Sengawa,仙川,Keio Line,Keio Corp,K13,#E715D6,0
-Tsutsujigaoka,つつじヶ丘,Keio Line,Keio Corp,K14,#E715D6,0
-Shinbasaki,柴崎,Keio Line,Keio Corp,K15,#E715D6,0
-Kokuryo,国領,Keio Line,Keio Corp,K16,#E715D6,0
-Fuda,布田,Keio Line,Keio Corp,K17,#E715D6,0
-Chofu,調布,Keio Line,Keio Corp,K18,#E715D6,1
-Nishi-chofu,西調布,Keio Line,Keio Corp,K19,#E715D6,0
-Tobitakyu,飛田給,Keio Line,Keio Corp,K20,#E715D6,0
-Musashinodai,武蔵野台,Keio Line,Keio Corp,K21,#E715D6,1
-Tama-reien,多磨霊園,Keio Line,Keio Corp,K22,#E715D6,0
-Higashi-Fuchu,東府中,Keio Line,Keio Corp,K23,#E715D6,1
-Fuchu,府中,Keio Line,Keio Corp,K24,#E715D6,0
-Bubaigawara,分倍河原,Keio Line,Keio Corp,K25,#E715D6,1
-Nakagawara,中河原,Keio Line,Keio Corp,K26,#E715D6,1
-Seiseki-sakuragaoka,聖蹟桜ヶ丘,Keio Line,Keio Corp,K27,#E715D6,0
-Mogusaen,百草園,Keio Line,Keio Corp,K28,#E715D6,0
-Takahatafudo,高幡不動,Keio Line,Keio Corp,K29,#E715D6,1
-Minamidaira,南平,Keio Line,Keio Corp,K30,#E715D6,0
-Hirayamajoshi-koen,平山城址公園,Keio Line,Keio Corp,K31,#E715D6,0
-Naganuma,長沼,Keio Line,Keio Corp,K32,#E715D6,1
-Kitano,北野,Keio Line,Keio Corp,K33,#E715D6,1
-Keio-hachioji,京王八王子,Keio Line,Keio Corp,K34,#E715D6,1
-Chofu,調布,Keio Sagamihara,Keio Corp,K18,#E715D6,1
-Keio-tamagawa,京王多摩川,Keio Sagamihara,Keio Corp,K35,#E715D6,1
-Keio-inadazutsumi,京王稲田堤,Keio Sagamihara,Keio Corp,K36,#E715D6,1
-Keio-yomiuri-land,京王よみうりランド,Keio Sagamihara,Keio Corp,K37,#E715D6,0
-Inagi,稲城,Keio Sagamihara,Keio Corp,K38,#E715D6,0
-Wakabadai,若葉台,Keio Sagamihara,Keio Corp,K39,#E715D6,0
-Keio-nagayama,永山,Keio Sagamihara,Keio Corp,K40,#E715D6,1
-Keio-tama-center,多摩センター,Keio Sagamihara,Keio Corp,K41,#E715D6,1
-Keio-horinouchi,京王堀之内,Keio Sagamihara,Keio Corp,K42,#E715D6,1
-Minami-osawa,南大沢,Keio Sagamihara,Keio Corp,K43,#E715D6,1
-Tamasakai,多摩境,Keio Sagamihara,Keio Corp,K44,#E715D6,1
-Hashimoto,橋本,Keio Sagamihara,Keio Corp,K45,#E715D6,1
-Kitano,北野,Keio Takao,Keio Corp,K33,#E715D6,0
-Keio-katakura,京王片倉,Keio Takao,Keio Corp,K48,#E715D6,1
-Yamada,山田,Keio Takao,Keio Corp,K49,#E715D6,0
-Mejirodai,めじろ台,Keio Takao,Keio Corp,K50,#E715D6,0
-Hazama,狭間,Keio Takao,Keio Corp,K51,#E715D6,0
-Takao,高尾,Keio Takao,Keio Corp,K52,#E715D6,1
-Takaosanguchi,高尾山口,Keio Takao,Keio Corp,K53,#E715D6,0
-Shinjuku,新宿,Keio New,Keio Corp,K01,#E715D6,1
-Hatsudai,初台,Keio New,Keio Corp,K02,#E715D6,0
-Hatagaya,幡ヶ谷,Keio New,Keio Corp,K03,#E715D6,0
-Sasazuka,笹塚,Keio New,Keio Corp,K04,#E715D6,1
-Takahatafudo,高幡不動,Keio Dobutsuen,Keio Corp,K29,#E715D6,1
-Tama-dobutsukoen,多摩動物公園,Keio Dobutsuen,Keio Corp,K47,#E715D6,1
-Higashi-Fuchu,東府中,Keio Keibajo,Keio Corp,K23,#E715D6,1
-Fuchukeiba-seimommae,府中競馬正門前,Keio Keibajo,Keio Corp,K46,#E715D6,0
-Shibuya,渋谷,Keio Inokashira,Keio Corp,IN01,#0D197E,1
-Shinsen,神泉,Keio Inokashira,Keio Corp,IN02,#0D197E,0
-Komaba-todaimae,駒場東大前,Keio Inokashira,Keio Corp,IN03,#0D197E,0
-Ikenoue,池ノ上,Keio Inokashira,Keio Corp,IN04,#0D197E,0
-Shimo-kitazawa,下北沢,Keio Inokashira,Keio Corp,IN05,#0D197E,1
-Shindaita,新代田,Keio Inokashira,Keio Corp,IN06,#0D197E,0
-Higashi-matsubara,東松原,Keio Inokashira,Keio Corp,IN07,#0D197E,0
-Meidaimae,明大前,Keio Inokashira,Keio Corp,IN08,#0D197E,1
-Eifukucho,永福町,Keio Inokashira,Keio Corp,IN09,#0D197E,0
-Nishi-eifuku,西永福,Keio Inokashira,Keio Corp,IN10,#0D197E,0
-Hamadayama,浜田山,Keio Inokashira,Keio Corp,IN11,#0D197E,0
-Takaido,高井戸,Keio Inokashira,Keio Corp,IN12,#0D197E,0
-Fujimigaoka,富士見ヶ丘,Keio Inokashira,Keio Corp,IN13,#0D197E,0
-Kugayama,久我山,Keio Inokashira,Keio Corp,IN14,#0D197E,0
-Mitakadai,三鷹台,Keio Inokashira,Keio Corp,IN15,#0D197E,0
-Inokashira-koen,井の頭公園,Keio Inokashira,Keio Corp,IN16,#0D197E,0
-Kichijoji,吉祥寺,Keio Inokashira,Keio Corp,IN17,#0D197E,1
-Mitaka,三鷹,Chuo Sobu,JR East,JB01,#EBD728,1
-Kichijoji,吉祥寺,Chuo Sobu,JR East,JB02,#EBD728,1
-Nishi-ogikubo,西荻窪,Chuo Sobu,JR East,JB03,#EBD728,0
-Ogikubo,荻窪,Chuo Sobu,JR East,JB04,#EBD728,1
-Asagaya,阿佐ケ谷,Chuo Sobu,JR East,JB05,#EBD728,0
-Koeji,高円寺,Chuo Sobu,JR East,JB06,#EBD728,0
-Nakano,中野,Chuo Sobu,JR East,JB07,#EBD728,1
-Higashi-nakano,東中野,Chuo Sobu,JR East,JB08,#EBD728,1
-Okubo,大久保,Chuo Sobu,JR East,JB09,#EBD728,1
-Shinjuku,新宿,Chuo Sobu,JR East,JB10,#EBD728,1
-Yoyogi,代々木,Chuo Sobu,JR East,JB11,#EBD728,1
-Sendagaya,千駄ケ谷,Chuo Sobu,JR East,JB12,#EBD728,1
-Shinanomachi,信濃町,Chuo Sobu,JR East,JB13,#EBD728,0
-Yotsuya,四ツ谷,Chuo Sobu,JR East,JB14,#EBD728,1
-Ichigaya,市ケ谷,Chuo Sobu,JR East,JB15,#EBD728,1
-Iidabashi,飯田橋,Chuo Sobu,JR East,JB16,#EBD728,1
-Suidobashi,水道橋,Chuo Sobu,JR East,JB17,#EBD728,1
-Ochanomizu,御茶ノ水,Chuo Sobu,JR East,JB18,#EBD728,1
-Akihabara,秋葉原,Chuo Sobu,JR East,JB19,#EBD728,1
-Asakusabashi,浅草橋,Chuo Sobu,JR East,JB20,#EBD728,1
-Ryogoku,両国,Chuo Sobu,JR East,JB21,#EBD728,1
-Kinshicho,錦糸町,Chuo Sobu,JR East,JB22,#EBD728,1
-Kameido,亀戸,Chuo Sobu,JR East,JB23,#EBD728,1
-Hirai,平井,Chuo Sobu,JR East,JB24,#EBD728,0
-Shin-koiwa,新小岩,Chuo Sobu,JR East,JB25,#EBD728,0
-Koiwa,小岩,Chuo Sobu,JR East,JB26,#EBD728,0
-Ichikawa,市川,Chuo Sobu,JR East,JB27,#EBD728,0
-Moto-yawata,本八幡,Chuo Sobu,JR East,JB28,#EBD728,1
-Shimosa-nakayama,下総中山,Chuo Sobu,JR East,JB29,#EBD728,0
-Nishi-funabashi,西船橋,Chuo Sobu,JR East,JB30,#EBD728,1
-Funabashi,船橋,Chuo Sobu,JR East,JB31,#EBD728,1
-Higashi-funabashi,東船橋,Chuo Sobu,JR East,JB32,#EBD728,0
-Tsudanuma,津田沼,Chuo Sobu,JR East,JB33,#EBD728,1
-Makuharihongo,幕張本郷,Chuo Sobu,JR East,JB34,#EBD728,1
-Makuhari,幕張,Chuo Sobu,JR East,JB35,#EBD728,1
-Shin-kemigawa,新検見川,Chuo Sobu,JR East,JB36,#EBD728,0
-Inage,稲毛,Chuo Sobu,JR East,JB37,#EBD728,0
-Nishi-chiba,西千葉,Chuo Sobu,JR East,JB38,#EBD728,0
-Chiba,千葉,Chuo Sobu,JR East,JB39,#EBD728,1
-Tokyo,東京,Yamanote,JR East,JB01,#42911E,1
-Kanda,神田,Yamanote,JR East,JB02,#42911E,1
-Akihabara,秋葉原,Yamanote,JR East,JB03,#42911E,1
-Okachimachi,御徒町,Yamanote,JR East,JB04,#42911E,1
-Ueno,上野,Yamanote,JR East,JB05,#42911E,1
-Uguisudani,鶯谷,Yamanote,JR East,JB06,#42911E,1
-Nippori,日暮里,Yamanote,JR East,JB07,#42911E,1
-Nishi-nippori,西日暮里,Yamanote,JR East,JB08,#42911E,1
-Tabata,田端,Yamanote,JR East,JB09,#42911E,1
-Komagome,駒込,Yamanote,JR East,JB10,#42911E,1
-Sugamo,巣鴨,Yamanote,JR East,JB11,#42911E,1
-Otsuka,大塚,Yamanote,JR East,JB12,#42911E,1
-Ikebukuro,池袋,Yamanote,JR East,JB13,#42911E,1
-Mejiro,目白,Yamanote,JR East,JB14,#42911E,1
-Takadanobaba,高田馬場,Yamanote,JR East,JB15,#42911E,1
-Shin-okubo,新大久保,Yamanote,JR East,JB16,#42911E,1
-Shinjuku,新宿,Yamanote,JR East,JB17,#42911E,1
-Yoyogi,代々木,Yamanote,JR East,JB18,#42911E,1
-Harajuku,原宿,Yamanote,JR East,JB19,#42911E,1
-Shibuya,渋谷,Yamanote,JR East,JB20,#42911E,1
-Ebisu,恵比寿,Yamanote,JR East,JB21,#42911E,1
-Meguro,目黒,Yamanote,JR East,JB22,#42911E,1
-Gotanda,五反田,Yamanote,JR East,JB23,#42911E,1
-Osaki,大崎,Yamanote,JR East,JB24,#42911E,1
-Shinagawa,品川,Yamanote,JR East,JB25,#42911E,1
+﻿station_id,station_name,station_kanji,line_name,system_owner,station_code,line_color,is_interchange
+TOEI_NISHI_MAGOME,Nishi-magome,西馬込,Asakusa,Toei,A01,#EC6E65,0
+TOEI_MAGOME,Magome,馬込,Asakusa,Toei,A02,#EC6E65,0
+TOEI_NAKANOBU,Nakanobu,中延,Asakusa,Toei,A03,#EC6E65,0
+TOEI_TOGOSHI,Togoshi,戸越,Asakusa,Toei,A04,#EC6E65,0
+TOEI_GOTANDA,Gotanda,五反田,Asakusa,Toei,A05,#EC6E65,1
+TOEI_TAKANAWADAI,Takanawadai,高輪台,Asakusa,Toei,A06,#EC6E65,0
+TOEI_SENGAKUJI,Sengakuji,泉岳寺,Asakusa,Toei,A07,#EC6E65,1
+TOEI_MITA,Mita,三田,Asakusa,Toei,A08,#EC6E65,1
+TOEI_DAIMON,Daimon,大門,Asakusa,Toei,A09,#EC6E65,1
+TOEI_SHIMBASHI,Shimbashi,新橋,Asakusa,Toei,A10,#EC6E65,1
+TOEI_HIGASHI_GINZA,Higashi-ginza,浅東銀座,Asakusa,Toei,A11,#EC6E65,1
+TOEI_TAKARACHO,Takaracho,宝町,Asakusa,Toei,A12,#EC6E65,0
+TOEI_NIHOMBASHI,Nihombashi,日本橋,Asakusa,Toei,A13,#EC6E65,1
+TOEI_NINGYOCHO,Ningyocho,人形町,Asakusa,Toei,A14,#EC6E65,1
+TOEI_BAKURO_YOKOYAMA,Bakuro-yokoyama,馬喰横山,Asakusa,Toei,A15,#EC6E65,1
+TOEI_ASAKUSABASHI,Asakusabashi,浅草橋,Asakusa,Toei,A16,#EC6E65,0
+TOEI_KURAMAE,Kuramae,蔵前,Asakusa,Toei,A17,#EC6E65,1
+TOEI_ASAKUSA,Asakusa,浅草,Asakusa,Toei,A18,#EC6E65,1
+TOEI_HONJO_AZUMABASHI,Honjo-azumabashi,本所吾妻橋,Asakusa,Toei,A19,#EC6E65,0
+TOEI_OSHIAGE,Oshiage,押上,Asakusa,Toei,A20,#EC6E65,0
+TOEI_MEGURO,Meguro,目黒,Mita,Toei,I01,#006CB6,1
+TOEI_SHIROKANEDAI,Shirokanedai,白金台,Mita,Toei,I02,#006CB6,1
+TOEI_SHIROKANE_TAKANAWA,Shirokane-takanawa,白金高輪,Mita,Toei,I03,#006CB6,1
+TOEI_MITA,Mita,三田,Mita,Toei,I04,#006CB6,1
+TOEI_SHIBAKOEN,Shibakoen,芝公園,Mita,Toei,I05,#006CB6,0
+TOEI_ONARIMON,Onarimon,御成門,Mita,Toei,I06,#006CB6,0
+TOEI_UCHISAIWAICHO,Uchisaiwaicho,内幸町,Mita,Toei,I07,#006CB6,0
+TOEI_HIBIYA,Hibiya,日比谷,Mita,Toei,I08,#006CB6,1
+TOEI_OTEMACHI,Otemachi,大手町,Mita,Toei,I09,#006CB6,1
+TOEI_JIMBOCHO,Jimbocho,神保町,Mita,Toei,I10,#006CB6,1
+TOEI_SUIDOBASHI,Suidobashi,水道橋,Mita,Toei,I11,#006CB6,1
+TOEI_KASUGA,Kasuga,春日,Mita,Toei,I12,#006CB6,1
+TOEI_HAKUSAN,Hakusan,白山,Mita,Toei,I13,#006CB6,0
+TOEI_SENGOKU,Sengoku,千石,Mita,Toei,I14,#006CB6,0
+TOEI_SUGAMO,Sugamo,巣鴨,Mita,Toei,I15,#006CB6,1
+TOEI_NISHI_SUGAMO,Nishi-sugamo,西巣鴨,Mita,Toei,I16,#006CB6,1
+TOEI_SHIN_ITABASHI,Shin-Itabashi,新板橋,Mita,Toei,I17,#006CB6,1
+TOEI_ITABASHI_KUYAKUSHOMAE,Itabashi-kuyakushomae,板橋区役所前,Mita,Toei,I18,#006CB6,0
+TOEI_ITABASHI_HONCHO,Itabashi-honcho,板橋本町,Mita,Toei,I19,#006CB6,0
+TOEI_MOTOHASUNUMA,Motohasunuma,本蓮沼,Mita,Toei,I20,#006CB6,0
+TOEI_SHIMURA_SAKAUE,Shimura-sakaue,志村坂上,Mita,Toei,I21,#006CB6,0
+TOEI_SHIMURA_SANCHOME,Shimura-sanchome,志村三丁目,Mita,Toei,I22,#006CB6,0
+TOEI_HASUNE,Hasune,蓮根,Mita,Toei,I23,#006CB6,0
+TOEI_NISHIDAI,Nishidai,西台,Mita,Toei,I24,#006CB6,0
+TOEI_TAKASHIMADAIRA,Takashimadaira,高島平,Mita,Toei,I25,#006CB6,0
+TOEI_SHIN_TAKASHIMADAIRA,Shin-takashimadaira,新高島平,Mita,Toei,I26,#006CB6,0
+TOEI_NISHI_TAKASHIMADAIRA,Nishi-takashimadaira,西高島平,Mita,Toei,I27,#006CB6,0
+TOEI_SHINJUKU,Shinjuku,新宿,Shinjuku,Toei,S01,#B0C124,1
+TOEI_SHINJUKU_SANCHOME,Shinjuku-sanchome,新宿三丁目,Shinjuku,Toei,S02,#B0C124,1
+TOEI_AKENBONOBASHI,Akenbonobashi,曙橋,Shinjuku,Toei,S03,#B0C124,0
+TOEI_ICHIGAYA,Ichigaya,市ヶ谷,Shinjuku,Toei,S04,#B0C124,1
+TOEI_KUDANSHITA,Kudanshita,九段下,Shinjuku,Toei,S05,#B0C124,1
+TOEI_JIMBOCHO,Jimbocho,神保町,Shinjuku,Toei,S06,#B0C124,1
+TOEI_OGAWAMACHI,Ogawamachi,小川町,Shinjuku,Toei,S07,#B0C124,1
+TOEI_IWAMOTOCHO,Iwamotocho,岩本町,Shinjuku,Toei,S08,#B0C124,1
+TOEI_BAKURO_YOKOHAMA,Bakuro-yokohama,馬喰横山,Shinjuku,Toei,S09,#B0C124,1
+TOEI_HAMACHO,Hamacho,浜町,Shinjuku,Toei,S10,#B0C124,0
+TOEI_MORISHITA,Morishita,森下,Shinjuku,Toei,S11,#B0C124,1
+TOEI_KIKUKAWA,Kikukawa,菊川,Shinjuku,Toei,S12,#B0C124,0
+TOEI_SUMIYOSHI,Sumiyoshi,住吉,Shinjuku,Toei,S13,#B0C124,1
+TOEI_NISHI_OJIMA,Nishi-ojima,西大島,Shinjuku,Toei,S14,#B0C124,0
+TOEI_OJIMA,Ojima,大島,Shinjuku,Toei,S15,#B0C124,0
+TOEI_HIGASHI_OJIMA,Higashi-ojima,東大島,Shinjuku,Toei,S16,#B0C124,0
+TOEI_FUNABORI,Funabori,船堀,Shinjuku,Toei,S17,#B0C124,0
+TOEI_ICHINOE,Ichinoe,一之江,Shinjuku,Toei,S18,#B0C124,0
+TOEI_MIZUE,Mizue,瑞江,Shinjuku,Toei,S19,#B0C124,0
+TOEI_SHINOZAKI,Shinozaki,篠崎,Shinjuku,Toei,S20,#B0C124,0
+TOEI_MOTOYAWATA,Motoyawata,本八幡,Shinjuku,Toei,S21,#B0C124,1
+TOEI_SHINJUKU_NISHIGUCHI,Shinjuku-nishiguchi,新宿西口,Oedo,Toei,E01,#CE045B,1
+TOEI_HIGASHI_SHINJUKU,Higashi-shinjuku,東新宿,Oedo,Toei,E02,#CE045B,1
+TOEI_WAKAMATSU_KAWADA,Wakamatsu-kawada,若松河田,Oedo,Toei,E03,#CE045B,0
+TOEI_USHIGOME_YANAGICHO,Ushigome-yanagicho,牛込柳町,Oedo,Toei,E04,#CE045B,0
+TOEI_USHIGOME_KAGURAZAKA,Ushigome-kagurazaka,牛込神楽坂,Oedo,Toei,E05,#CE045B,0
+TOEI_IIDABASHI,Iidabashi,飯田橋,Oedo,Toei,E06,#CE045B,1
+TOEI_KASUGA,Kasuga,春日,Oedo,Toei,E07,#CE045B,1
+TOEI_HONGO_SANCHOME,Hongo-sanchome,本郷三丁目,Oedo,Toei,E08,#CE045B,1
+TOEI_UENO_OKACHIMACHI,Ueno-okachimachi,上野御徒町,Oedo,Toei,E09,#CE045B,1
+TOEI_SHIN_OKACHIMACHI,Shin-okachimachi,新御徒町,Oedo,Toei,E10,#CE045B,1
+TOEI_KURAMAE,Kuramae,蔵前,Oedo,Toei,E11,#CE045B,1
+TOEI_RYOGOKU,Ryogoku,両国,Oedo,Toei,E12,#CE045B,1
+TOEI_MORISHITA,Morishita,森下,Oedo,Toei,E13,#CE045B,1
+TOEI_KIYOSUMI_SHIRAKAWA,Kiyosumi-shirakawa,清澄白河,Oedo,Toei,E14,#CE045B,1
+TOEI_MONZEN_NAKACHO,Monzen-nakacho,門前仲町,Oedo,Toei,E15,#CE045B,1
+TOEI_TSUKISHIMA,Tsukishima,月島,Oedo,Toei,E16,#CE045B,1
+TOEI_KACHIDOKI,Kachidoki,勝どき,Oedo,Toei,E17,#CE045B,0
+TOEI_TSUKIJISHIJO,Tsukijishijo,築地市場,Oedo,Toei,E18,#CE045B,0
+TOEI_SHIODOME,Shiodome,汐留,Oedo,Toei,E19,#CE045B,1
+TOEI_DAIMON,Daimon,大門,Oedo,Toei,E20,#CE045B,1
+TOEI_AKABANEBASHI,Akabanebashi,赤羽橋,Oedo,Toei,E21,#CE045B,0
+TOEI_AZABU_JUBAN,Azabu-juban,麻布十番,Oedo,Toei,E22,#CE045B,1
+TOEI_ROPPONGI,Roppongi,	六本木,Oedo,Toei,E23,#CE045B,1
+TOEI_AOYAMA_ITCHOME,Aoyama-itchome,青山一丁目,Oedo,Toei,E24,#CE045B,1
+TOEI_KOKURITSU_KYOGIJO,Kokuritsu-kyogijo,国立競技場,Oedo,Toei,E25,#CE045B,0
+TOEI_YOYOGI,Yoyogi,代々木,Oedo,Toei,E26,#CE045B,1
+TOEI_SHINJUKU,Shinjuku,新宿,Oedo,Toei,E27,#CE045B,1
+TOEI_TOCHOMAE,Tochomae,都庁前,Oedo,Toei,E28,#CE045B,1
+TOEI_NISHI_SHINJUKU_GOCHOME,Nishi-shinjuku-gochome,西新宿五丁目,Oedo,Toei,E29,#CE045B,0
+TOEI_NAKANO_SAKAUE,Nakano-sakaue,中野坂上,Oedo,Toei,E30,#CE045B,1
+TOEI_HIGASHI_NAKANO,Higashi-nakano,東中野,Oedo,Toei,E31,#CE045B,1
+TOEI_NAKAI,Nakai,中井,Oedo,Toei,E32,#CE045B,1
+TOEI_OCHIAI_MINAMI_NAGASAKI,Ochiai-minami-nagasaki,落合南長崎,Oedo,Toei,E33,#CE045B,0
+TOEI_SHIN_EGOTA,Shin-egota,新江古田,Oedo,Toei,E34,#CE045B,0
+TOEI_NERIMA,Nerima,練馬,Oedo,Toei,E35,#CE045B,1
+TOEI_TOSHIMAEN,Toshimaen,	豊島園,Oedo,Toei,E36,#CE045B,0
+TOEI_NERIMA_KASUGACHO,Nerima-kasugacho,練馬春日町,Oedo,Toei,E37,#CE045B,0
+TOEI_HIKARIGAOKA,Hikarigaoka,光が丘,Oedo,Toei,E38,#CE045B,0
+TOKYO_METRO_SHIBUYA,Shibuya,渋谷,Ginza,Tokyo Metro,G01,#FF9500,1
+TOKYO_METRO_OMOTE_SANDO,Omote-sando,表参道,Ginza,Tokyo Metro,G02,#FF9500,1
+TOKYO_METRO_GAIEMMAE,Gaiemmae,外苑前,Ginza,Tokyo Metro,G03,#FF9500,0
+TOKYO_METRO_AOYAMA_ITCHOME,Aoyama-itchome,青山一丁目,Ginza,Tokyo Metro,G04,#FF9500,1
+TOKYO_METRO_AKASAKA_MITSUKE,Akasaka-mitsuke,赤坂見附,Ginza,Tokyo Metro,G05,#FF9500,1
+TOKYO_METRO_TAMEIKE_SANNO,Tameike-sanno,溜池山王,Ginza,Tokyo Metro,G06,#FF9500,1
+TOKYO_METRO_TORANOMON,Toranomon,虎ノ門,Ginza,Tokyo Metro,G07,#FF9500,1
+TOKYO_METRO_SHIMBASHI,Shimbashi,新橋,Ginza,Tokyo Metro,G08,#FF9500,1
+TOKYO_METRO_GINZA,Ginza,銀座,Ginza,Tokyo Metro,G09,#FF9500,1
+TOKYO_METRO_KYOBASHI,Kyobashi,京橋,Ginza,Tokyo Metro,G10,#FF9500,0
+TOKYO_METRO_NIHOMBASHI,Nihombashi,日本橋,Ginza,Tokyo Metro,G11,#FF9500,1
+TOKYO_METRO_MITSUKOSHIMAE,Mitsukoshimae,三越前,Ginza,Tokyo Metro,G12,#FF9500,1
+TOKYO_METRO_KANDA,Kanda,神田,Ginza,Tokyo Metro,G13,#FF9500,1
+TOKYO_METRO_SUEHIROCHO,Suehirocho,末広町,Ginza,Tokyo Metro,G14,#FF9500,0
+TOKYO_METRO_UENO_HIROKOJI,Ueno-hirokoji,上野広小路,Ginza,Tokyo Metro,G15,#FF9500,1
+TOKYO_METRO_UENO,Ueno,上野,Ginza,Tokyo Metro,G16,#FF9500,1
+TOKYO_METRO_INARICHO,Inaricho,	稲荷町,Ginza,Tokyo Metro,G17,#FF9500,0
+TOKYO_METRO_TAWARAMACHI,Tawaramachi,田原町,Ginza,Tokyo Metro,G18,#FF9500,0
+TOKYO_METRO_ASAKUSA,Asakusa,浅草,Ginza,Tokyo Metro,G19,#FF9500,1
+TOKYO_METRO_OGIKUBO,Ogikubo,荻窪,Marunouchi,Tokyo Metro,M01,#F62E36,1
+TOKYO_METRO_MINAMI_ASAGAYA,Minami-asagaya,南阿佐ケ谷,Marunouchi,Tokyo Metro,M02,#F62E36,0
+TOKYO_METRO_SHIN_KOENJI,Shin-koenji,新高円寺,Marunouchi,Tokyo Metro,M03,#F62E36,0
+TOKYO_METRO_HIGASHI_KOENJI,Higashi-koenji,東高円寺,Marunouchi,Tokyo Metro,M04,#F62E36,0
+TOKYO_METRO_SHIN_NAKANO,Shin-nakano,新中野,Marunouchi,Tokyo Metro,M05,#F62E36,0
+TOKYO_METRO_NAKANO_SAKAUE,Nakano-sakaue,中野坂上,Marunouchi,Tokyo Metro,M06,#F62E36,1
+TOKYO_METRO_NISHI_SHINJUKU,Nishi-shinjuku,西新宿,Marunouchi,Tokyo Metro,M07,#F62E36,0
+TOKYO_METRO_SHINJUKU,Shinjuku,新宿,Marunouchi,Tokyo Metro,M08,#F62E36,1
+TOKYO_METRO_SHINJUKU_SANCHOME,Shinjuku-sanchome,新宿三丁目,Marunouchi,Tokyo Metro,M09,#F62E36,1
+TOKYO_METRO_SHINJUKU_GYOEMMAE,Shinjuku-gyoemmae,新宿御苑前,Marunouchi,Tokyo Metro,M10,#F62E36,0
+TOKYO_METRO_YOTSUYA_SANCHOME,Yotsuya-sanchome,四谷三丁目,Marunouchi,Tokyo Metro,M11,#F62E36,0
+TOKYO_METRO_YOTSUYA,Yotsuya,四ツ谷,Marunouchi,Tokyo Metro,M12,#F62E36,1
+TOKYO_METRO_AKASAKA_MITSUKE,Akasaka-mitsuke,赤坂見附,Marunouchi,Tokyo Metro,M13,#F62E36,1
+TOKYO_METRO_KOKKAI_GIJIDO_MAE,Kokkai-gijido-mae,国会議事堂前,Marunouchi,Tokyo Metro,M14,#F62E36,1
+TOKYO_METRO_KASUMIGASEKI,Kasumigaseki,霞ケ関,Marunouchi,Tokyo Metro,M15,#F62E36,1
+TOKYO_METRO_GINZA,Ginza,銀座,Marunouchi,Tokyo Metro,M16,#F62E36,1
+TOKYO_METRO_TOKYO,Tokyo,東京,Marunouchi,Tokyo Metro,M17,#F62E36,1
+TOKYO_METRO_OTEMACHI,Otemachi,大手町,Marunouchi,Tokyo Metro,M18,#F62E36,1
+TOKYO_METRO_AWAJICHO,Awajicho,淡路町,Marunouchi,Tokyo Metro,M19,#F62E36,1
+TOKYO_METRO_OCHANOMIZU,Ochanomizu,御茶ノ水,Marunouchi,Tokyo Metro,M20,#F62E36,1
+TOKYO_METRO_HONGO_SANCHOME,Hongo-sanchome,本郷三丁目,Marunouchi,Tokyo Metro,M21,#F62E36,1
+TOKYO_METRO_KORAKUEN,Korakuen,後楽園,Marunouchi,Tokyo Metro,M22,#F62E36,1
+TOKYO_METRO_MYOGADANI,Myogadani,茗荷谷,Marunouchi,Tokyo Metro,M23,#F62E36,0
+TOKYO_METRO_SHIN_OTSUKA,Shin-otsuka,新大塚,Marunouchi,Tokyo Metro,M24,#F62E36,0
+TOKYO_METRO_IKEBUKURO,Ikebukuro,	池袋,Marunouchi,Tokyo Metro,M25,#F62E36,1
+TOKYO_METRO_NAKA_MEGURO,Naka-meguro,中目黒,Hibiya,Tokyo Metro,H01,#B5B5AC,1
+TOKYO_METRO_EBISU,Ebisu,恵比寿,Hibiya,Tokyo Metro,H02,#B5B5AC,1
+TOKYO_METRO_HIRO_O,Hiro-o,広尾,Hibiya,Tokyo Metro,H03,#B5B5AC,0
+TOKYO_METRO_ROPPONGI,Roppongi,六本木,Hibiya,Tokyo Metro,H04,#B5B5AC,1
+TOKYO_METRO_KAMIYACHO,Kamiyacho,神谷町,Hibiya,Tokyo Metro,H05,#B5B5AC,0
+TOKYO_METRO_TORANOMON_HILLS,Toranomon Hills,虎ノ門ヒルズ,Hibiya,Tokyo Metro,H06,#B5B5AC,1
+TOKYO_METRO_KASUMIGASEKI,Kasumigaseki,霞ケ関,Hibiya,Tokyo Metro,H07,#B5B5AC,1
+TOKYO_METRO_HIBIYA,Hibiya,日比谷,Hibiya,Tokyo Metro,H08,#B5B5AC,1
+TOKYO_METRO_GINZA,Ginza,銀座,Hibiya,Tokyo Metro,H09,#B5B5AC,1
+TOKYO_METRO_HIGASHI_GINZA,Higashi-ginza,東銀座,Hibiya,Tokyo Metro,H10,#B5B5AC,1
+TOKYO_METRO_TSUKIJI,Tsukiji,築地,Hibiya,Tokyo Metro,H11,#B5B5AC,1
+TOKYO_METRO_HATCHOBORI,Hatchobori,八丁堀,Hibiya,Tokyo Metro,H12,#B5B5AC,1
+TOKYO_METRO_KAYABACHO,Kayabacho,茅場町,Hibiya,Tokyo Metro,H13,#B5B5AC,1
+TOKYO_METRO_NINGYOCHO,Ningyocho,人形町,Hibiya,Tokyo Metro,H14,#B5B5AC,1
+TOKYO_METRO_KODEMMACHO,Kodemmacho,小伝馬町,Hibiya,Tokyo Metro,H15,#B5B5AC,0
+TOKYO_METRO_AKIHABARA,Akihabara,秋葉原,Hibiya,Tokyo Metro,H16,#B5B5AC,1
+TOKYO_METRO_NAKA_OKACHIMACHI,Naka-okachimachi,仲御徒町,Hibiya,Tokyo Metro,H17,#B5B5AC,1
+TOKYO_METRO_UENO,Ueno,上野,Hibiya,Tokyo Metro,H18,#B5B5AC,1
+TOKYO_METRO_IRIYA,Iriya,入谷,Hibiya,Tokyo Metro,H19,#B5B5AC,0
+TOKYO_METRO_MINOWA,Minowa,三ノ輪,Hibiya,Tokyo Metro,H20,#B5B5AC,0
+TOKYO_METRO_MINAMI_SENJU,Minami-senju,南千住,Hibiya,Tokyo Metro,H21,#B5B5AC,1
+TOKYO_METRO_KITA_SENJU,Kita-senju,北千住,Hibiya,Tokyo Metro,H22,#B5B5AC,1
+TOKYO_METRO_NAKANO,Nakano,中野,Tozai,Tokyo Metro,T01,#009BBF,1
+TOKYO_METRO_OCHIAI,Ochiai,落合,Tozai,Tokyo Metro,T02,#009BBF,0
+TOKYO_METRO_TAKADANOBABA,Takadanobaba,高田馬場,Tozai,Tokyo Metro,T03,#009BBF,1
+TOKYO_METRO_WASEDA,Waseda,早稲田,Tozai,Tokyo Metro,T04,#009BBF,1
+TOKYO_METRO_KAGURAZAKA,Kagurazaka,神楽坂,Tozai,Tokyo Metro,T05,#009BBF,0
+TOKYO_METRO_IIDABASHI,Iidabashi,飯田橋,Tozai,Tokyo Metro,T06,#009BBF,1
+TOKYO_METRO_KUDANSHITA,Kudanshita,九段下,Tozai,Tokyo Metro,T07,#009BBF,1
+TOKYO_METRO_TAKEBASHI,Takebashi,竹橋,Tozai,Tokyo Metro,T08,#009BBF,0
+TOKYO_METRO_OTEMACHI,Otemachi,大手町,Tozai,Tokyo Metro,T09,#009BBF,1
+TOKYO_METRO_NIHOMBASHI,Nihombashi,日本橋,Tozai,Tokyo Metro,T10,#009BBF,1
+TOKYO_METRO_KAYABACHO,Kayabacho,茅場町,Tozai,Tokyo Metro,T11,#009BBF,1
+TOKYO_METRO_MONZEN_NAKACHO,Monzen-nakacho,門前仲町,Tozai,Tokyo Metro,T12,#009BBF,1
+TOKYO_METRO_KIBA,Kiba,木場,Tozai,Tokyo Metro,T13,#009BBF,0
+TOKYO_METRO_TOYOCHO,Toyocho,東陽町,Tozai,Tokyo Metro,T14,#009BBF,0
+TOKYO_METRO_MINAMI_SUNAMACHI,Minami-sunamachi,南砂町,Tozai,Tokyo Metro,T15,#009BBF,0
+TOKYO_METRO_NISHI_KASAI,Nishi-kasai,西葛西,Tozai,Tokyo Metro,T16,#009BBF,0
+TOKYO_METRO_KASAI,Kasai,葛西,Tozai,Tokyo Metro,T17,#009BBF,0
+TOKYO_METRO_URAYASU,Urayasu,浦安,Tozai,Tokyo Metro,T18,#009BBF,0
+TOKYO_METRO_MINAMI_GYOTOKU,Minami-gyotoku,南行徳,Tozai,Tokyo Metro,T19,#009BBF,0
+TOKYO_METRO_GYOTOKU,Gyotoku,行徳,Tozai,Tokyo Metro,T20,#009BBF,0
+TOKYO_METRO_MYODEN,Myoden,妙典,Tozai,Tokyo Metro,T21,#009BBF,0
+TOKYO_METRO_BARAKI_NAKAYAMA,Baraki-nakayama,原木中山,Tozai,Tokyo Metro,T22,#009BBF,0
+TOKYO_METRO_NISHI_FUNABASHI,Nishi-funabashi,西船橋,Tozai,Tokyo Metro,T23,#009BBF,1
+TOKYO_METRO_YOYOGI_UEHARA,Yoyogi-uehara,代々木上原,Chiyoda,Tokyo Metro,C01,#00BB85,1
+TOKYO_METRO_YOYOGI_KOEN,Yoyogi-koen,代々木公園,Chiyoda,Tokyo Metro,C02,#00BB85,1
+TOKYO_METRO_MEIJI_JINGUMAE__HARAJUKU_,Meiji-jingumae (Harajuku),明治神宮前,Chiyoda,Tokyo Metro,C03,#00BB85,1
+TOKYO_METRO_OMOTESANDO,Omotesando,表参道,Chiyoda,Tokyo Metro,C04,#00BB85,1
+TOKYO_METRO_NOGIZAKA,Nogizaka,乃木坂,Chiyoda,Tokyo Metro,C05,#00BB85,0
+TOKYO_METRO_AKASAKA,Akasaka,赤坂,Chiyoda,Tokyo Metro,C06,#00BB85,0
+TOKYO_METRO_KOKKAI_GIJIDO_MAE,Kokkai-gijido-mae,国会議事堂前,Chiyoda,Tokyo Metro,C07,#00BB85,1
+TOKYO_METRO_KASUMIGASEKI,Kasumigaseki,霞ケ関,Chiyoda,Tokyo Metro,C08,#00BB85,1
+TOKYO_METRO_HIBIYA,Hibiya,日比谷,Chiyoda,Tokyo Metro,C09,#00BB85,1
+TOKYO_METRO_NIJUBASHIMAE,Nijubashimae,二重橋前,Chiyoda,Tokyo Metro,C10,#00BB85,1
+TOKYO_METRO_OTEMACHI,Otemachi,大手町,Chiyoda,Tokyo Metro,C11,#00BB85,1
+TOKYO_METRO_SHIN_OCHANOMIZU,Shin-ochanomizu,新御茶ノ水,Chiyoda,Tokyo Metro,C12,#00BB85,1
+TOKYO_METRO_YUSHIMA,Yushima,湯島,Chiyoda,Tokyo Metro,C13,#00BB85,1
+TOKYO_METRO_NEZU,Nezu,根津,Chiyoda,Tokyo Metro,C14,#00BB85,0
+TOKYO_METRO_SENDAGI,Sendagi,千駄木,Chiyoda,Tokyo Metro,C15,#00BB85,0
+TOKYO_METRO_NISHI_NIPPORI,Nishi-nippori,西日暮里,Chiyoda,Tokyo Metro,C16,#00BB85,1
+TOKYO_METRO_MACHIYA,Machiya,町屋,Chiyoda,Tokyo Metro,C17,#00BB85,1
+TOKYO_METRO_KITA_SENJU,Kita-senju,北千住,Chiyoda,Tokyo Metro,C18,#00BB85,1
+TOKYO_METRO_AYASE,Ayase,綾瀬,Chiyoda,Tokyo Metro,C19,#00BB85,1
+TOKYO_METRO_KITA_AYASE,Kita-ayase,北綾瀬,Chiyoda,Tokyo Metro,C20,#00BB85,0
+TOKYO_METRO_WAKOSHI,Wakoshi,和光市,Yurakucho,Tokyo Metro,Y01,#C1A470,1
+TOKYO_METRO_CHIKATETSU_NARIMASU,Chikatetsu-narimasu,地下鉄成増,Yurakucho,Tokyo Metro,Y02,#C1A470,1
+TOKYO_METRO_CHIKATETSU_AKATSUKA,Chikatetsu-akatsuka,地下鉄赤塚,Yurakucho,Tokyo Metro,Y03,#C1A470,1
+TOKYO_METRO_HEIWADAI,Heiwadai,平和台,Yurakucho,Tokyo Metro,Y04,#C1A470,1
+TOKYO_METRO_HIKAWADAI,Hikawadai,氷川台,Yurakucho,Tokyo Metro,Y05,#C1A470,1
+TOKYO_METRO_KOTAKE_MUKAIHARA,Kotake-mukaihara,小竹向原,Yurakucho,Tokyo Metro,Y06,#C1A470,1
+TOKYO_METRO_SENKAWA,Senkawa,千川,Yurakucho,Tokyo Metro,Y07,#C1A470,1
+TOKYO_METRO_KANAMECHO,Kanamecho,要町,Yurakucho,Tokyo Metro,Y08,#C1A470,1
+TOKYO_METRO_IKEBUKURO,Ikebukuro,池袋,Yurakucho,Tokyo Metro,Y09,#C1A470,1
+TOKYO_METRO_HIGASHI_IKEBUKURO,Higashi-ikebukuro,東池袋,Yurakucho,Tokyo Metro,Y10,#C1A470,1
+TOKYO_METRO_GOKOKUJI,Gokokuji,護国寺,Yurakucho,Tokyo Metro,Y11,#C1A470,0
+TOKYO_METRO_EDOGAWABASHI,Edogawabashi,江戸川橋,Yurakucho,Tokyo Metro,Y12,#C1A470,0
+TOKYO_METRO_IIDABASHI,Iidabashi,飯田橋,Yurakucho,Tokyo Metro,Y13,#C1A470,1
+TOKYO_METRO_ICHIGAYA,Ichigaya,市ケ谷,Yurakucho,Tokyo Metro,Y14,#C1A470,1
+TOKYO_METRO_KOJIMACHI,Kojimachi,麹町,Yurakucho,Tokyo Metro,Y15,#C1A470,0
+TOKYO_METRO_NAGATACHO,Nagatacho,永田町,Yurakucho,Tokyo Metro,Y16,#C1A470,1
+TOKYO_METRO_SAKURADAMON,Sakuradamon,桜田門,Yurakucho,Tokyo Metro,Y17,#C1A470,0
+TOKYO_METRO_YURAKUCHO,Yurakucho,有楽町,Yurakucho,Tokyo Metro,Y18,#C1A470,1
+TOKYO_METRO_GINZA_ITCHOME,Ginza-itchome,銀座一丁目,Yurakucho,Tokyo Metro,Y19,#C1A470,1
+TOKYO_METRO_SHINTOMICHO,Shintomicho,新富町,Yurakucho,Tokyo Metro,Y20,#C1A470,1
+TOKYO_METRO_TSUKISHIMA,Tsukishima,月島,Yurakucho,Tokyo Metro,Y21,#C1A470,1
+TOKYO_METRO_TOYOSU,Toyosu,豊洲,Yurakucho,Tokyo Metro,Y22,#C1A470,1
+TOKYO_METRO_TATSUMI,Tatsumi,辰巳,Yurakucho,Tokyo Metro,Y23,#C1A470,0
+TOKYO_METRO_SHIN_KIBA,Shin-kiba,新木場,Yurakucho,Tokyo Metro,Y24,#C1A470,1
+TOKYO_METRO_SHIBUYA,Shibuya,渋谷,Hanzomon,Tokyo Metro,Z01,#8F76D6,1
+TOKYO_METRO_OMOTESANDO,Omotesando,表参道,Hanzomon,Tokyo Metro,Z02,#8F76D6,1
+TOKYO_METRO_AOYAMA_ITCHOME,Aoyama-itchome,青山一丁目,Hanzomon,Tokyo Metro,Z03,#8F76D6,1
+TOKYO_METRO_NAGATACHO,Nagatacho,永田町,Hanzomon,Tokyo Metro,Z04,#8F76D6,1
+TOKYO_METRO_HANZOMON,Hanzomon,半蔵門,Hanzomon,Tokyo Metro,Z05,#8F76D6,0
+TOKYO_METRO_KUDANSHITA,Kudanshita,九段下,Hanzomon,Tokyo Metro,Z06,#8F76D6,1
+TOKYO_METRO_JIMBOCHO,Jimbocho,神保町,Hanzomon,Tokyo Metro,Z07,#8F76D6,1
+TOKYO_METRO_OTEMACHI,Otemachi,大手町,Hanzomon,Tokyo Metro,Z08,#8F76D6,1
+TOKYO_METRO_MITSUKOSHIMAE,Mitsukoshimae,三越前,Hanzomon,Tokyo Metro,Z09,#8F76D6,1
+TOKYO_METRO_SUITENGUMAE,Suitengumae,水天宮前,Hanzomon,Tokyo Metro,Z10,#8F76D6,1
+TOKYO_METRO_KIYOSUMI_SHIRAKAWA,Kiyosumi-shirakawa,清澄白河,Hanzomon,Tokyo Metro,Z11,#8F76D6,1
+TOKYO_METRO_SUMIYOSHI,Sumiyoshi,住吉,Hanzomon,Tokyo Metro,Z12,#8F76D6,1
+TOKYO_METRO_KINSHICHO,Kinshicho,錦糸町,Hanzomon,Tokyo Metro,Z13,#8F76D6,1
+TOKYO_METRO_OSHIAGE,Oshiage,押上,Hanzomon,Tokyo Metro,Z14,#8F76D6,1
+TOKYO_METRO_MEGURO,Meguro,目黒,Namboku,Tokyo Metro,N01,#00AC9B,1
+TOKYO_METRO_SHIROKANEDAI,Shirokanedai,白金台,Namboku,Tokyo Metro,N02,#00AC9B,1
+TOKYO_METRO_SHIROKANE_TAKANAWA,Shirokane-takanawa,白金高輪,Namboku,Tokyo Metro,N03,#00AC9B,1
+TOKYO_METRO_AZABU_JUBAN,Azabu-juban,麻布十番,Namboku,Tokyo Metro,N04,#00AC9B,1
+TOKYO_METRO_ROPPONGI_ITCHOME,Roppongi-itchome,六本木一丁目,Namboku,Tokyo Metro,N05,#00AC9B,1
+TOKYO_METRO_TAMEIKE_SANNO,Tameike-sanno,溜池山王,Namboku,Tokyo Metro,N06,#00AC9B,1
+TOKYO_METRO_NAGATACHO,Nagatacho,永田町,Namboku,Tokyo Metro,N07,#00AC9B,1
+TOKYO_METRO_YOTSUYA,Yotsuya,四ツ谷,Namboku,Tokyo Metro,N08,#00AC9B,1
+TOKYO_METRO_ICHIGAYA,Ichigaya,市ケ谷,Namboku,Tokyo Metro,N09,#00AC9B,1
+TOKYO_METRO_IIDABASHI,Iidabashi,飯田橋,Namboku,Tokyo Metro,N10,#00AC9B,1
+TOKYO_METRO_KORAKUEN,Korakuen,後楽園,Namboku,Tokyo Metro,N11,#00AC9B,1
+TOKYO_METRO_TODAIMAE,Todaimae,東大前,Namboku,Tokyo Metro,N12,#00AC9B,0
+TOKYO_METRO_HON_KOMAGOME,Hon-komagome,本駒込,Namboku,Tokyo Metro,N13,#00AC9B,0
+TOKYO_METRO_KOMAGOME,Komagome,駒込,Namboku,Tokyo Metro,N14,#00AC9B,1
+TOKYO_METRO_NISHIGAHARA,Nishigahara,西ケ原,Namboku,Tokyo Metro,N15,#00AC9B,1
+TOKYO_METRO_OJI,Oji,王子,Namboku,Tokyo Metro,N16,#00AC9B,1
+TOKYO_METRO_OJI_KAMIYA,Oji-kamiya,王子神谷,Namboku,Tokyo Metro,N17,#00AC9B,0
+TOKYO_METRO_SHIMO,Shimo,志茂,Namboku,Tokyo Metro,N18,#00AC9B,0
+TOKYO_METRO_AKABANE_IWABUCHI,Akabane-iwabuchi,赤羽岩淵,Namboku,Tokyo Metro,N19,#00AC9B,1
+TOKYO_METRO_WAKOSHI,Wakoshi,和光市,Fukutoshin,Tokyo Metro,F01,#9C5E31,1
+TOKYO_METRO_CHIKATETSU,Chikatetsu,地下鉄成増,Fukutoshin,Tokyo Metro,F02,#9C5E31,1
+TOKYO_METRO_CHIKATETSU_AKATSUKA,Chikatetsu-akatsuka,地下鉄赤塚,Fukutoshin,Tokyo Metro,F03,#9C5E31,1
+TOKYO_METRO_HEIWADAI,Heiwadai,平和台,Fukutoshin,Tokyo Metro,F04,#9C5E31,1
+TOKYO_METRO_HIKAWADAI,Hikawadai,氷川台,Fukutoshin,Tokyo Metro,F05,#9C5E31,1
+TOKYO_METRO_KOTAKE_MUKAIHARA,Kotake-mukaihara,小竹向原,Fukutoshin,Tokyo Metro,F06,#9C5E31,1
+TOKYO_METRO_SENKAWA,Senkawa,千川,Fukutoshin,Tokyo Metro,F07,#9C5E31,1
+TOKYO_METRO_KANAMECHO,Kanamecho,要町,Fukutoshin,Tokyo Metro,F08,#9C5E31,1
+TOKYO_METRO_IKEBUKURO,Ikebukuro,池袋,Fukutoshin,Tokyo Metro,F09,#9C5E31,1
+TOKYO_METRO_ZOSHIGAYA,Zoshigaya,雑司が谷,Fukutoshin,Tokyo Metro,F10,#9C5E31,1
+TOKYO_METRO_NISHI_WASEDA,Nishi-waseda,西早稲田,Fukutoshin,Tokyo Metro,F11,#9C5E31,1
+TOKYO_METRO_HIGASHI_SHINJUKU,Higashi-shinjuku,東新宿,Fukutoshin,Tokyo Metro,F12,#9C5E31,1
+TOKYO_METRO_SHINJUKU_SANCHOME,Shinjuku-sanchome,新宿三丁目,Fukutoshin,Tokyo Metro,F13,#9C5E31,1
+TOKYO_METRO_KITA_SANDO,Kita-sando,北参道,Fukutoshin,Tokyo Metro,F14,#9C5E31,0
+TOKYO_METRO_MEIJI_JINGUMAE__HARAJUKU_,Meiji-jingumae (Harajuku),明治神宮前,Fukutoshin,Tokyo Metro,F15,#9C5E31,1
+TOKYO_METRO_SHIBUYA,Shibuya,渋谷,Fukutoshin,Tokyo Metro,F16,#9C5E31,1
+KEIO_CORP_SHINJUKU,Shinjuku,新宿,Keio Line,Keio Corp,K01,#E715D6,1
+KEIO_CORP_SASAZUKA,Sasazuka,笹塚,Keio Line,Keio Corp,K04,#E715D6,1
+KEIO_CORP_DAITABASHI,Daitabashi,代田橋,Keio Line,Keio Corp,K05,#E715D6,0
+KEIO_CORP_MEIDAIMAE,Meidaimae,明大前,Keio Line,Keio Corp,K06,#E715D6,1
+KEIO_CORP_SHIMO_TAKAIDO,Shimo-Takaido,下高井戸,Keio Line,Keio Corp,K07,#E715D6,1
+KEIO_CORP_SAKURAJOSUI,Sakurajosui,桜上水,Keio Line,Keio Corp,K08,#E715D6,0
+KEIO_CORP_KAMI_KITAZAWA,Kami-Kitazawa,上北沢,Keio Line,Keio Corp,K09,#E715D6,0
+KEIO_CORP_HACHIMANYAMA,Hachimanyama,八幡山,Keio Line,Keio Corp,K10,#E715D6,0
+KEIO_CORP_ROKA_KOEN,Roka-koen,芦花公園,Keio Line,Keio Corp,K11,#E715D6,0
+KEIO_CORP_CHITOSE_KARASUYAMA,Chitose-karasuyama,千歳烏山,Keio Line,Keio Corp,K12,#E715D6,0
+KEIO_CORP_SENGAWA,Sengawa,仙川,Keio Line,Keio Corp,K13,#E715D6,0
+KEIO_CORP_TSUTSUJIGAOKA,Tsutsujigaoka,つつじヶ丘,Keio Line,Keio Corp,K14,#E715D6,0
+KEIO_CORP_SHINBASAKI,Shinbasaki,柴崎,Keio Line,Keio Corp,K15,#E715D6,0
+KEIO_CORP_KOKURYO,Kokuryo,国領,Keio Line,Keio Corp,K16,#E715D6,0
+KEIO_CORP_FUDA,Fuda,布田,Keio Line,Keio Corp,K17,#E715D6,0
+KEIO_CORP_CHOFU,Chofu,調布,Keio Line,Keio Corp,K18,#E715D6,1
+KEIO_CORP_NISHI_CHOFU,Nishi-chofu,西調布,Keio Line,Keio Corp,K19,#E715D6,0
+KEIO_CORP_TOBITAKYU,Tobitakyu,飛田給,Keio Line,Keio Corp,K20,#E715D6,0
+KEIO_CORP_MUSASHINODAI,Musashinodai,武蔵野台,Keio Line,Keio Corp,K21,#E715D6,1
+KEIO_CORP_TAMA_REIEN,Tama-reien,多磨霊園,Keio Line,Keio Corp,K22,#E715D6,0
+KEIO_CORP_HIGASHI_FUCHU,Higashi-Fuchu,東府中,Keio Line,Keio Corp,K23,#E715D6,1
+KEIO_CORP_FUCHU,Fuchu,府中,Keio Line,Keio Corp,K24,#E715D6,0
+KEIO_CORP_BUBAIGAWARA,Bubaigawara,分倍河原,Keio Line,Keio Corp,K25,#E715D6,1
+KEIO_CORP_NAKAGAWARA,Nakagawara,中河原,Keio Line,Keio Corp,K26,#E715D6,1
+KEIO_CORP_SEISEKI_SAKURAGAOKA,Seiseki-sakuragaoka,聖蹟桜ヶ丘,Keio Line,Keio Corp,K27,#E715D6,0
+KEIO_CORP_MOGUSAEN,Mogusaen,百草園,Keio Line,Keio Corp,K28,#E715D6,0
+KEIO_CORP_TAKAHATAFUDO,Takahatafudo,高幡不動,Keio Line,Keio Corp,K29,#E715D6,1
+KEIO_CORP_MINAMIDAIRA,Minamidaira,南平,Keio Line,Keio Corp,K30,#E715D6,0
+KEIO_CORP_HIRAYAMAJOSHI_KOEN,Hirayamajoshi-koen,平山城址公園,Keio Line,Keio Corp,K31,#E715D6,0
+KEIO_CORP_NAGANUMA,Naganuma,長沼,Keio Line,Keio Corp,K32,#E715D6,1
+KEIO_CORP_KITANO,Kitano,北野,Keio Line,Keio Corp,K33,#E715D6,1
+KEIO_CORP_KEIO_HACHIOJI,Keio-hachioji,京王八王子,Keio Line,Keio Corp,K34,#E715D6,1
+KEIO_CORP_CHOFU,Chofu,調布,Keio Sagamihara,Keio Corp,K18,#E715D6,1
+KEIO_CORP_KEIO_TAMAGAWA,Keio-tamagawa,京王多摩川,Keio Sagamihara,Keio Corp,K35,#E715D6,1
+KEIO_CORP_KEIO_INADAZUTSUMI,Keio-inadazutsumi,京王稲田堤,Keio Sagamihara,Keio Corp,K36,#E715D6,1
+KEIO_CORP_KEIO_YOMIURI_LAND,Keio-yomiuri-land,京王よみうりランド,Keio Sagamihara,Keio Corp,K37,#E715D6,0
+KEIO_CORP_INAGI,Inagi,稲城,Keio Sagamihara,Keio Corp,K38,#E715D6,0
+KEIO_CORP_WAKABADAI,Wakabadai,若葉台,Keio Sagamihara,Keio Corp,K39,#E715D6,0
+KEIO_CORP_KEIO_NAGAYAMA,Keio-nagayama,永山,Keio Sagamihara,Keio Corp,K40,#E715D6,1
+KEIO_CORP_KEIO_TAMA_CENTER,Keio-tama-center,多摩センター,Keio Sagamihara,Keio Corp,K41,#E715D6,1
+KEIO_CORP_KEIO_HORINOUCHI,Keio-horinouchi,京王堀之内,Keio Sagamihara,Keio Corp,K42,#E715D6,1
+KEIO_CORP_MINAMI_OSAWA,Minami-osawa,南大沢,Keio Sagamihara,Keio Corp,K43,#E715D6,1
+KEIO_CORP_TAMASAKAI,Tamasakai,多摩境,Keio Sagamihara,Keio Corp,K44,#E715D6,1
+KEIO_CORP_HASHIMOTO,Hashimoto,橋本,Keio Sagamihara,Keio Corp,K45,#E715D6,1
+KEIO_CORP_KITANO,Kitano,北野,Keio Takao,Keio Corp,K33,#E715D6,0
+KEIO_CORP_KEIO_KATAKURA,Keio-katakura,京王片倉,Keio Takao,Keio Corp,K48,#E715D6,1
+KEIO_CORP_YAMADA,Yamada,山田,Keio Takao,Keio Corp,K49,#E715D6,0
+KEIO_CORP_MEJIRODAI,Mejirodai,めじろ台,Keio Takao,Keio Corp,K50,#E715D6,0
+KEIO_CORP_HAZAMA,Hazama,狭間,Keio Takao,Keio Corp,K51,#E715D6,0
+KEIO_CORP_TAKAO,Takao,高尾,Keio Takao,Keio Corp,K52,#E715D6,1
+KEIO_CORP_TAKAOSANGUCHI,Takaosanguchi,高尾山口,Keio Takao,Keio Corp,K53,#E715D6,0
+KEIO_CORP_SHINJUKU,Shinjuku,新宿,Keio New,Keio Corp,K01,#E715D6,1
+KEIO_CORP_HATSUDAI,Hatsudai,初台,Keio New,Keio Corp,K02,#E715D6,0
+KEIO_CORP_HATAGAYA,Hatagaya,幡ヶ谷,Keio New,Keio Corp,K03,#E715D6,0
+KEIO_CORP_SASAZUKA,Sasazuka,笹塚,Keio New,Keio Corp,K04,#E715D6,1
+KEIO_CORP_TAKAHATAFUDO,Takahatafudo,高幡不動,Keio Dobutsuen,Keio Corp,K29,#E715D6,1
+KEIO_CORP_TAMA_DOBUTSUKOEN,Tama-dobutsukoen,多摩動物公園,Keio Dobutsuen,Keio Corp,K47,#E715D6,1
+KEIO_CORP_HIGASHI_FUCHU,Higashi-Fuchu,東府中,Keio Keibajo,Keio Corp,K23,#E715D6,1
+KEIO_CORP_FUCHUKEIBA_SEIMOMMAE,Fuchukeiba-seimommae,府中競馬正門前,Keio Keibajo,Keio Corp,K46,#E715D6,0
+KEIO_CORP_SHIBUYA,Shibuya,渋谷,Keio Inokashira,Keio Corp,IN01,#0D197E,1
+KEIO_CORP_SHINSEN,Shinsen,神泉,Keio Inokashira,Keio Corp,IN02,#0D197E,0
+KEIO_CORP_KOMABA_TODAIMAE,Komaba-todaimae,駒場東大前,Keio Inokashira,Keio Corp,IN03,#0D197E,0
+KEIO_CORP_IKENOUE,Ikenoue,池ノ上,Keio Inokashira,Keio Corp,IN04,#0D197E,0
+KEIO_CORP_SHIMO_KITAZAWA,Shimo-kitazawa,下北沢,Keio Inokashira,Keio Corp,IN05,#0D197E,1
+KEIO_CORP_SHINDAITA,Shindaita,新代田,Keio Inokashira,Keio Corp,IN06,#0D197E,0
+KEIO_CORP_HIGASHI_MATSUBARA,Higashi-matsubara,東松原,Keio Inokashira,Keio Corp,IN07,#0D197E,0
+KEIO_CORP_MEIDAIMAE,Meidaimae,明大前,Keio Inokashira,Keio Corp,IN08,#0D197E,1
+KEIO_CORP_EIFUKUCHO,Eifukucho,永福町,Keio Inokashira,Keio Corp,IN09,#0D197E,0
+KEIO_CORP_NISHI_EIFUKU,Nishi-eifuku,西永福,Keio Inokashira,Keio Corp,IN10,#0D197E,0
+KEIO_CORP_HAMADAYAMA,Hamadayama,浜田山,Keio Inokashira,Keio Corp,IN11,#0D197E,0
+KEIO_CORP_TAKAIDO,Takaido,高井戸,Keio Inokashira,Keio Corp,IN12,#0D197E,0
+KEIO_CORP_FUJIMIGAOKA,Fujimigaoka,富士見ヶ丘,Keio Inokashira,Keio Corp,IN13,#0D197E,0
+KEIO_CORP_KUGAYAMA,Kugayama,久我山,Keio Inokashira,Keio Corp,IN14,#0D197E,0
+KEIO_CORP_MITAKADAI,Mitakadai,三鷹台,Keio Inokashira,Keio Corp,IN15,#0D197E,0
+KEIO_CORP_INOKASHIRA_KOEN,Inokashira-koen,井の頭公園,Keio Inokashira,Keio Corp,IN16,#0D197E,0
+KEIO_CORP_KICHIJOJI,Kichijoji,吉祥寺,Keio Inokashira,Keio Corp,IN17,#0D197E,1
+JR_EAST_MITAKA,Mitaka,三鷹,Chuo Sobu,JR East,JB01,#EBD728,1
+JR_EAST_KICHIJOJI,Kichijoji,吉祥寺,Chuo Sobu,JR East,JB02,#EBD728,1
+JR_EAST_NISHI_OGIKUBO,Nishi-ogikubo,西荻窪,Chuo Sobu,JR East,JB03,#EBD728,0
+JR_EAST_OGIKUBO,Ogikubo,荻窪,Chuo Sobu,JR East,JB04,#EBD728,1
+JR_EAST_ASAGAYA,Asagaya,阿佐ケ谷,Chuo Sobu,JR East,JB05,#EBD728,0
+JR_EAST_KOEJI,Koeji,高円寺,Chuo Sobu,JR East,JB06,#EBD728,0
+JR_EAST_NAKANO,Nakano,中野,Chuo Sobu,JR East,JB07,#EBD728,1
+JR_EAST_HIGASHI_NAKANO,Higashi-nakano,東中野,Chuo Sobu,JR East,JB08,#EBD728,1
+JR_EAST_OKUBO,Okubo,大久保,Chuo Sobu,JR East,JB09,#EBD728,1
+JR_EAST_SHINJUKU,Shinjuku,新宿,Chuo Sobu,JR East,JB10,#EBD728,1
+JR_EAST_YOYOGI,Yoyogi,代々木,Chuo Sobu,JR East,JB11,#EBD728,1
+JR_EAST_SENDAGAYA,Sendagaya,千駄ケ谷,Chuo Sobu,JR East,JB12,#EBD728,1
+JR_EAST_SHINANOMACHI,Shinanomachi,信濃町,Chuo Sobu,JR East,JB13,#EBD728,0
+JR_EAST_YOTSUYA,Yotsuya,四ツ谷,Chuo Sobu,JR East,JB14,#EBD728,1
+JR_EAST_ICHIGAYA,Ichigaya,市ケ谷,Chuo Sobu,JR East,JB15,#EBD728,1
+JR_EAST_IIDABASHI,Iidabashi,飯田橋,Chuo Sobu,JR East,JB16,#EBD728,1
+JR_EAST_SUIDOBASHI,Suidobashi,水道橋,Chuo Sobu,JR East,JB17,#EBD728,1
+JR_EAST_OCHANOMIZU,Ochanomizu,御茶ノ水,Chuo Sobu,JR East,JB18,#EBD728,1
+JR_EAST_AKIHABARA,Akihabara,秋葉原,Chuo Sobu,JR East,JB19,#EBD728,1
+JR_EAST_ASAKUSABASHI,Asakusabashi,浅草橋,Chuo Sobu,JR East,JB20,#EBD728,1
+JR_EAST_RYOGOKU,Ryogoku,両国,Chuo Sobu,JR East,JB21,#EBD728,1
+JR_EAST_KINSHICHO,Kinshicho,錦糸町,Chuo Sobu,JR East,JB22,#EBD728,1
+JR_EAST_KAMEIDO,Kameido,亀戸,Chuo Sobu,JR East,JB23,#EBD728,1
+JR_EAST_HIRAI,Hirai,平井,Chuo Sobu,JR East,JB24,#EBD728,0
+JR_EAST_SHIN_KOIWA,Shin-koiwa,新小岩,Chuo Sobu,JR East,JB25,#EBD728,0
+JR_EAST_KOIWA,Koiwa,小岩,Chuo Sobu,JR East,JB26,#EBD728,0
+JR_EAST_ICHIKAWA,Ichikawa,市川,Chuo Sobu,JR East,JB27,#EBD728,0
+JR_EAST_MOTO_YAWATA,Moto-yawata,本八幡,Chuo Sobu,JR East,JB28,#EBD728,1
+JR_EAST_SHIMOSA_NAKAYAMA,Shimosa-nakayama,下総中山,Chuo Sobu,JR East,JB29,#EBD728,0
+JR_EAST_NISHI_FUNABASHI,Nishi-funabashi,西船橋,Chuo Sobu,JR East,JB30,#EBD728,1
+JR_EAST_FUNABASHI,Funabashi,船橋,Chuo Sobu,JR East,JB31,#EBD728,1
+JR_EAST_HIGASHI_FUNABASHI,Higashi-funabashi,東船橋,Chuo Sobu,JR East,JB32,#EBD728,0
+JR_EAST_TSUDANUMA,Tsudanuma,津田沼,Chuo Sobu,JR East,JB33,#EBD728,1
+JR_EAST_MAKUHARIHONGO,Makuharihongo,幕張本郷,Chuo Sobu,JR East,JB34,#EBD728,1
+JR_EAST_MAKUHARI,Makuhari,幕張,Chuo Sobu,JR East,JB35,#EBD728,1
+JR_EAST_SHIN_KEMIGAWA,Shin-kemigawa,新検見川,Chuo Sobu,JR East,JB36,#EBD728,0
+JR_EAST_INAGE,Inage,稲毛,Chuo Sobu,JR East,JB37,#EBD728,0
+JR_EAST_NISHI_CHIBA,Nishi-chiba,西千葉,Chuo Sobu,JR East,JB38,#EBD728,0
+JR_EAST_CHIBA,Chiba,千葉,Chuo Sobu,JR East,JB39,#EBD728,1
+JR_EAST_TOKYO,Tokyo,東京,Yamanote,JR East,JB01,#42911E,1
+JR_EAST_KANDA,Kanda,神田,Yamanote,JR East,JB02,#42911E,1
+JR_EAST_AKIHABARA,Akihabara,秋葉原,Yamanote,JR East,JB03,#42911E,1
+JR_EAST_OKACHIMACHI,Okachimachi,御徒町,Yamanote,JR East,JB04,#42911E,1
+JR_EAST_UENO,Ueno,上野,Yamanote,JR East,JB05,#42911E,1
+JR_EAST_UGUISUDANI,Uguisudani,鶯谷,Yamanote,JR East,JB06,#42911E,1
+JR_EAST_NIPPORI,Nippori,日暮里,Yamanote,JR East,JB07,#42911E,1
+JR_EAST_NISHI_NIPPORI,Nishi-nippori,西日暮里,Yamanote,JR East,JB08,#42911E,1
+JR_EAST_TABATA,Tabata,田端,Yamanote,JR East,JB09,#42911E,1
+JR_EAST_KOMAGOME,Komagome,駒込,Yamanote,JR East,JB10,#42911E,1
+JR_EAST_SUGAMO,Sugamo,巣鴨,Yamanote,JR East,JB11,#42911E,1
+JR_EAST_OTSUKA,Otsuka,大塚,Yamanote,JR East,JB12,#42911E,1
+JR_EAST_IKEBUKURO,Ikebukuro,池袋,Yamanote,JR East,JB13,#42911E,1
+JR_EAST_MEJIRO,Mejiro,目白,Yamanote,JR East,JB14,#42911E,1
+JR_EAST_TAKADANOBABA,Takadanobaba,高田馬場,Yamanote,JR East,JB15,#42911E,1
+JR_EAST_SHIN_OKUBO,Shin-okubo,新大久保,Yamanote,JR East,JB16,#42911E,1
+JR_EAST_SHINJUKU,Shinjuku,新宿,Yamanote,JR East,JB17,#42911E,1
+JR_EAST_YOYOGI,Yoyogi,代々木,Yamanote,JR East,JB18,#42911E,1
+JR_EAST_HARAJUKU,Harajuku,原宿,Yamanote,JR East,JB19,#42911E,1
+JR_EAST_SHIBUYA,Shibuya,渋谷,Yamanote,JR East,JB20,#42911E,1
+JR_EAST_EBISU,Ebisu,恵比寿,Yamanote,JR East,JB21,#42911E,1
+JR_EAST_MEGURO,Meguro,目黒,Yamanote,JR East,JB22,#42911E,1
+JR_EAST_GOTANDA,Gotanda,五反田,Yamanote,JR East,JB23,#42911E,1
+JR_EAST_OSAKI,Osaki,大崎,Yamanote,JR East,JB24,#42911E,1
+JR_EAST_SHINAGAWA,Shinagawa,品川,Yamanote,JR East,JB25,#42911E,1

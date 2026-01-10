@@ -3,6 +3,8 @@
 
 import pandas as pd
 
+import re
+
 
 # 1. Define the Line Metadata (The "Rules" for your lines)
 line_metadata = {
@@ -531,15 +533,28 @@ raw_data = [
 
 ]
 
+
+# Function creates unique ids for all stations
+def make_station_id(owner, station_name):
+    clean_name = re.sub(r'[^A-Z0-9]', '_', station_name.upper())
+    clean_owner = re.sub(r'[^A-Z0-9]', '_', owner.upper())
+    return f"{clean_owner}_{clean_name}"
+
 # 3. Process the data into a list of dictionaries
 processed_data = []
-for entry in raw_data:
-    name, kanji, line, num, interchange = entry
+for name, kanji, line, num, interchange in raw_data:
+    line = line.strip() # prevents error from spaces in line
+    meta = line_metadata.get(line)  # Automatically pull metadata based on the line name
+
+    # Error checking
+    if meta is None: 
+        raise ValueError(f'Missing metadata for line: {line}')
     
-    # Automatically pull metadata based on the line name
-    meta = line_metadata.get(line)
-    
+
+    station_id = make_station_id(meta['owner'], name)
+
     processed_data.append({
+        'station_id':station_id,
         'station_name': name,
         'station_kanji': kanji,
         'line_name': line,
