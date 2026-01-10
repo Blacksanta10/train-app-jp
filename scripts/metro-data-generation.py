@@ -235,6 +235,7 @@ raw_data = [
     ['Minami-senju','南千住','Hibiya', '21', 1],
     ['Kita-senju','北千住','Hibiya', '22', 1],
 
+
     # Tozai Line (23 stations)
     ['Nakano', '中野', 'Tozai', '01', 1],
     ['Ochiai', '落合', 'Tozai', '02', 0],
@@ -412,7 +413,8 @@ raw_data = [
     ['Keio horinouchi', '京王堀之内','Keio Sagamihara', '42', 1],
     ['Minami-osawa', '南大沢','Keio Sagamihara', '43', 1],
     ['Tamasakai', '多摩境駅','Keio Sagamihara', '44', 1],
-    ['Hashimoto', '橋本','Keio Sagamihara', '45', 1],
+    ['Hashimoto', '調布','Keio Sagamihara', '45', 1],
+
 
     #Keio Takao Line (7 stations)
     ['Kitano','北野','Keio Takao','33',0],
