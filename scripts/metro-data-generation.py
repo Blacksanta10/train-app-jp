@@ -21,7 +21,20 @@ line_metadata = {
     'Asakusa': {'code_letter': 'A', 'color': '#EC6E65', 'owner': 'Toei'},
     'Mita': {'code_letter': 'I', 'color': '#006CB6', 'owner': 'Toei'},
     'Shinjuku': {'code_letter': 'S', 'color': '#B0C124', 'owner': 'Toei'},
-    'Oedo': {'code_letter': 'E', 'color': '#CE045B', 'owner': 'Toei'}
+    'Oedo': {'code_letter': 'E', 'color': '#CE045B', 'owner': 'Toei'},
+
+    # --- KEIO RAILWAY ---
+    'Keio Line' : {'code_letter': 'K', 'color': "#E715D6", 'owner': 'Keio Corp'},
+    'Keio Sagamihara' : {'code_letter': 'K', 'color': "#E715D6", 'owner': 'Keio Corp'},
+    'Keio Takao' : {'code_letter': 'K', 'color': "#E715D6", 'owner': 'Keio Corp'},
+    'Keio Inokashira' : {'code_letter': 'IN', 'color': "#E715D6", 'owner': 'Keio Corp'},
+    'Keio New' : {'code_letter': 'K', 'color': "#E715D6", 'owner': 'Keio Corp'},
+    'Keio Dobutsuen' : {'code_letter': 'K', 'color': "#E715D6", 'owner': 'Keio Corp'},
+    'Keio Keibajo' : {'code_letter': 'K', 'color': "#E715D6", 'owner': 'Keio Corp'},
+
+    # --- JR LINES ----
+    'Chuo Sobu' : {'code_letter': 'JB', 'color': "#EBD728", 'owner': 'JR East'},
+    'Yamanote' : {'code_letter': 'JB', 'color': "#42911E", 'owner': 'JR East'},
 }
 
 # 2. Your Station Data (The "Input")
@@ -352,16 +365,167 @@ raw_data = [
 
 ## Keio Railways
 
-    # All 7 Keio Lines
+    #Keio Line (32 stations)
+    ['Shinjuku','新宿', 'Keio Line','01',1],
+    ['Sasazuka','笹塚', 'Keio Line','04',1],
+    ['Daitabashi','代田橋', 'Keio Line','05',0],
+    ['Meidaimae','明大前', 'Keio Line','06',1],
+    ['Shimo-Takaido','桜上水', 'Keio Line','07',1],
+    ['Sakurajosui','新宿', 'Keio Line','08',0],
+    ['Kami-Kitazawa','上北沢', 'Keio Line','09',0],
+    ['Hachimanyama','八幡山', 'Keio Line','10',0],
+    ['Roka-koen','芦花公園', 'Keio Line','11',0],
+    ['Chitose-karasuyama','千歳烏山', 'Keio Line','12',0],
+    ['Sengawa','仙川', 'Keio Line','13',0],
+    ['Tsutsujigaoka','つつじヶ丘', 'Keio Line','14',0],
+    ['Shinbasaki','柴崎', 'Keio Line','15',0],
+    ['Kokuryo','国領', 'Keio Line','16',0],
+    ['Fuda','布田', 'Keio Line','17',0],
+    ['Chofu','調布', 'Keio Line','18',1],
+    ['Nishi-chofu','西調布', 'Keio Line','19',0],
+    ['Tobitakyu','飛田給', 'Keio Line','20',0],
+    ['Musashinodai','武蔵野台', 'Keio Line','21',1],
+    ['Tama-reien','多磨霊園', 'Keio Line','22',0],
+    ['Higashi-Fuchu','東府中', 'Keio Line','23',1],
+    ['Fuchu','府中', 'Keio Line','24',0],
+    ['Bubaigawara','分倍河原', 'Keio Line','25',1],
+    ['Nakagawara','中河原', 'Keio Line','26',1],
+    ['Seiseki-sakuragaoka','聖蹟桜ヶ丘', 'Keio Line','27',0],
+    ['Mogusaen','草園', 'Keio Line','28',0],
+    ['Takahatafudo','高幡不動', 'Keio Line','29',1],
+    ['Minamidaira','南平', 'Keio Line','30',0],
+    ['Hirayamajoshi-koen','平山城址公園', 'Keio Line','31',0],
+    ['Naganuma','長沼', 'Keio Line','32',1],
+    ['Kitano','北野', 'Keio Line','33',1],
+    ['Keio-hachioji','京王八王子', 'Keio Line','34',1],
+
+
+    # Keio Sagamihara Line (12 staions)
+    ['Chofu','調布','Keio Sagamihara', '18', 1],
+    ['Keio-tamagawa','京王多摩川','Keio Sagamihara','35', 1],
+    ['Keio-inadazutsumi','京王稲田堤','Keio Sagamihara', '36', 1],
+    ['Keio-yomiuri-land','京王よみうりランド','Keio Sagamihara', '37', 0],
+    ['Inagi','稲城','Keio Sagamihara', '38', 0],
+    ['Wakabadai', '若葉台','Keio Sagamihara', '39', 0],
+    ['Keio-nagayama', '永山','Keio Sagamihara', '40', 1],
+    ['Keio-tama-center', '多摩センター','Keio Sagamihara', '41', 1],
+    ['Keio horinouchi', '京王堀之内','Keio Sagamihara', '42', 1],
+    ['Minami-osawa', '南大沢','Keio Sagamihara', '43', 1],
+    ['Tamasakai', '多摩境駅','Keio Sagamihara', '44', 1],
+    ['Hashimoto', '調布','Keio Sagamihara', '45', 1],
+
+    #Keio Takao Line (7 stations)
+    ['Kitano','北野','Keio Takao','33',0],
+    ['Keio-katakura','京王片倉','Keio Takao','48',1],
+    ['Yamada','山田','Keio Takao','49',0],
+    ['Mejirodai','めじろ台','Keio Takao','50',0],
+    ['Hazama','狭間','Keio Takao','51',0],
+    ['Takao','高尾','Keio Takao','52',1],
+    ['Takaosanguchi','高尾山口','Keio Takao','53',0],
+
+    # Keio New Line (4 stations)
+    ['Shinjuku','新宿','Keio New', '01', 1],
+    ['Hatsudai','初台','Keio New', '02', 0],
+    ['Hatagaya','幡ヶ谷','Keio New', '03', 0],
+    ['Sasazuka','笹塚','Keio New', '04', 1],
+
+    # Keio Dobutsuen Line (2 stations)
+    ['Takahatafudo','高幡不動','Keio Dobutsuen','29',1],
+    ['Tama-dobutsukoen','多摩動物公園','Keio Dobutsuen','47',1],
+
+    # Keio Keibajo Line (2 stations)
+    ['Higashi-Fuchu','東府中','Keio Keibajo', '23',1],
+    ['Fuchukeiba-seimommae','府中競馬正門前','Keio Keibajo', '46',0],
+
+    # Keio Inokashira Line (17 stations)
+    ['Shibuya','渋谷','Keio Inokashira', '01', 1],
+    ['Shinsen','神泉','Keio Inokashira', '02', 0],
+    ['Komaba-todaimae','駒場東大前','Keio Inokashira', '03', 0],
+    ['Ikenoue','池ノ上','Keio Inokashira', '04', 0],
+    ['Shimo-kitazawa','下北沢','Keio Inokashira', '05', 1],
+    ['Shindaita','新代田','Keio Inokashira', '06', 0],
+    ['Higashi-matsubara','東松原','Keio Inokashira', '07', 0],
+    ['Meidaimae','明大前','Keio Inokashira', '08', 1],
+    ['Eifukucho','永福町','Keio Inokashira', '09', 0],
+    ['Nishi-eifuku','西永福','Keio Inokashira', '10', 0],
+    ['Hamadayama','浜田山','Keio Inokashira', '11', 0],
+    ['Takaido','高井戸','Keio Inokashira', '12', 0],
+    ['Fujimigaoka','富士見ヶ丘','Keio Inokashira', '13', 0],
+    ['Kugayama','久我山','Keio Inokashira', '14', 0],
+    ['Mitakadai','三鷹台','Keio Inokashira', '15', 0],
+    ['Inokashira-koen','井の頭公園','Keio Inokashira', '16', 0],
+    ['Kichijoji','吉祥寺','Keio Inokashira', '17', 1],
 
 
 # Other important --------------------------------------------------------
 
-    # Chuo Sobu Line 
+    # Chuo Sobu Line (39 stations)
+    ['Mitaka','三鷹','Chuo Sobu','01',1],
+    ['Kichijoji','吉祥寺','Chuo Sobu','02',1],
+    ['Nishi-ogikubo','西荻窪','Chuo Sobu','03',0],
+    ['Ogikubo','荻窪','Chuo Sobu','04',1],
+    ['Asagaya','阿佐ケ谷','Chuo Sobu','05',0],
+    ['Koeji','高円寺','Chuo Sobu','06',0],
+    ['Nakano','中野','Chuo Sobu','07',1],
+    ['Higashi-nakano','東中野','Chuo Sobu','08',1],
+    ['Okubo','大久保','Chuo Sobu','09',1],
+    ['Shinjuku','新宿','Chuo Sobu','10',1],
+    ['Yoyogi','代々木','Chuo Sobu','11',1],
+    ['Sendagaya','千駄ケ谷','Chuo Sobu','12',1],
+    ['Shinanomachi','信濃町','Chuo Sobu','13',0],
+    ['Yotsuya','四ツ谷','Chuo Sobu','14',1],
+    ['Ichigaya','市ケ谷','Chuo Sobu','15',1],
+    ['Iidabashi','飯田橋','Chuo Sobu','16',1],
+    ['Suidobashi','水道橋','Chuo Sobu','17',1],
+    ['Ochanomizu','御茶ノ水','Chuo Sobu','18',1],
+    ['Akihabara','秋葉原','Chuo Sobu','19',1],
+    ['Asakusabashi','浅草橋','Chuo Sobu','20',1],
+    ['Ryogoku','両国','Chuo Sobu','21',1],
+    ['Kinshicho','錦糸町','Chuo Sobu','22',1],
+    ['Kameido','亀戸','Chuo Sobu','23',1],
+    ['Hirai','平井','Chuo Sobu','24',0],
+    ['Shin-koiwa','新小岩','Chuo Sobu','25',0],
+    ['Koiwa','小岩','Chuo Sobu','26',0],
+    ['Ichikawa','市川','Chuo Sobu','27',0],
+    ['Moto-yawata','本八幡','Chuo Sobu','28',1],
+    ['Shimosa-nakayama','下総中山','Chuo Sobu','29',0],
+    ['Nishi-funabashi','西船橋','Chuo Sobu','30',1],
+    ['Funabashi','船橋','Chuo Sobu','31',1],
+    ['Higashi-funabashi','東船橋','Chuo Sobu','32',0],
+    ['Mitaka','津田沼','Chuo Sobu','33',1],
+    ['Mitaka','幕張本郷','Chuo Sobu','34',1],
+    ['Mitaka','幕張','Chuo Sobu','35',1],
+    ['Mitaka','新検見川','Chuo Sobu','36',0],
+    ['Mitaka','稲毛','Chuo Sobu','37',0],
+    ['Mitaka','西千葉','Chuo Sobu','38',0],
+    ['Mitaka','千葉','Chuo Sobu','39',1],
 
-    # Yamanote Line
-
-
+    # Yamanote Line (25 stations)
+    ['Tokyo','東京','Yamanote','01',1],
+    ['Kanda','神田','Yamanote','02',1],
+    ['Akihabara','秋葉原','Yamanote','03',1],
+    ['Okachimachi','御徒町','Yamanote','04',1],
+    ['Ueno','上野','Yamanote','05',1],
+    ['Uguisudani','鶯谷','Yamanote','06',1],
+    ['Nippori','日暮里','Yamanote','07',1],
+    ['Nishi-nippori','西日暮里','Yamanote','08',1],
+    ['Tabata','田端','Yamanote','09',1],
+    ['Komagome','駒込','Yamanote','10',1],
+    ['Sugamo','巣鴨','Yamanote','11',1],
+    ['Otsuka','大塚','Yamanote','12',1],
+    ['Ikebukuro','池袋','Yamanote','13',1],
+    ['Mejiro','目白','Yamanote','14',1],
+    ['Takadanobaba','高田馬場','Yamanote','15',1],
+    ['Shin-okubo','新大久保','Yamanote','16',1],
+    ['Shinjuku','新宿','Yamanote','17',1],
+    ['Yoyogi','代々木','Yamanote','18',1],
+    ['Harajuku','原宿','Yamanote','19',1],
+    ['Shibuya','渋谷','Yamanote','20',1],
+    ['Ebisu','恵比寿','Yamanote','21',1],
+    ['Meguro','目黒','Yamanote','22',1],
+    ['Gotanda','五反田','Yamanote','23',1],
+    ['Osaki','大崎','Yamanote','24',1],
+    ['Shinagawa','品川','Yamanote','25',1],
 
 ]
 
