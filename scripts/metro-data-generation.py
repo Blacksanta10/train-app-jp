@@ -551,6 +551,6 @@ for entry in raw_data:
 
 # 4. Convert to DataFrame and Save to CSV
 df = pd.DataFrame(processed_data)
-df.to_csv('tokyo_subway_dataset.csv', index=False, encoding='utf-8-sig')
+df.to_csv('data/tokyo_subway_dataset.csv', index=False, encoding='utf-8-sig')
 
 print("Dataset created successfully!")

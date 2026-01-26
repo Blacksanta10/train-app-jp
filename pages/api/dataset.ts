@@ -40,7 +40,7 @@ export default function handler(
   req: NextApiRequest,
   res: NextApiResponse<DataRow[]>
 ) {
-  const filePath = path.join(process.cwd(), "public/data/shinkansen.csv");
+  const filePath = path.join(process.cwd(), "data/shinkansen.csv");
 
   // Read the csv file data into memory
   const fileContent = fs.readFileSync(filePath, "utf8");
