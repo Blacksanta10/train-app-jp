@@ -18,13 +18,16 @@ export default function HomePage() {
         </p>
         
         <div className="flex gap-3">
+          <h1> Honestly Tokyo is fire lol  </h1>
+        </div>
+        {/* <div className="flex gap-3">
           <button className="bg-black text-white px-6 py-3 rounded font-medium hover:bg-slate-800 transition">
             Get Started
           </button>
           <button className="border border-slate-200 px-6 py-3 rounded font-medium hover:bg-slate-50 transition">
             Learn More
           </button>
-        </div>
+        </div> */}
       </section>
 
 

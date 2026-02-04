@@ -44,7 +44,7 @@ export default function ExplorerPage() {
         <header className="mb-10">
           <h1 className="text-3xl font-bold text-slate-900">Station Explorer</h1>
           <p className="mt-2 text-slate-600">
-            Search and filter through the Tokyo transit network database.
+            Search and filter through the Tokyo transit network.
           </p>
         </header>
 
@@ -53,7 +53,7 @@ export default function ExplorerPage() {
           <div className="relative flex-grow">
             <input
               type="text"
-              placeholder="Search by name, code, or line..."
+              placeholder="Search by station name, code, or train line..."
               className="w-full bg-white border border-slate-200 rounded-lg px-4 py-3 shadow-sm focus:ring-2 focus:ring-blue-500 focus:border-transparent outline-none transition"
               value={query}
               onChange={(e) => {
