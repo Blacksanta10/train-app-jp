@@ -27,22 +27,30 @@ project-root/
 │── app/
       |── page2/
             |── page.tsx
+      |── page3/
+            |── page.tsx
       |── popup-map/
             |── page.tsx
       |── global.css
       |── layout.tsx
       |── page.tsx
 │── components/
+      |── DataTable_2.tsx
       |── DataTable.tsx
+      |── FilteredTable.tsx
       |── MapPopupButton.tsx
       |── logo.tsx
       |── navbar.tsx
 │── pages/
       |── api/
               |── dataset.ts
+              |── dataset_2.ts
+|── data/
+      |── shinkansen.csv
+      |── tokyo_subway_dataset.csv
+|── scripts/
+      |── metro-data-generation.py
 |── public/
-      |── data/
-              |── shinkansen.csv
       |── images/
               |── shinkansen-transit.png
 │── README.md
