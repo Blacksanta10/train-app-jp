@@ -63,7 +63,7 @@ export default function RootLayout({
           <NavbarSection>
             <NavbarItem href="/">Home</NavbarItem>
             <NavbarItem href="/page2">Shinkansen</NavbarItem>
-            <NavbarItem href="/orders">Tokyo-Area</NavbarItem>
+            <NavbarItem href="/page3">Tokyo-Area</NavbarItem>
           </NavbarSection>
         </Navbar>
 

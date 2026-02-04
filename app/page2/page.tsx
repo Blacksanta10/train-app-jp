@@ -2,7 +2,7 @@
  * 2nd Page (client component)
  * 
  * Purpose: 
- * Serves as the main UI entry point for the app
+ * Serves as Page number 2
  * 
  * Responsibilities:
  * - Manages client-side state (search query + dataset)
